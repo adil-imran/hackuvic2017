@@ -12,6 +12,7 @@ import glob
 
 import pickle
 from sklearn.externals import joblib
+from sklearn.pipeline import Pipeline
 
 # Code_1 for violent Categories      -  0
 # Code_2 for non-violent Categories  -  1
@@ -34,13 +35,14 @@ class ArticleClassifier(object):
         # load the vectorizer if exists
         if os.path.isfile('tdif.pkl') :
             self.cv =joblib.load('tdif.pkl')
+            self.cv._validate_vocabulary()
         else:
             self.cv = TfidfVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =False,max_features =70)
             joblib.dump(self.cv, 'tdif.pkl')
 
         # load the classfier If exists
-        if os.path.isfile('classifer.pkl'):
-            self.clf =joblib.load('classifer.pkl')
+        if os.path.isfile('classifier.pkl'):
+            self.clf =joblib.load('classifier.pkl')
         else:
             self.loadData()
             self.trainData()
@@ -63,9 +65,15 @@ class ArticleClassifier(object):
         self.clf = self.clf.fit(self.train_data_X, self.train_data_Y)
 
         # save classifer
-        joblib.dump(self.clf, 'classifer.pkl')
+        joblib.dump(self.clf, 'classifier.pkl')
 
         print "Accuracy Score :", self.clf.score(self.test_data_X,self.test_data_Y)
+
+        if os.path.isfile('dft_clf.pkl'):
+            pass
+        else:
+            vec_clf = Pipeline([('tfvec', self.cv), ('rft', self.clf)])
+            _ = joblib.dump(vec_clf, 'dft_clf.pkl', compress=9)
 
 
 
@@ -92,14 +100,6 @@ class ArticleClassifier(object):
 
     # expect list of articles
     # returns - list 0 or 1; 0=Non-safe and 1=safe
-    def classify(self, articleText):
-        X = self.cv.transform(articleText)
-        out = self.clf.predict(X)
-
-        return out
-
-
-
-
-
-
+    def classify(self,articleText):
+        clf = joblib.load('dft_clf.pkl')
+        return clf.predict(x)
