@@ -12,13 +12,13 @@
 
 	<div class="container">
 		<ul class="nav nav-tabs nav-justified">
-			<li class="active"><a href="#A">Menu 1</a></li>
-			<li><a href="#B">Menu 2</a></li>
-			<li><a href="#C">Menu 3</a></li>
+			<li class="active"><a href="#A">Recent News</a></li>
+			<li><a href="#B">Create</a></li>
+			<li><a href="#C">Classify</a></li>
 		</ul>
 		<div class="tab-content">
 			<div id="A" class="tab-pane fade in active">
-				<h1>Non-Violent News</h1>
+				<h1>Safe Space News</h1>
 				<div class="row">
 					<div class="col-lg-12">
 						<ul class="media-list main-list">
@@ -50,10 +50,22 @@
 				</div>
 			</div>
 			<div id="B" class="tab-pane fade">
-				<h1>Menu 2</h1>
+				<h1>Create PDF</h1>
+				<button type="button" class="btn btn-primary btn-lg">Create Newspaper</button>
 			</div>
 			<div id="C" class="tab-pane fade">
-				<h1>Menu 3</h1>
+				<h1>Classify Article</h1>
+				<form class="form-inline" id="form">
+					<div class="form-group">
+						<label for="url">URL:</label>
+						<input type="url" class="form-control" id="url">
+					</div>
+					<button type="submit" class="btn btn-default btn-lg">Submit</button>
+				</form>
+				<div id="class-label">
+				</div>
+				<iframe id="iframe" style="width:100%; height:800px;">
+				</iframe>
 			</div>
 		</div>
 		
@@ -68,6 +80,32 @@
 		$(document).ready(function(){
 		    $(".nav-tabs a").click(function(){
 		        $(this).tab('show');
+		    });
+
+		    $("#form").submit(function() {
+		    	var url = $("#url").val();
+		    	$.ajax({
+		    		type: "POST",
+		    		url: "/get",
+		    		dataType: 'json',
+		    		data: {url: url}
+		    	}).done(function(data) {
+
+		    		var $iframe = $('#iframe');
+		    		$iframe.ready(function() {
+		    			$iframe.contents().find("body").append(data.html);
+		    		});
+
+		    		var $classLabel = $("#class-label");
+		    		$classLabel.ready(function() {
+			    		if (data.class == 0) {
+		    				$classLabel.html('<span class="label label-danger" style="width:100%;display:inline-block;">Violent!</span>');
+			    		} else {
+			    			$classLabel.html('<span class="label label-success" style="width:100%;display:inline-block;">Non-Violent</span>');
+			    		}
+			    	});
+
+		    	});
 		    });
 		});
 	</script>
