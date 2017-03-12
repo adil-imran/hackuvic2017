@@ -31,7 +31,7 @@ def readData(files_location):
 
         for file_name in files_paths:
             X.append(readFileFromLine(file_name,3))
-            Y.append(category)
+            Y.append(category+1)
     return X, Y
 
 def getData(path):
@@ -56,14 +56,14 @@ test_data_X, test_data_Y =  readData(test_file_loc)
 
 # cv = CountVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =True,max_features =70)
 cv = TfidfVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =False,max_features =70)
+train_data_X = cv.fit_transform(train_data_X).toarray()
+test_data_X = cv.fit_transform(test_data_X).toarray()
 
 '''
-train_data_X = cv.fit_transform(train_data_X).toarray()
 
 clf = DecisionTreeClassifier(max_depth=5)
 clf = clf.fit(train_data_X, train_data_Y)
 
-test_data_X = cv.fit_transform(test_data_X).toarray()
 print "DecisionTreeClassifier score :", clf.score(test_data_X,test_data_Y)
 '''
 
@@ -74,6 +74,35 @@ clf = clf.fit(train_data_X, train_data_Y)
 
 # test_data_X = cv.fit_transform(test_data_X).toarray()
 print "RandomForestClassifier score :", clf.score(test_data_X,test_data_Y)
+
+print "Testing the Classifier . . ."
+# /Users/abhi/Documents/hack2017/hackuvic2017/violent.txt
+
+violentFile = '/Users/abhi/Documents/hack2017/hackuvic2017/violent.txt'
+nonviolentFile = '/Users/abhi/Documents/hack2017/hackuvic2017/nonviolent.txt'
+
+nv1 = '/Users/abhi/Documents/hack2017/hackuvic2017/nv1.txt'
+
+fileText = readFileFromLine(nv1,0)
+
+Reddit_articles = []
+Reddit_articles.append(fileText)
+
+X = cv.transform(Reddit_articles)
+
+out =clf.predict(X)
+print out
+
+
+
+
+
+
+
+
+
+
+
 
 
 
