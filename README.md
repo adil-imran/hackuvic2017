@@ -1,7 +1,14 @@
 # hackuvic2017
 we make great things!
 
-## Get the source
+## Setup 
+
+### Install the dependencies 
+
+- newspaper
+- ...
+
+### Get the source
 
 Get the source and use a virtualenv
 
@@ -12,7 +19,7 @@ cd hackuvic2017
 virtualenv venv
 ```
 
-## Running the app 
+### Running the app 
 
 ```
 flask initdb 
