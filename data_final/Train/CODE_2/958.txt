@@ -1,0 +1,48 @@
+http://www.bloomberg.com/news/articles/2016-09-23/yahoo-tipped-off-to-hack-by-report-of-data-dump-on-dark-web
+20
+2
+Verizon says it was alerted to incident within last two days
+
+In July, Yahoo! Inc. received a report of a hacker claiming to have 280 million user account credentials for sale on the black market. An initial investigation found no evidence to back that up, according to a person familiar with the probe.
+
+Claims like these are common nowadays. However, Yahoo decided to conduct a deeper, separate investigation and, piece by piece, the company slowly accumulated evidence of an even larger breach. Earlier this week, the person said there was enough evidence to tell Verizon Communications Inc., which had agreed to buy Yahoo’s web assets for $4.83 billion on July 25. The person asked for anonymity to discuss internal findings.
+
+In a statement Thursday, Yahoo shared the news with its users and the rest of the world. The personal information of at least 500 million users was stolen in an attack on its accounts from 2014, about two years earlier, exposing a wide swath of its roughly 1 billion users. The attacker was a “state-sponsored actor,” and stolen information may include names, e-mail addresses, phone numbers, dates of birth, encrypted passwords and, in some cases, un-encrypted security questions and answers, Yahoo said.
+
+“Aside from the sheer scale of this breach which impacts half a billion users, what consumers need to be most concerned about is how long it took Yahoo to either discover or disclose this breach," Usman Choudhary, chief product officer at ThreatTrack Security, wrote in an e-mail. "For nearly two years their data has been exposed, and it has been putting them at risk."
+
+The continuing investigation doesn’t indicate theft of payment card data or bank account information, or unprotected passwords, the company said. Affected users are being notified, accounts are being secured, and there’s no evidence the attacker is still in the network, Yahoo also said.
+
+“Yahoo is working closely with law enforcement on this matter,” the company said in the statement. “Online intrusions and thefts by state-sponsored actors have become increasingly common across the technology industry.”
+
+The company encouraged users to review their accounts for suspicious activity, change their password and security questions, and take similar steps for other online accounts where they use the same or similar information.
+
+Sensitive Time
+
+The disclosure of the data theft comes at a particularly sensitive time for Chief Executive Officer Marissa Mayer, as she looks to close the Verizon acquisition by early next year. Mayer, who has dealt with difficulties and complaints about Yahoo’s e-mail service in the past, needs to keep users logging in to drive traffic and draw the advertising that fuels the company’s revenue growth, which has been sluggish under her leadership.
+
+Verizon said it was notified of the incident within the last two days.
+
+"We understand that Yahoo is conducting an active investigation of this matter, but we otherwise have limited information and understanding of the impact," Verizon wrote in an e-mailed statement. "We will evaluate as the investigation continues through the lens of overall Verizon interests, including consumers, customers, shareholders and related communities."
+
+Mayer’s handling of security issues in 2014 dismayed at least one senior executive, according to technology blog Recode. Former Yahoo information security head Alex Stamos tried to get management to act more strongly at the time, but was unsuccessful, Recode reported earlier Thursday. Stamos left for Facebook Inc. the following year. "Under Marissa’s leadership at Yahoo, we’ve worked hard to ensure that our information infrastructure is more secure than ever," a Yahoo spokeswoman said.
+
+In Europe, the new report raised concerns among privacy watchdogs. The “vast number of people affected by this cyberattack is staggering and demonstrates just how severe the consequences of a security hack can be,” U.K. Information Commissioner Elizabeth Denham said in a statement.
+
+Disclosure Speed
+
+While Yahoo learned in July about a possible breach, it’s common for investigations to take weeks or longer as forensics experts sift through computer logs and government agencies comb databases of internet traffic for signs of computers communicating with known bad actors.
+
+Deciding when to disclose a breach is a process driven heavily by companies’ legal departments, which weigh state laws about what to disclose and when. Companies typically disclose only the data they can prove was taken. That’s a daunting task when dealing with advanced adversaries who can easily delete records of where inside Yahoo’s network they were and which computer servers they used to remove data.
+
+If Yahoo’s delay in discovering and reporting the hack is common, what’s unusual is the size of the breach. It’s easy to miss an initial intrusion. Not spotting a huge leak of prized assets, such as details on half a billion profiles, is a major failure, some security experts said.
+
+Yahoo may have relied on older "perimeter" defenses, which miss the fact that once hackers are inside a corporate network they are "trusted and in a position to wreak havoc," Tom Patterson, vice president of global security solutions at Unisys Corp., wrote in an e-mail.
+
+Two other people familiar with the Yahoo investigation said the link to a nation state is not iron-clad. And Yahoo has yet to disclose the evidence on which it is basing the link to a nation state.
+
+Claiming a hack was launched by a foreign government is the ultimate get-out-of-jail-free card for embarrassed corporate executives. As Bloomberg News previously reported, senior leaders at JPMorgan Chase & Co. lobbied the White House and various federal agencies to attribute a hacking attack against the bank in 2014 as being sponsored by Russia, but the FBI disagreed, and later filed criminal charges linking the breach to a stock pump-and-dump scheme, although there remained debate in the intelligence community about a possible government link.
+
+Exclusive insights in your inbox, from our technology reporters around the world. Get Fully Charged, from Bloomberg Technology. Business Your guide to the most important business stories of the day, every day. You will now receive the Business newsletter Politics The latest political news, analysis, charts, and dispatches from the campaign trail. You will now receive the Politics newsletter Markets The most important market news of the day. So you can sleep an extra five minutes. You will now receive the Markets newsletter Pursuits The coolest cars to drive, the latest gadgets to ogle, the hottest places to travel. You will now receive the Pursuits newsletter Game Plan The school, work and life hacks you need to get ahead. You will now receive the Game Plan newsletter Yahoo said in August it was investigating claims that a hacker was offering to sell user account details. The same hacker, who previously sold data taken from LinkedIn and MySpace, posted information from 200 million Yahoo accounts on a dark web marketplace, Motherboard reported in early August. The stolen information being offered was most likely from 2012, Motherboard reported, citing the hacker, who uses the name Peace.
+
+"All of this compromised information is very useful for criminals in order to hijack user identities and use them for fraudulent purposes," said Avivah Litan, an analyst with Gartner. "Identity impersonation has become a global criminal epidemic and there are no simple solutions

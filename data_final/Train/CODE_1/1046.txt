@@ -1,0 +1,64 @@
+http://usa.onlinenigeria.com/news/156135-computers-can-now-keep-secrets-google-s-neural-network-is-learning-to-encrypt-its-own-messages.html
+130
+13
+But after practicing, Bob was much more successful in reading the text
+
+At first Bob and Eve showed a similar ability to decipher Alice's messages
+
+They created networks Alice and Bob, who had to hide a message from Eve
+
+By Abigail Beall For Mailonline
+
+Published: 09:10 EST, 27 October 2016 | Updated: 09:21 EST, 27 October 2016
+
+Experts like Professor Stephen Hawking and Elon Musk have warned of the dangers of artificial intelligence becoming too smart and turning against humanity.
+
+Now it seems a team at Google has brought computing another step towards this nightmare becoming a reality, by teaching its networks to keep secrets.
+
+The computer systems have learn how to protect their messages away from prying eyes.
+
+Ateam at Google has taught its networks to keep secrets. The computer systems have learn how to protect their messages away from prying eyes
+
+COMPUTER CAN TELL WHO YOU ARE THINKING ABOUT Reading minds is an ability only found in comic book heroes. But new research has revealed that computers can now analyse brain scans and work out who a person is thinking about. The AI system can even create a digital portrait of the face in question. Researchers at the Kuhl Lab at the University of Oregon used an innovative form of fMRI pattern analysis to test whether lateral parietal cortex actively represents the contents of memory. Using a large set of human face images, the first extracted latent face components, known as eigenfaces. Then machine learning algorithms were used to predict face components from fMRI activity patterns and reconstruct images of individual faces in digital portraits.
+
+Researchers from the Google Brain team, Martin Abadi and David Andersen, published a paper showing how computer networks can work out how to use a simple encryption technique.
+
+The Google research group specialises in the area of deep learning, using huge amounts of data.
+
+The computing system was designed based on the way neurons work in the brain, a type of computer called a 'neural network'.
+
+In a paper published on the preprint server arXiv, the researchers said:
+
+'We ask whether neural networks can learn to use secret keys to protect information from other neural networks.
+
+'Specifically, we focus on ensuring confidentiality properties in a multiagent system, and we specify those properties in terms of an adversary.'
+
+The team created a system that 'may consist of neural networks named Alice and Bob, and we aim to limit what a third neural network named Eve learns from eavesdropping on the communication between Alice and Bob,' they said.
+
+Alice, Bob and Eve are names computer scientists and physicists always use to name parts of their experiments.
+
+To make sure the message remained secret, the network named Alice had to convert her original plain-text message into something unintelligible.
+
+This meant anyone who intercepted it, including Eve, would not be able to understand the message.
+
+This 'cipher text' had to be decipherable by Bob, but nobody else.
+
+At first the networks were not good at hiding the messages, but after some practice they got better and were able to hide the messages from Eve.
+
+This is a big step, the researchers said, because neural networks, or 'neural nets', were not designed to be good at encryption.
+
+At first the networks were not good at hiding the messages, but after some practice they got better and were able to hide the messages from Eve while Bob deciphered them with no errors, after around 15,000 attempts (pictured)
+
+NIGHTMARE MACHINE Scientists at MIT have developed a system that is trying to find the scariest image out there. Dubbed the 'Nightmare Machine' the algorithm created by the team is making photographs of famous landmarks appear scary. In another part of the spooky research, the AI system learns what makes images frightening using feedback from humans. Every time a vote is cast, the AI learns more about what humans consider a scary image.
+
+'Computing with neural nets on this scale has only become possible in the last few years, so we really are at the beginning of what's possible,' Joe Sturonas of encryption company PKWARE in Milwaukee, who was not involved in the research, told New Scientist.
+
+Just last week, Professor Stephen Hawking warned artificial intelligence could develop a will of its own that is in conflict with that of humanity.
+
+It could herald dangers like powerful autonomous weapons and ways for the few to oppress the many, he said, as he called for more research in the area.
+
+But if sufficient research is done to avoid the risks, it could help in humanity's aims to 'finally eradicate disease and poverty', he added.
+
+Scientists at MIT have developed a system that is trying to find the scariest image out there. Dubbed the 'Nightmare Machine' the algorithm created by the team is making photographs of famous landmarks appear scary like the Eiffel Tower, pictured
+
+Professor Hawking warned that AI could herald dangers like powerful autonomous weapons and ways for the few to oppress the many (like the plot of Terminator, pictured)

@@ -1,0 +1,48 @@
+http://www.reuters.com/article/us-st-jude-medical-batteries-idUSKCN12B199
+60
+6
+St. Jude Medical Inc (STJ.N) on Tuesday said it would recall some of its 400,000 implanted heart devices due to risk of premature battery depletion, a condition linked to two deaths in Europe.
+
+The devices shock dangerously racing heartbeats back to their normal rhythm or to treat heart failure. All the devices, called ICDs and CRT-Ds, contain batteries that were manufactured before May 23, 2015, when the company added insulation to reduce the chance of an electrical short circuit.
+
+"There have been two deaths that have been associated with the loss of defibrillation therapy as a result of premature battery depletion," St. Jude's vice president of quality control, Jeff Fecho, said in an advisory to physicians on Tuesday.
+
+The devices were introduced in 2010 and are meant to last for seven years or longer, until their batteries are depleted, the company said. They are designed to vibrate at regular intervals once power is diminished, a signal to patients that they should visit their doctors for replacements within 90 days. In addition, a home monitoring unit wirelessly reads the battery level and other information and routinely sends details to doctors.
+
+The company said one of the patients died after his vibration signal indicated low power, but a few days before his planned replacement.
+
+The company said the recall is not expected to have a material financial impact on the company, although many patients are expected to visit their doctors and some could request early replacements.
+
+St. Jude said 841 devices had been returned to the company for analysis due to premature battery depletion, traced to a build-up of lithium clusters in the batteries.
+
+Mark Carlson, medical officer of St. Jude, said in an interview the company's advisory board of physicians has strongly recommended that most patients not seek prophylactic replacements "because the risk associated with replacing the devices outweighs the low risk of a patient problem occurring."
+
+News of the issue surfaced late on Monday when short-selling firm Muddy Waters tweeted a copy of a physician advisory from St. Jude, which agreed in April to sell itself for $25 billion to Abbott Laboratories (ABT.N).
+
+The letter said problems with the lithium batteries were rare and could be identified by patients using tools for monitoring battery levels at home.
+
+Patients should seek immediate medical attention as soon as they get a low-battery alert from the monitoring devices, the U.S. Food and Drug Administration said, in announcing the recall.
+
+"Hospitals should immediately remove any unused devices affected by this recall, and contact the manufacturer to receive corrected devices," the FDA said.
+
+Wedbush Securities analyst Tao Levy said the recall would likely cost St. Jude no more than "a few million dollars" because relatively few patients will need early replacements and devices now being sold have improved and reliable batteries.
+
+St. Jude's shares fell 3.5 percent, while Abbott's declined 5.4 percent. Abbott said it still expects to close the St. Jude deal this year.
+
+The recall comes as St. Jude is defending itself against unrelated allegations that its heart devices are riddled with defects that make them vulnerable to cyber hacks.
+
+Those claims were made by Muddy Waters and research firm MedSec Holdings. St. Jude has denied the allegations and sued both firms.
+
+The FDA said on Tuesday its investigation into the cyber security vulnerabilities of the devices, including the Merlin@Home monitoring system, was continuing.
+
+"Despite the allegations, at this time, the FDA strongly recommends that the Merlin@Home device be used to monitor the battery for these affected devices because the benefits of continued patient monitoring and the life-saving therapy these devices provide greatly outweighs any potential cybersecurity vulnerabilities," the FDA said in a statement.
+
+Battery-depletion recalls or advisories have been issued in the past two years by Boston Scientific Corp (BSX.N) and Medtronic Plc (MDT.N), with no visible impact on company businesses, according to Barclays analyst Matt Taylor.
+
+Medtronic in November recalled three models of its InSync III pacemakers due to battery problems, but overall company pacer sales continued to grow sharply thanks to newer products, Taylor said.
+
+Boston Scientific in September 2014 alerted doctors of potential battery-life problems with two ICDs, and recommended that patients upgrade their software.
+
+St. Jude advised patients to check its website for details on which devices were affected by the battery issue. (www.sjm.com/batteryadvisory).
+
+(Reporting by Jim Finkle in Boston, Ransdell Pierson in New York and Ankur Banerjee and Natalie Grover in Bengaluru; Editing by Nick Zieminski and Lisa Shumaker)

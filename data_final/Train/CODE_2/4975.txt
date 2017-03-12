@@ -1,0 +1,96 @@
+http://www.huffingtonpost.com/michael-p-mcdonald/early-voting-more-states_b_12517738.html
+84
+8
+Jim Young / Reuters
+
+Another week of early voting has passed and at least 1.4 million people have cast their ballots. More states are coming online, and patterns are beginning to emerge across the country that generally confirm the polling and campaign activities.
+
+Again, my disclaimer: These are still early hints of the direction of the election. There is still much time left in the election, and these numbers can be affected by how election officials run the election, campaign strategies to mobilize voters, and voters' behaviors. We'll see a little of all three in this week's update.
+
+That said, here's the bottom line.
+
+In the Southern states of Florida, North Carolina, and Virginia, Hillary Clinton is poised to do better than Barack Obama did in 2012. This is apparent in the polling and early voting numbers.
+
+In the Midwestern states of Iowa and Ohio, Donald Trump is poised to do better than Mitt Romney did in 2012. This again is apparent in the polling and early voting numbers.
+
+A time traveler from 2000 would probably be as shocked to learn that the most likely 2016 Democratic pathway to victory runs not through the Midwest, but instead through the Southeastern seaboard, as they would to learn that the Cubs would play Miami in the 2015 World Series (okay, so that didn't happen).
+
+Gender
+
+In two states - Georgia and North Carolina - I have individual level data that permits me to examine how early voting activity by gender has been affected by the events that unfolded following the first presidential debate on Monday, September 26. Absentee ballot requests lag events. Although some states and localities have online portals to request ballots, often requests work at the speed of the post office as request forms are mailed from voters to election officials, who then enter the request into their election management systems.
+
+In Georgia and North Carolina, there was a surge of women requesting absentee ballots towards the end of the week of the first presidential debate. In Georgia, the surge began on Thursday and in North Carolina the surge began on Friday, and in both states it persisted through the following week. The percentage of women among those requesting absentee ballots peaked to their highest levels in the week from Monday, October 3 through Sunday, October 9. In Georgia, 59.3% of requests came from women and in North Carolina it was 59.4%.
+
+
+
+It is not uncommon for early voting activity to rise as the election nears, yet the levels of ballot requests were higher this week than either the preceding or following week. In Georgia, there were 23,570 requests the week of the first debate, 28,842 in the following week, and 27,672 this past week. In North Carolina, there were 27,057 requests the week of the first debate, 33,011 the following week, and 28,373 this past week. (It is possible in both states that election officials have not entered all requests for the past week.)
+
+It thus appears that women reacted to the events by exercising their right to vote. In the big scheme of things, these are small numbers relative to the total ballots that will be cast in these states. Still, I suspect that at least some of the movement towards Clinton in the polling is due to increased interest in the election among women, thus making them more often fit the profile of a likely voter. Indeed, the ABC/Washington Post poll suggests enthusiasm of Clinton and Trump supporters changed. There is still a long way to go, so we will have to see if this pattern persists.
+
+Florida
+
+With an assist from my University of Florida colleague, Dan Smith, we are tracking Florida election activity. In 2012 in Florida, registered Republicans had a 3.1 percentage point lead over Democrats in the 2.3 million mail ballots that were cast. Despite some misinformation floating around out there, this is not the entire early vote: Democrats led the 2012 in-person early vote and the overall mail plus early vote. They will likely lead the 2016 in-person early vote, if the past is a guide.
+
+As of Sunday morning, Florida reported over 2.9 million mail requests (I add the unreturned ballots and the returned ballots to get this number). Although some of these requests will not result in returned ballots, I think it is safe to say that the 2016 returned mail ballots will exceed their 2012 levels. Importantly, Republicans lead these mail ballot requests by 1.5 percentage points. Republicans lead by only 1.1 points among the 477,912 returned ballots.
+
+The cautions for Florida is that the Hurricane-ravaged Northeast coast is understandably lagging behind their ballot returns, and this is a Republican region of the state. However, it also appears Palm Beach and Miami-Dade are also lagging behind entering their mail ballot data. Also, Florida changed its law so that a voter's absentee ballot request is good for two years; some counties even allow voters to check boxes on their return envelopes that serve as a new request. In 2014, the traditional advantage Republicans enjoy in mail ballots was narrowed, and we might thus expect a similar narrowing in 2016.
+
+Still, the Clinton campaign is pleased with the improved performance of registered Democrats from 2012, both in narrowing the Republican margin and increasing the overall volume of mail ballots. Obama won Florida by +0.9 points in 2012, and the Pollster polling average has Clinton at +3.6 points. The early vote data so far does not contradict the notion Clinton is doing better than Obama, however, it will be important it see how well Democrats perform during the crucial in-person early voting period to be certain that the mail ballots simply don't represent a shuffling of when and how people vote.
+
+Iowa
+
+As I've continually reported, Iowa continues to be Trump's best prospect to flip from 2012. Registered Democratic absentee ballot requests and returns have lagged badly from 2012, particularly from the critical eastern part of the state, a region of typical Democratic strength in the upper Midwest. (If the eastern Iowa weakness bleeds over to Southwest Wisconsin, this could explain why Clinton leads in Wisconsin, but only by an average of +5.2 percentage points in the Pollster average, which is less than Obama's 6.9 point 2012 victory.)
+
+
+
+That more registered Democrats have requested ballots and returned them does not signal Democratic victory. Iowa Democrats typically do much better than they are currently doing. There has been some modest improvement for Democrats in Iowa. They were off their 2012 level by 50,024 the previous Friday, but where down only 42,397 by last Friday. However, Republicans have also improved. They were down 14,099 as of the previous Friday, but were down only 2,221 by last Friday. Since returned ballots lag requested ballots, the downward trajectory in the 2012 comparison is not surprising.
+
+Obama won Iowa by 5.8 percentage points in 2012, and the Pollster average has a Trump lead of 2.1 points. Unless Democrats start voting in greater numbers, Trump may win a narrow victory.
+
+Maine
+
+There has not been much change to early voting patterns in Maine since the last update. Indeed, the state only provided a single update on Monday, so the state's data is a growing a little stale. That said, after a slow start, Democrats increased their activity such that early voting is running ahead of 2012 and there is now a similar partisan distribution both statewide and within the two congressional districts.
+
+
+
+
+
+North Carolina
+
+Since the start of the mail balloting on Sept. 9, registered Democrats have been running well ahead of their 2012 levels. Although Republicans have pulled ahead of the Democrats in their 2016 ballots requested and returned, Sunday's statistics show Republicans still lag behind their 2012 levels.
+
+
+
+Romney won North Carolina by 2.0 percentage points, but the Pollster average gives Clinton a +1.6 lead. The early vote indicates Clinton will do better than Obama, but will it be enough?
+
+Ohio
+
+At the start of Ohio early voting period on Monday, the Secretary of State's office released a report of complete county absentee ballot request statistics for the current election. A similar release in 2012 permits an apples-to-apples comparison, and 'dem apples don't look too appetizing.
+
+Ohio does not have party registration (the states identifies "party" from the last primary a voter participated in), so a geographic analysis is more informative of "party" in Ohio. Statewide, absentee ballot requests were down 2.6% from 2012. At first blush, Democrats look well-positioned, with 175,807 requests originating from Cuyahoga (Cleveland), which is 16.1% of all requests statewide. The problem is that this is down 16.1% from 2012. In Franklin (Columbus), requests were off 16.3% of their 2012 levels
+
+The Democratic position has likely only gotten worse throughout the week. Cuyahoga and Franklin post their individual-level early voting data online (this includes mail and in-person activity), and Democrats are down from their 2012 levels by 18.1% in Cuyahoga and 31.9% in Franklin. In the remaining forty-nine remaining counties for which there is comparable 2012 public data, early voting levels are up 0.1%.
+
+There could be many reasons for this. As I noted last week, Republican weakness in North Carolina is particularly acute in the urban areas. It is possible some of the weakness in Cuyahoga originates from urban Republicans. Also, in 2012, Ohio in-person early voting was underway for a longer period at this point in the cycle.
+
+Still I believe the Ohio early voting confirms that Ohio's polling is challenging for the Democrats, a state Obama won by 3.0 percentage points. The Pollster average is a +2.3 point lead for Clinton, even as she's opened a large lead nationally. Maybe Clinton will win a slim victory, but Ohio is another Midwestern battleground state that Trump stands a reasonable chance of flipping from 2012.
+
+Virginia
+
+Virginia in an excuse-required state, but its excuses are fairly lenient, so it tends to have higher early voting usage than other excuse-required states, like Pennsylvania. I thus believe the early voting numbers can be informative. Virginia, like Ohio, also does not have party registration. Helpfully, the Virginia Public Access Project created a portal visualizing the 2012 to 2016 change in early voting activity by region.
+
+Early voting activity statewide is up 22.9% over 2012, but within the Democratic stronghold of Northern Virginia it is up 55.6%. Hampton Roads (the Norfolk area) is actually down 8.2% from 2012, although this could be due to a reduction in overseas military deployments.
+
+Stick a fork in Virginia, it's done. The early voting numbers and polling numbers are looking so bad for Trump that the campaign pulled out last week, essentially conceded the state to Clinton.
+
+Summary
+
+I believe early voting provides another signal along with the polling averages. When the two point in the same direction, we can have greater confidence in the polling averages than just the average alone. There have been fewer state polls than in in recent elections, so in some cases, early voting fills an important gap between quality polling.
+
+To recap again:
+
+In the Southern states of Florida, North Carolina, and Virginia, Hillary Clinton is poised to do better than Barack Obama did in 2012. This is apparent in the polling and early voting numbers.
+
+In the Midwestern states of Iowa and Ohio, Donald Trump is poised to do better than Mitt Romney did in 2012. This again is apparent in the polling and early voting numbers.
+
+I post early voting data here, and I tweet early voting information daily @ElectProject.

@@ -1,0 +1,32 @@
+https://www.yahoo.com/news/phone-may-soon-sense-everything-191918326.html
+141
+14
+This image provided by Google shows people looking at a view of the solar system using technology Google calls "Project Tango." Tango uses software and sensors to track motions and size up the contours of rooms, which can empower a smartphone to map building interiors. That’s a crucial building block of a promising new frontier in “augmented reality,” or the digital projection of lifelike images and data into a real-life environment. (Courtesy of Google via AP) MANDATORY CREDIT
+
+SAN FRANCISCO (AP) -- Suppose your smartphone is clever enough to grasp your physical surroundings — the room's size, the location of doors and windows and the presence of other people. What could it do with that info?
+
+We're about to get our first look. On Thursday, Lenovo will give consumers their first chance to buy a phone featuring Google's 3-year-old Project Tango, an attempt to imbue machines with a better understanding about what's around them.
+
+Location tracking through GPS and cell towers tells apps where you are, but not much more. Tango uses software and sensors to track motions and size up the contours of rooms, empowering Lenovo's new phone to map building interiors. That's a crucial building block of a promising new frontier in "augmented reality," or the digital projection of lifelike images and data into a real-life environment.
+
+If Tango fulfills its promise, furniture shoppers will be able to download digital models of couches, chairs and coffee tables to see how they would look in their actual living rooms. Kids studying the Mesozoic Era would be able to place a virtual Tyrannosaurus or Velociraptor in their home or classroom — and even take selfies with one. The technology would even know when to display information about an artist or a scene depicted in a painting as you stroll through a museum.
+
+Tango will be able to create internal maps of homes and offices on the fly. Google won't need to build a mapping database ahead of time, as it does with existing services like Google Maps and Street View. Nonetheless, Tango could raise fresh concerns about privacy if controls aren't stringent enough to prevent the on-the-fly maps from being shared with unauthorized apps or heisted by hackers.
+
+Lenovo announced its plans for the Tango phone in January, but Thursday will mark the first time that the company is showing the device publicly. At the Lenovo Tech World conference in San Francisco, the Chinese company is expected to announce the phone's price and release date.
+
+The efforts come as phone sales are slowing. People have been holding off on upgrades, partly because they haven't gotten excited about the types of technological advances hitting the market during the past few years. Phones offering intriguing new technology could help spur more sales.
+
+But Tango's room-mapping technology is probably still too abstract to gain mass appeal right away, says Ramon Llamas, an analyst at the IDC research group.
+
+"For most folks, this is still a couple steps ahead of what they can wrap their brains around, so I think there's going to be a long gestation period," Llamas says.
+
+Other smartphones promising quantum leaps have flopped. Remember Amazon's Fire phone released with great fanfare two years ago? That souped-up phone featured four front-facing cameras and a gyroscope so some images could be seen in three dimensions. The device also offered a tool called Firefly that could be used to identify objects and sounds. But the Fire fizzled, and Amazon no longer even sells the phone.
+
+The key to the Tango phone's success is likely to hinge on the breadth of compelling apps that people find useful in their everyday lives. If history is any guide, the early apps may be more demonstrative than practical.
+
+Google already has released experimental Tango devices designed for computer programmers, spurring them to build about 100 apps that will work with Lenovo's new phone. At a conference for developers last month, Google demonstrated an app for picturing furniture in actual living rooms and for taking selfies with digital dinosaurs.
+
+Both large and small tech companies are betting that augmented realty, or AR, will take off sooner than later. Microsoft has been selling a $3,000 prototype of its HoloLens AR headset. Others, such as Facebook's Oculus and Samsung, are out with virtual-reality devices. Google has one coming as well through its Daydream project. While AR tries to blend the artificial with your actual surroundings, virtual reality immerses its users in a setting that's entirely fabricated.
+
+With both, the devices out so far invariably require users to wear a headset or glasses. In many cases, they also must be tethered to more powerful personal computers, restricting the ability to move around.

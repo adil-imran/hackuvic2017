@@ -1,0 +1,24 @@
+http://www.straitstimes.com/singapore/cyber-security-a-regional-battle
+150
+15
+Cyber security is a "team sport" which requires close partnerships among all involved, including governments in the region and industry partners in the private sector.
+
+This is why the Republic wants to "start the conversation" and share best practices and experiences on cyber security with its Asean neighbours, said Singapore's Cyber Security Agency (CSA) chief executive David Koh yesterday.
+
+He told reporters at the Asean Ministerial Conference on Cyber Security here: "No one country can do it by itself - that's why Singapore is partnering with the other Asean member states, and partnering with industry partners, trade associations and expert groups."
+
+He was explaining the factors behind two high-level cyber-security strategies announced by Communications and Information Minister Yaacob Ibrahim yesterday: a $10 million Asean Cyber Capacity Programme (ACCP) and a $900,000, three-year sponsorship of non-profit organisation CyberGreen, which grades countries' cyber health.
+
+The ACCP, which will be launched in April next year, comprises events and initiatives such as workshops and conferences aimed at building up the cyber-security capabilities of Asean member states.
+
+At least two events will be carried out under the ACCP's calendar next year, with other initiatives to be announced. These include the annual Singapore International Cyber Week, which incorporates the Asean Ministerial Conference on Cyber Security, and the Cyber Security Workshop jointly conducted by Singapore and the United States.
+
+Singapore is the third country in the world to sponsor CyberGreen, after Japan and the United Kingdom. The sponsorship will allow Asean countries to get a report on their cyberhealth and access CyberGreen's tools to protect themselves.
+
+"CSA's sponsorship will foster the mitigation activities within the Asean region, and help us to develop an Asean mitigation portal which has all kinds of useful information, including mitigation tools and methods on how to fix open, vulnerable or misconfigured servers," said CyberGreen executive director Yurie Ito.
+
+Dr Yaacob said such cooperation is needed so that no Asean member becomes the "weakest link" in the regional fight against cybercrime.
+
+"What we want to do is ensure that all the Asean member states pay attention so that they don't become that weakest link," he said.
+
+Private-sector collaboration is also essential for cyber security here. Yesterday, the CSA signed four agreements with private cyber-security companies - BAE Systems, ISC2, Microsoft and Palo Alto Networks - to boost cyber-security training and capabilities here.

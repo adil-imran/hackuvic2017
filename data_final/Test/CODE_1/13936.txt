@@ -1,0 +1,26 @@
+http://www.pulseheadlines.com/fbi-paid-134-million-hack-san-bernardino-iphone/27184/
+202
+20
+This might be the highest price we have heard of an iPhone cracking. FBI Director James Comey has given a hint at how much money the FBI paid to unlock the infamous iPhone 5C that belonged to San Bernardino shooter Syed Rizwan Farook, one of the deceased perpetrators of the gun massacre from last December in California.
+
+The FBI previously indicated that the agency had already paid a really high price for the assistance of an outside government “association” but had declined to provide a specific amount until now.
+
+Comey stated that it was more than he will be paid for the remainder of his job – 7 years and 4 months. Comey makes an estimated $183,000 per year, the amount it’s about $1,342,000 to be more exact.
+
+iPhone’s vulnerability
+
+This has been a bit controversial around the tech community due the Department of Justice’s actions were just an attempt to force Apple to aid the FBI in looking for a way to get into the iPhone’s security protection in some ways that could allow the FBI to break into the iPhone 5C that runs iOS9.
+
+What does it mean? That these vulnerabilities affects Apple’s iOS are by far the most coveted on the market and are known to sell on the open market for upwards of $1 million.
+
+Once the FBI knew that they were able to get into the phone, they acquired that exploit that led the government to withdraw a really singular court order, were it would have “obligated” Apple to build a software that was capable of disabling the iPhone’s security features, and effectively creating a backdoor to access the information in it.
+
+Comey said on the Aspen Global Security Forum in London that it was in his view worth it because it’s a tool that will help them with the 5c with iOS9, which is a bit of a corner case.
+
+“This problem is overwhelmingly affecting law enforcement, and so we (FBI) could buy a tool for a 5c iOS 9 is not scalable, nor could all of those departments afford to pay what we had to invest in this investigation. I’m hoping we can somehow get to a place where we have a sensible solution or set of solutions that doesn’t involve hacking, and doesn’t involve spending tons of money,” Comey added.
+
+For Apple, customer’s privacy comes first
+
+Apple has stated before that it’s really important for the company the user’s safety and privacy, since they have one of the safeties phones thanks to its OS, so this case has brought up this topic once again, where Apple just wants to protect the information of their customers no matter what’s the case.
+
+Source: Reuters

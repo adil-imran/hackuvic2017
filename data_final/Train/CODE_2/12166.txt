@@ -1,0 +1,91 @@
+http://www.4-traders.com/NOKIA-CORP-1412498/news/Nokia-brings-assurance-to-carrier-SDN-enabling-successful-large-scale-commercial-rollouts-of-SDN-23193303/
+141
+14
+Carrier SDN projects are progressing from lab trials to commercial deployment, making assurance critical given unpredictable demand and traffic patterns of SDN networks
+
+New solution applies assurance (KPIs/analytics) to drive automated control of IP/optical networks, ensuring high-quality network and service performance
+
+Leverages Nokia's broad IP & Optical Network service assurance applications, extends them to multivendor SDN networks
+
+
+
+11 October 2016
+
+The Hague, Netherlands - Nokia is expanding its carrier SDN offering by adding assurance capabilities to its Network Services Platform (NSP). Combined with the NSP's automation and network control features, assurance equips operators with the tools to establish and maintain healthy SDN networks and services, even as the dynamic consumption patterns of cloud applications makes demand and traffic patterns less predictable. Assurance provides the missing link operators need to start large-scale commercial SDN deployment, spurred by the growth of cloud, video and Internet of Things (IoT).
+
+Operators today need to ensure the on-demand network services they bring to market are delivered using automated provisioning that makes the best use of available assets through real-time network control. But, as SDN projects move from limited live trials to broad deployment and commercialization, providers are discovering they need assurance in addition to automation with inline optimization.
+
+Nokia SDN automation and control capabilities allow operators to make assurance processes far more efficient and impactful than ever before. With automated (or dynamic) assurance, KPIs and analytics can be used to dynamically trigger changes at the SDN control layer without the need for manual intervention.
+
+The integrated KPIs and analytics capabilities of the NSP will:
+
+Allow service providers to quickly gain visibility into potential problems within their multi-vendor carrier SDN networks and assess overall impact
+
+Trigger and guide automated corrective measures, so that networks and services remain healthy
+
+Drive SDN control policies that can redirect paths, traffic and bandwidth at any layer - flow, IP, Ethernet or optical - and across both physical and virtual domains
+
+
+
+The NSP dynamic assurance capability is part of Nokia's comprehensive multi-domain Service Assurance program, and a key component of the company's domain-specific closed-loop automation architecture to drive greater network agility and optimization.
+
+Dana Cooperson, Research Director, Network, Software and Virtualization, Analysys Mason, said: "Service assurance is a critical requirement for successful SDN-based automation and optimization in the WAN (aka 'carrier SDN'). Without adequate assurance capabilities, uptake of carrier SDN has been slow, particularly for complex multi-domain, multi-vendor networking applications. CSPs are recognizing the need for integrated assurance and asking vendors for solutions. In this market context, Nokia's announcement of NSP with assurance is both important and timely."
+
+Sasa Nijemcevic, general manager of the Network & Service Management business at Nokia, said: "Nokia brings a wealth of experience assuring IP and optical network services at the world's largest service providers. The company is extending this expertise to multivendor services and elements managed by our carrier SDN offering. We are not only addressing the need for assurance, but also providing additional value by leveraging our investment in policy-based SDN control to automate assurance processes. As a result, operators will maintain the highest levels of customer satisfaction while optimizing their network assets to move confidently into the next era of carrier SDN."
+
+Nokia will be demonstrating its NSP in booth #97-99 at the SDN World Congress Oct 11-14 at the World Forum in The Hague, Netherlands. For more information visit: https://networks.nokia.com/events/2016/sdn-openflow-world-congress
+
+Key resources:
+
+Blog - "Assuring SDN for the real world": https://blog.networks.nokia.com/mobile-networks/2016/10/11/assuring-sdn-real-world/
+
+Images: https://resources.nokia.com/asset/200600 https://resources.nokia.com/asset/200598 https://resources.nokia.com/asset/200599
+
+Network Services Platform website: www.networks.nokia.com/NSP
+
+Heavy Reading Whitepaper - "Delivering on the Promise of Multi-layer Integration With SDN": https://pages.nokia.com/2016.HeavyReading.carrierSDNwhitepaper.html
+
+Video - "Nokia Network Services Platform: Carrier SDN for the on-demand network": https://www.youtube.com/watch?v=7a5_0_u3jIc&list=PLEQJsvk-0UgZ7vHZlL3E_HZmdvyJJGx-g
+
+Video - "Making carrier SDN happen with the Nokia Network Services Platform": https://youtu.be/cmZ9VIjVL6M
+
+NSP assurance app note - https://resources.alcatel-lucent.com/asset/187015
+
+SDxCentral Demo Friday on Oct 28th, 1pm EST: "Make Carrier SDN Happen with the Nokia Network Services Platform": https://www.sdxcentral.com/event/nokia-network-services-platform-demofriday/
+
+Connect with Nokia:
+
+Subscribe to receive our product news alerts
+
+About Nokia
+
+Nokia is a global leader in the technologies that connect people and things. Powered by the innovation of Nokia Bell Labs and Nokia Technologies, the company is at the forefront of creating and licensing the technologies that are increasingly at the heart of our connected lives.
+
+With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things. http://nokia.com
+
+Media Enquiries:
+
+Sarah Miller
+
+IP and Optical Communications, Nokia
+
+Phone: 613-720-9716
+
+Email: sarah.miller@nokia.com
+
+Twitter : @sarahjmiller2
+
+Nokia
+
+Communications
+
+Phone: +358 10 448 4900
+
+Email: press.services@nokia.com
+
+This announcement is distributed by Nasdaq Corporate Solutions on behalf of Nasdaq Corporate Solutions clients.
+
+The issuer of this announcement warrants that they are solely responsible for the content, accuracy and originality of the information contained therein.
+
+Source: NOKIA via Globenewswire
+

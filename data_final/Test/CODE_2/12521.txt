@@ -1,0 +1,56 @@
+http://www.4-traders.com/BIOCARTIS-GROUP-22033639/news/Biocartis-AstraZeneca-Comparative-Study-confirms-Best-In-Class-Status-of-Idylla-trade-KRAS-Mutati-23193175/
+140
+14
+PRESS RELEASE Tuesday, 11 October 2016, 07:00 CEST
+
+ASTRAZENECA COMPARATIVE STUDY CONFIRMS BEST-IN-CLASS STATUS OF IDYLLA™ KRAS MUTATION DETECTION TECHNOLOGY
+
+,
+
+Biocartis Group NV ('Biocartis'), an innovative molecular diagnostics company (Euronext Brussels: BCART), today announces the publication of a comparative study organised by AstraZeneca, a global biopharmaceutical company, where 12 different KRAS mutation detecting technologies, including Next-Generation Sequencing (NGS) and quantitative Polymerase Chain Reaction (PCR), were compared for the detection of KRAS mutations in lung cancer, using blinded samples. The study was presented yesterday at the renowned scientific oncology conference ESMO (European Society for Medical Oncology) in Copenhagen (Denmark). Results demonstrate superior levels of sensitivity of the Idylla™ KRAS technology to 10 out of the other 11 compared technologies, while at the same time it outperforms competition in ease-of-use and turnaround time. As such, this study confirms best-in-class status for the Idylla™ KRAS technology. A poster of the study can be found on the
+
+The AstraZeneca study assessed 12 KRAS mutation detection technologies commonly used in today's molecular clinical diagnostic setting. The evaluated technologies included NGS (5) quantitative PCR (3, among which Idylla™), mass spectrometry (2), digital droplet PCR (1) and Sanger sequencing (1). The study focused on DNA samples that reflect input conditions typically encountered in clinical biopsies, in particular those of non-small-cell lung cancer1 (NSCLC) patients, since mutations in the KRAS gene, besides the EGFR gene2, are one of the most common drivers of NSCLC3. An important strength of the study is that the testing was performed on blinded samples, meaning that the different technology users were unaware of the true KRAS status of the samples.
+
+The study showed a best-in-class performance of the IdyllaTM KRAS technology, run on the Idylla™ platform:
+
+Sensitivity: Overall sensitivity of 96% across all mutant DNA samples and a specificity of 100% on normal DNA control samples. This sets the Idylla™ KRAS technology sensitivity on par with the best performing NGS technology and above the other NGS technologies (NGS technology-based sensitivity ranged in between 48%- 100%). Compared to other PCR-based technologies, the Idylla™ KRAS technology outperformed as others ranged from 0%-92%; respectively 46%-52% for quantitative PCR, 58%-92% for mass spectrometry, 56% for digital droplet PCR and 0% for Sanger sequencing.
+
+Ease-of-use: Highest score for Idylla™ KRAS technology as a result of having the lowest number of manual handling steps in sample preparation (1 to 2 steps for Idylla™ versus 3 to > 20 for other technologies) and requiring lowest level of expertise (1 for Idylla™ versus 2-4 for others4).
+
+Time-to-result: Highest score for Idylla™ KRAS technology on total turn-around time (2 to 4 hours for Idylla™ versus 1 day to 3 weeks for the alternative approaches).
+
+In general, the study concluded that the currently available KRAS mutation detection technologies and assays not only vary greatly in terms of technical and practical requirements, but also in performance on the tested samples given the observed sensitivity ranges. This again highlights the need for appropriate rapid, easy-to-use and high precision KRAS mutation testing suitable for use in any routine diagnostic lab setting.
+
+: "
+
+We are extremely proud with the results of this study organized by a leading global pharmaceutical company like AstraZeneca. This is the broadest comparison study conducted by an external party on Idylla™ performance to date with respect to the number of different technologies applied on one sample set. It demonstrates that with the Idylla™ technology, we can truly combine the advantages of point-of-care testing in terms of ease-of-use and speed with the performance that one would expect from technologies used in reference
+
+1 Roberts and Stinchcombe J Clin Oncol. 2013;31:1112-21.
+
+2 Today, in NSCLC, mainly testing for mutations in the EGFR gene is well established in routine clinical practice. (Source: Lindemann et al J Thorac Oncol. 2013;8(7):823- 59.)
+
+3 Roberts and Stinchcombe J Clin Oncol. 2013;31:1112-21. The Idylla™ KRAS Mutation Test, performed on the Biocartis Idylla™ system, is an in vitro diagnostic test for
+
+the qualitative detection of 21 mutations in codons 12, 13, 59, 61, 117, 146 of the KRAS oncogene, intended for use in colorectal cancer.
+
+4 One being the lowest level of expertise and four the highest.
+
+laboratories. As such, the Idylla™ technology has the potential to make rapid molecular diagnostic testing available in any routine diagnostic lab setting - large or small."
+
+On 29 September 2016, another study5 was published in the PLOS One Journal, a peer-reviewed open access scientific journal published by the Public Library of Science, on the performance of the Idylla™ KRAS Mutation Assay6. It concerns a multi-centered beta trial study at 12 different sites in Europe, each comparing the performance of the Idylla™ KRAS Mutation Assay on FFPE7 tissue with their own reference methods (including NGS technology) used in clinical practice for detection of mutations in colorectal cancer. Among the 374 colorectal cancer FFPE samples tested in this study, the overall concordance between the Idylla™ KRAS Mutation Assay and the reference routine tests, including third method, was found to be 98.9%. Moreover, the Idylla™ KRAS Mutation Assay enabled detection of five additional KRAS-mutated samples not previously detected with reference methods. The publication is available online for download.
+
+Renate Degrave
+
+Manager Corporate Communications & Investor Relations rdegrave@biocartis.com
+
++32 15 631 729
+
+Biocartis (Euronext Brussels: BCART) is an innovative molecular diagnostics (MDx) company providing next generation diagnostic solutions aimed at improving clinical practice for the benefit of patients, clinicians, payers and industry. Biocartis' proprietary MDx Idylla™ platform is a fully automated sample-to-result, real-time PCR (Polymerase Chain Reaction) system that offers accurate, highly reliable molecular information from virtually any biological sample in virtually any setting. Biocartis launched the Idylla™ platform in September 2014. Biocartis is developing and marketing a rapidly expanding test menu addressing key unmet clinical needs in oncology and infectious diseases. These areas represent respectively the fastest growing and largest segments of the MDx market worldwide. Today, Biocartis has five oncology tests and two infectious disease tests. More information: www.biocartis.com. Press Photo Library available here. Follow us on Twitter: @Biocartis_.
+
+Certain statements, beliefs and opinions in this press release are forward-looking, which reflect the Company or, as appropriate, the Company directors' current expectations and projections concerning future events such as the Company's results of operations, financial condition, liquidity, performance, prospects, growth, strategies and the industry in which the Company operates. By their nature, forward-looking statements involve a number of risks, uncertainties, assumptions and other factors that could cause actual results or events to differ materially from those expressed or implied by the forward- looking statements. These risks, uncertainties, assumptions and factors could adversely affect the outcome and financial effects of the plans and events described herein. A multitude of factors including, but not limited to, changes in demand, competition and technology, can cause actual events, performance or results to differ significantly from any anticipated development. Forward-looking statements contained in this press release regarding past trends or activities are not guarantees of future performance and should not be taken as a representation that such trends or activities will continue in the future. In addition, even if actual results or developments are consistent with the forward-looking statements contained in this press release, those results or developments may not be indicative of results or developments in future periods. As a result, the Company expressly disclaims any obligation or undertaking to release any update or revisions to any forward-looking statements in this press release as a result of any change in expectations or any change in events, conditions, assumptions or circumstances on which these forward-looking statements are based. Neither the Company nor its advisers or representatives nor any of its subsidiary undertakings or any such person's officers or employees guarantees that the assumptions underlying such forward-looking statements are free from errors nor does either accept any responsibility for the future accuracy of the forward-looking statements contained in this press release or the actual occurrence of the forecasted developments. You should not place undue reliance on forward-looking statements, which speak only as of the date of this press release.
+
+5 Jérôme Solassol et al., "Multi-Center Evaluation of the Fully Automated PCR-Based Idylla™ KRAS Mutation Assay for Rapid KRAS Mutation Status Determination on Formalin-Fixed Paraffin-Embedded Tissue of Human Colorectal Cancer", available for download: http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0163444.PDF
+
+6 Performed on a Research Use Only version. A CE-marked IVD version of the Idylla™ KRAS Mutation Assay is available for use in colorectal cancer.
+
+7 FFPE: Formalin-fixed paraffin-embedded.

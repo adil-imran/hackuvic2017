@@ -1,0 +1,26 @@
+https://www.yahoo.com/tech/verizon-looking-cut-yahoo-deal-price-1-billion-122220625.html
+100
+10
+Verizon is not happy about Yahoo’s revelation that hackers stole info on more than 500 million user accounts — and now the telco wants to shave $1 billion off its acquisition offer, the New York Post reported.
+
+Yahoo reached a deal in July to sell its core web businesses to Verizon for $4.8 billion. Then, in late September, Yahoo disclosed that what it dubbed a “state-sponsored actor” broke in its network in late 2014 and stole usersnames, hashed passwords, and other personal info for at least 500 million accounts worldwide.
+
+After Yahoo announced the user-info breach, Verizon said that it had only been informed of the scope of the breach two days prior. Last week six U.S. senators demanded answers from CEO Marissa Mayer about the hack, and Yahoo failed to report the incident until two years after it occurred.
+
+This week brought another damaging disclosure for Yahoo: Last year, the internet company set up a system to secretly scan hundreds of millions of Yahoo email accounts at the request of either the NSA or FBI, according to a Reuters report.
+
+Yahoo called the Reuters report “misleading” but it didn’t deny its involvement in the scanning. “We narrowly interpret every government request for user data to minimize disclosure. The mail scanning described in the article does not exist on our systems,” Yahoo said in a statement.
+
+Between the data breach and Yahoo’s reported spying on users, Verizon is looking to renegotiate the terms of the Yahoo buyout. This week AOL CEO Tim Armstrong traveled to California to meet with Yahoo execs and press for a price reduction, per the Post. But Yahoo is fighting against attempts to reduce the purchase price, and has told Verizon that it doesn’t have any legal standing to do so, according the Post, citing anonymous sources.
+
+In addition to the $1 billion discount on the deal’s price tag, Verizon is considering putting $1 billion of funds in reserve to cover potential liabilities from the Yahoo email hack, per the Post report.
+
+Yahoo as recently as early September had claimed in a regulatory filing that it was not aware of any security breaches. In a Sept. 9 proxy statement, Yahoo said that “there have not been any incidents of, or third-party claims alleging, (i) Security Breaches, unauthorized access or unauthorized use of any of Seller’s or the Business Subsidiaries’ information technology systems or (ii) loss, theft, unauthorized access or acquisition, modification, disclosure, corruption, or other misuse of any Personal Data” in its possession.”
+
+Related stories
+
+Go90 Reups Awkwafina's 'Tawk' for Seasons 4 and 5, But Is Verizon's Service Struggling to Win Fans?
+
+Yahoo Hack: Senators Call on CEO Marissa Mayer to Explain Why It Took Two Years to Report Massive Breach
+
+Yahoo Says Hacker Stole Data on At Least 500 Million User Accounts

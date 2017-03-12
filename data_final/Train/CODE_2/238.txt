@@ -1,0 +1,40 @@
+http://www.wsj.com/articles/with-nxp-deal-qualcomm-would-add-new-businesses-and-new-risks-1475263943
+13
+1
+ENLARGE Qualcomm is considering a deal for NXP Semiconductors, which would turn the chip designer into a manufacturer as well. Photo: albert gea/Reuters
+
+Qualcomm Inc. is best known for designing smartphone chips—and leaving the production to others. Now, the San Diego-based company is in talks to acquire chip manufacturer NXP Semiconductors NV in a strategy shift that adds to the substantial risks of a purchase.
+
+Capturing Netherlands-based NXP likely will cost more than $30 billion, and lead to owning seven factories in five countries that turn silicon wafers into chips. Besides those plants, known as fabs, NXP operates seven facilities that package and test chips before they are sold.
+
+NXP, which became a bigger manufacturer through the purchase last year of Freescale Semiconductor, churns out more than half of its vast line of products from those factories. It is the No.1 supplier of automotive chips, a fast-growing market. Analysts believe the potential to supply its chips for self-driving cars is a major motivation for Qualcomm to pursue deal talks first reported by The Wall Street Journal on Thursday.
+
+Qualcomm pioneered what the semiconductor industry calls the “fabless” business model. The company’s popular wireless chips, used in the smartphones of Apple Inc. and others, are mostly manufactured by Taiwan Semiconductor Manufacturing Co. and firms that build products to order for chip designers.
+
+Analysts and industry executives say running factories requires a different set of management skills than designing chips. Those include tracking the age and performance of manufacturing equipment, overseeing a supply chain of materials and managing production workers, who are represented by labor unions in some NXP locations.
+
+“It’s a very, very different thinking process,” said Alex Lidow, chief executive of chip designer Efficient Power Conversion Corp.
+
+He opted for a fabless model when co-founding the El Segundo, Calif., startup after 12 years as CEO of International Rectifier Corp., which operated a global network of factories with similarities to NXP’s. “I don’t want to do that again, frankly,” he said.
+
+‘They won’t understand how you actually run a fab. ’ —Dan Hutcheson, VLSI Research
+
+The fabless model allows chip designers to avoid the cost of operating and building advanced fabs, which can cost more than $10 billion each for facilities that can create the most advanced chips. Qualcomm will continue to need that level of production technology from partners to keep its wireless chips competitive with rivals—particularly Intel Corp. , which both designs and builds its own devices.
+
+NXP, by contrast, has older factories that couldn’t be easily adapted to make Qualcomm’s chips, analysts say. The company inherited operations that began more than 60 years ago as part of the Dutch giant Philips NV and Motorola Inc., which spun off its chip business to create Freescale.
+
+Mature plants like NXP’s are maintained throughout the industry to produce some kinds of chips, particularly those that use analog rather than digital technology for applications such as radio. Dan Hutcheson, an analyst at VLSI Research Inc., said NXP’s fabs are highly profitable, in part because their production gear was written off years ago.
+
+Mr. Hutcheson said Qualcomm executives have developed a sophisticated understanding of manufacturing issues by overseeing work handled at partners such as TSMC. “They won’t understand how you actually run a fab,” he said. “That could potentially trip them up, but I don’t think that is a big deal.”
+
+There are other management challenges to consider that are associated with a deal for NXP, which people familiar with the situation don’t expect to be signed for two to three months. One comes from NXP’s sheer size. The Dutch company has about 45,000 employees, according to public filings, substantially more than the 33,000 Qualcomm disclosed last year in its most recent annual report.
+
+Another challenge concerns sales. Qualcomm gets most of its revenue from a handful of smartphone makers, including Apple and Samsung Electronics Co. NXP sells chips to thousands of companies through a large sales team that couldn’t easily be combined with Qualcomm’s, analysts say. Reducing the number of salespeople has been part of the rationale for other semiconductor deals.
+
+A deal for NXP also would substantially diversify Qualcomm’s business beyond mobile handsets. “You have significantly spread out your revenues and you are less susceptible to a loss of one critical customer,” said Chanan Greenberg, a vice president at Model N Inc., which makes software that chip makers use to manage the sales process.
+
+NXP has a broad set of technologies that could become particularly valuable in connection with the Internet of Things, a phrase that refers to adding sensors, communications and computing capability to all kinds of everyday devices. It is a major supplier of chips called microcontrollers, for example, that manage calculating functions in many categories of office and industrial equipment as well as cars.
+
+NXP also has a leading position in chips for near-field communications, or NFC, a short-range wireless technology used for applications such as completing payments on smartphones and unlocking car doors.
+
+Write to Don Clark at don.clark@wsj.com

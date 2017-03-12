@@ -1,0 +1,48 @@
+http://thezimbabwemail.com/scie-tech-27569-facebook-to-start-using-whatsapp-data-for-targeted-advertising.html
+20
+2
+SAN FRANCISCO (Reuters) – WhatsApp, Facebook Inc’s popular messaging service, will start sharing users’ phone numbers with its parent, allowing for more relevant advertisements and friend recommendations on the social network.
+
+The move is WhatsApp’s first update to its privacy policy since it was acquired by Facebook in 2014.
+
+WhatsApp will also explore ways for businesses to send messages using its platform over the next several months, it said in a blog post.
+
+Mobile messaging service WhatsApp will give its parent company Facebook personal information including users’ phone numbers, as part of plans to allow businesses to send messages to users.
+
+WhatsApp’s billion-plus users will be notified of the change to its privacy policy from 25 August. They will have 30 days to decide whether to opt out of their information being used for ad targeting on Facebook, but will not be able to opt out of their data being sharing with the social network.
+
+The ad targeting will be on Facebook’s platform, which has 1.71 billion monthly active users, with WhatsApp saying it won’t put banner ads or allow spam on its own platform.
+
+A WhatsApp spokesperson said: “We want to explore ways for you to communicate with businesses that matter to you too, while still giving you an experience without third-party banner ads and spam.
+
+“Whether it’s hearing from your bank about a potentially fraudulent transaction, or getting notified by an airline about a delayed flight, many of us get this information elsewhere, including in text messages and phone calls.”
+
+The testing of tools designed to allow businesses to contact users was originally announced when WhatsApp dropped its yearly service fee on 18 January this year.
+
+The phone number associated with a user’s WhatsApp account will be used on Facebook to show them ads. This will form part of the targeting the company allows for paying advertisers, who can upload contact databases. Those who use Facebook and are in the contact database uploaded by the advertiser will then be shown the targeted ads.
+
+The information will also be used to show how people interact with a specific ad, but Facebook said that it would not tell advertisers who specifically interacted with the ad.
+
+WhatsApp and Facebook accounts will remain separate. The service will not be merged with Facebook’s other chat-based service Messenger or photo-sharing service Instagram. But all services under Facebook will gain access to WhatsApp users’ phone numbers and other account information, and it can be used to suggest contacts be added as friends.
+
+WhatsApp said: “We won’t post or share your WhatsApp number with others, including on Facebook, and we still won’t sell, share, or give your phone number to advertisers.”
+
+All messages sent using an up-to-date version of WhatsApp are sent encrypted end-to-end from the sender to the recipient preventing WhatsApp or anyone else from reading its contents. As a byproduct, it also blocks the company targeting ads against what is said in messages, a common tool used by Facebook, Google and others.
+
+What’s unclear is whether WhatsApp will allow companies to send users marketing messages. The company insists that it will not allow spam and is simply testing systems that replicate the current communications sent to users from banks, airlines and other services that use SMS to notify customers of events such as fraud alerts or travel delays.
+
+Users can also block messages being sent to them from numbers or accounts entirely, which should mean they can also block any messages sent from companies, should the function remain unchanged.
+
+The company still insists that it does not sell ads when activating the service, linking to a blog post from 18 June 2012 titled “why we don’t sell ads” that emphatically states that “remember, when advertising is involved you the user are the product”. The post was made before the sale of billion-user messaging service to Facebook, although the company insists that the values still stand.
+
+Multi-pillar approach
+
+Facebook has been making moves to increase its share of user time on mobile devices by pushing services such as Facebook Messenger and WhatsApp that operate in addition to its core social network and Facebook app. In doing so it has added further users, beyond those signed up and using Facebook, to its user base.
+
+But it has yet to fully leverage that non-Facebook userbase for its main revenue generating activity, advertising. Instagram has advertising, but neither WhatsApp nor Facebook Messenger currently does.
+
+Messenger has been used as a test bed by Facebook for interactions with chatbots, brands and businesses, allowing users to book tickets to shows, ask for news and have services delivered to them in text or multimedia form along with their friends’ messages.
+
+Although the crossover between WhatsApp and Facebook’s other services is undoubtedly high in developed nations, WhatsApp’s strength has been in reaching those who would not use or cannot use Facebook in developing nations and areas of poor connectivity.
+
+How Facebook proceeds with revenue generation from the messaging service beyond the obvious customer service activities without spamming users remains to be seen. Many fear the introduction of marketing messages and other ads, despite the assurances of WhatsApp that there will be no spam.

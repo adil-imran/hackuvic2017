@@ -1,3 +1,5 @@
 venv/
 venv-ethan/
 app.pyc
+*.pkl
+python*

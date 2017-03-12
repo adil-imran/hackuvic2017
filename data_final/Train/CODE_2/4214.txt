@@ -1,0 +1,40 @@
+https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/11/a-presidential-candidate-cant-threaten-to-imprison-his-opponent-if-he-wants-to-live-in-a-democracy/
+81
+8
+Republican presidential nominee Donald Trump responded Hillary Clinton saying that he shouldn't be in charge of the law in the U.S. saying, "You'd be in jail." The comment was met with rousing applause from the audience. (The Washington Post)
+
+In the aftermath of the second U.S. presidential debate on Sunday, Oct. 9, noted blogger and Dartmouth political scientist Brendan Nyhan tweeted the following statement:
+
+Poli sci Twitter is terrified. My colleagues in comparative politics study what happens when rule of law collapses & democracy put at risk https://t.co/G8sOg1NctK — Brendan Nyhan (@BrendanNyhan) October 10, 2016
+
+Nyhan was referring to Donald Trump’s comment that, if he was in charge of the country, Hillary Clinton would “be in jail.” Following shortly after his promise that “if I win, I am going to instruct my attorney general to get a special prosecutor to look into your situation,” the implication was clear: If elected, he would take actions that could lead to the imprisonment of his opponent.
+
+But Nyhan’s statement also noted that political scientists in particular seemed terrified by the notion that a U.S. presidential candidate had just seemingly announced an intention to jail his political opponent should he win the election. Some may have been concerned that this demonstrated a lack of awareness of how the special prosecutor law works. Others may have been drawn to the fact that the types of regimes that tend to feature winners imprisoning the losers of elections are not often those with strong democratic credentials.
+
+Indeed, imprisoning your opponent after the election is more often a hallmark of competitive authoritarian regimes such as Ukraine under former president Viktor Yanukovych, Belarus under Aliaksandr Lukashenka or the years of military rule in Myanmar.
+
+But there’s actually even a deeper issue here, which is the fundamental incompatibility of threatening to arrest one’s opponent and the functioning of democracy. Noah Feldman provided a nice summary of this problem as part of a column at Bloomberg View on Monday, but I want to take this opportunity to go through the issue a bit more systematically to explain exactly why I think “polisci Twitter” was so concerned.
+
+
+
+Republican presidential nominee Donald Trump speaks during the second presidential debate with Democratic presidential nominee Hillary Clinton on Oct. 9, 2016, at Washington University in St. Louis. (AP Photo/Patrick Semansky)
+
+When political scientists define democratic regimes, we are naturally drawn to the presence of elections. Quite clearly, without elections it would be impossible to call a country democratic. At the same time, there are obviously countries that hold elections that are not democratic: With a single candidate or party on the ballot receiving 99 percent of the vote, we would be hard pressed to call that country democratic.
+
+Thus political scientists have tried to focus on characteristics of elections that can be more readily reconciled with notions of democratic rule. One of the most important characteristics of elections in this regard is that parties and candidates that are in power actually lose elections from time to time.
+
+Why would losing elections be posited to be important for democratic rule? Answering this question takes us to one of the fundamental purpose of a democratic form of government: to allow people with different visions of how society should be organized to resolve those differences peacefully. Democracy is a process. Elections are held; winners take office; and policies are implemented.
+
+Crucially, it is expected that the “losers” from this process — those whose policies are not implemented — will not turn to extra-systemic (read: violent revolutionary) means to overturn those policies. Why? Because they can hold open hope that there is a nonviolent way by which they could get to make policy: winning a future election. (As an aside, this is why people who study comparative politics get nervous about electoral rules that seem to permanently lock one group out of power.)
+
+Thus democracy only “works” when current losers believe that current winners will indeed step aside in the future if electoral fortunes are reversed. Put another way, the whole system can fall apart if this shared belief that incumbents who lose elections will indeed give up power is called into question.
+
+Ask yourself, then, what happens when one candidate comes to believe that a lost election will result in physical harm, such as being killed or imprisoned? It seems likely that this will change what that candidate is willing to do to ensure that he or she does not lose the election. Moreover, the other candidate knows that the first candidate has just realized the stakes of the election are much higher, and thus might be willing to engage in more costly and dangerous actions.
+
+At the least, this makes any given election much more “zero-sum” — there is much more at stake, and both sides are willing to risk more to try to win the election. At the extreme, we might expect an incumbent candidate to be simply unwilling to cede power, and so the election ceases to be a mechanism for actually choosing office holders. Maybe it becomes an exercise in fraud, or maybe it is an opportunity to demonstrate power over one’s opponents, but either way the election is no longer performing the function of peacefully resolving different political preferences in society.
+
+From this perspective, threatening an electoral opponent with imprisonment upon loss of an election is not just a threat against that particular individual; it is potentially a threat against democracy itself. Democracy requires the assumption that electoral losers will cede power; threatening to lock up your opponent calls into question whether that assumption remains valid.
+
+While I can only speak for myself, my guess is this why “polisci Twitter” freaked out last night upon hearing a U.S. presidential candidate threaten to imprison the other candidate. Yes, we know that politics in the United States has become more polarized in recent years. And yes, we know that this has been a particularly vicious presidential campaign.
+
+Nevertheless, for political scientists, going down the road of imprisoning an election opponent would mark a significant departure from the democratic norms and traditions that have traditionally guided — and constrained — political conflict in the United States.

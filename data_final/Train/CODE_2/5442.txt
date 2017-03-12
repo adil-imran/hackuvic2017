@@ -1,0 +1,46 @@
+https://sputniknews.com/us/201610121046240763-aclu-social-media-tracking-ferguson-protesters/
+90
+9
+© REUTERS/ Jim Young Missouri County Drops Charges Against Reporters Covering Ferguson Protests
+
+The data was provided by the social media giants to a company called Geofeedia, a group that has contracts with over 500 law enforcement agencies to conduct surveillance of users. The location data taken from user’s smartphones helped authorities to map areas of potential unrest or political activism.
+
+The ACLU obtained the information after requesting records from 63 police departments, sheriffs, and district attorneys across California.
+
+“Of the responses we’ve received, 40 percent of the agencies (20 in total) have acquired social networking surveillance tools — many of them in the last year,” Nicole Ozer of the ACLU wrote.
+
+After the ACLU reported their findings to the platforms, all took action to limit, or fully ban, Geofeedia.
+
+“We are pleased that after we reported our findings to the companies, Instagram cut off Geofeedia’s access to public user posts, and Facebook has cut its access to a topic-based feed of public user posts,” the ACLU said in the statement of their findings.
+
+After the information went public, Twitter also a sent out a tweet announcing that they were suspending Geofeedia’s commercial access to data.
+
+"Based on information in the @ACLU's report, we are immediately suspending @Geofeedia's commercial access to Twitter data,” the platform announced Tuesday.
+
+Facebook, who owns Instagram, released a statement saying that Geofeedia only had access to information which users chose to make public.
+
+“This developer only had access to data that people chose to make public. Its access was subject to the limitations in our Platform Policy, which outlines what we expect from developers that receive data using the Facebook Platform. If a developer uses our [user data] in a way that has not been authorized, we will take swift action to stop them and we will end our relationship altogether if necessary,” the Facebook statement read.
+
+As Geofeedia had developer access to these platforms, they were able to access information that would otherwise require individually scraping data — a terms of service violation for all of the social media giants. The special access Geofeedia was granted allowed them to quickly access public user content and provide it to their clients in law enforcement.
+
+“Social media companies and their executives have expressed support for activists, movements, and free speech. Mark Zuckerberg endorsed Black Lives Matter and expressed sympathy after Philando Castile’s killing, which was broadcast on Facebook Live. Twitter’s CEO Jack Dorsey went to Ferguson. Above all, the companies articulate their role as a home for free speech about important social or political issues,” the ACLU wrote. “Yet there is a severe disconnect between these positions and the data access they have provided.”
+
+The ACLU also noted that the tools are being used to specifically target people of color.
+
+“In one exchange with law enforcement, a company representative suggested to San Jose Police that they should use the product to surveil the ‘Ferguson situation,’ even though the city is roughly 2,000 miles from Ferguson, Missouri. San Jose Police did in fact use Geofeedia software to monitor South Asian, Muslim, and Sikh protesters only a few days after acquiring it,” Ozer wrote.
+
+Luke Rudkowski, an independent journalist and activist who was on the ground in both Ferguson and Baltimore described the findings as “dangerous” and “Orwellian.”
+
+“It's a dangerous step towards an Orwellian society, a step taken outside of the law and any liability sponsored by our very tax dollars,” Rudkowski told Sputnik News.
+
+Sputnik News spoke to Tony Stiles, an activist who was in Ferguson during the protests to get his response to the revelation. His reaction was grim.
+
+“It shouldn't come as a surprise to people that this is going on. In business, I have used programs to target potential clients, customers, and/or social media followers. I've paid thousands in the past for companies to make lists for me in order to target certain demographics using social media. Why wouldn't law enforcement be doing the same thing to target me as an activist?” Stiles asked.
+
+Stiles explained that he does not believe that the practice will stop, as long as profit is available. “What's the solution? Either learn to deal with the suckfest or stay offline, because they're not going to stop as long as there's money to be made.”
+
+The ACLU is looking for a different solution to protect activists however, and has stated that, beyond Geofeedia, they are concerned about the lack of, or non-enforcement of, anti-surveillance policies in place by the social media companies.
+
+“We have the power to stop discriminatory surveillance and put control where it belongs — in the hands of the community,” Ozer said.
+
+The Geofeedia CEO reportedly asked to meet with the ACLU after the report was published.

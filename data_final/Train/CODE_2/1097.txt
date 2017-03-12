@@ -1,0 +1,20 @@
+https://www.yahoo.com/news/just-add-water-biomolecular-manufacturing-160000641.html
+20
+2
+BOSTON, Sept. 22, 2016 /PRNewswire-USNewswire/ -- Even amidst all the celebrated advances of modern medicine, basic life-saving interventions are still not reaching massive numbers of people who live in our planet's most remote and non-industrialized locations. The World Health Organization states that one half of the global population lives in rural areas. And according to UNICEF, last year nearly 20 million infants globally did not receive what we would consider to be basic vaccinations required for a child's health.
+
+The portable biomolecular manufacturing method, developed by Wyss Institute Core Faculty member James Collins and his team, can produce a broad range of biomolecules, including vaccines, antimicrobial peptides and antibody conjugates, without power or refrigeration. The team envisions that the method's freeze-dried components could be carried in portable kits (such as the mock kit pictured here) for use in the field anywhere in the world. Credit: Wyss Institute at Harvard University More
+
+These daunting statistics are largely due to the logistical challenge of transporting vaccines and other biomolecules used in diagnostics and therapy, which conventionally require a "cold chain" of refrigeration from the time of synthesis to the time of administration. In remote areas lacking power or established transport routes, modern medicine often cannot reach those who may need it urgently.
+
+A team of researchers at Harvard's Wyss Institute for Biologically Inspired Engineering has been working toward a paradigm-shifting goal: a molecular manufacturing method that can produce a broad range of biomolecules, including vaccines, antimicrobial peptides and antibody conjugates, anywhere in the world, without power or refrigeration.
+
+Now, in a new paper published September 22 in Cell journal, the team has unveiled what they set out to deliver, a "just add water" portable method that affordably, rapidly, and precisely generates compounds that could be administered as therapies or used in experiments and diagnostics.
+
+"The ability to synthesize and administer biomolecular compounds, anywhere, could undoubtedly shift the reach of medicine and science across the world," said Wyss Core Faculty member James Collins, Ph.D., senior author on the study, who is also Professor of Medical Engineering & Science and Professor of Biological Engineering at the Massachusetts Institute of Technology (MIT)'s Department of Biological Engineering. "Our goal is make biomolecular manufacturing accessible wherever it could improve lives."
+
+The approach, called "portable biomolecular manufacturing" by Collins' team, which also included Neel Joshi, Ph.D., a Wyss Core Faculty member and Associate Professor of Chemical and Biological Engineering at Harvard's John A. Paulson School of Engineering and Applied Sciences (SEAS), hinges on the idea that freeze-dried pellets containing "molecular machinery" can be mixed and matched to achieve a wide variety of end-products. By simply adding water, this molecular machinery can be set in motion.
+
+Compounds manufactured using the method could be administered in several ways to a patient, including injection, oral doses or topical applications. As described in the study, a vaccine against diphtheria was synthesized using the method and shown to successfully induce an antibody response against the pathogen in mice.
+
+Subsequently, the team envisions that the method could be employed to create batches of tetanus or flu shots routinely manufactured in remote clinics. Vaccines against emerging infectious disease outbreaks could quickly be mobilized in the field to contain spiraling epidemics. Episodes of food poisoning could be dosed orally with the production of neutralizing antibodies produced on the spot. Flesh wounds susceptible to infection could be applied with topical antimicrobial peptides generated on demand. In these manners, the team's approach could be leveraged to design a vast number of different lifesaving measures.

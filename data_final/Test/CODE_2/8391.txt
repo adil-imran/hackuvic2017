@@ -1,0 +1,56 @@
+http://www.4-traders.com/BIOPHYTIS-22837372/news/BIOPHYTIS-to-implement-company-rsquo-s-SARA-data-e-Health-platform-for-clinical-development-of-Sar-23193736/
+110
+11
+th
+
+SARA-data is a clinical data platform designed to integrate data from the SARA clinical trials, beginning with the SARA-OBS study, from all sources and in real time. Key elements of SARA-data include:
+
+Electronic Case Report Form (e-CRF) and electronic Patient-Reported Outcomes (e-PRO), that will be used for more reliable and cheaper data management compared to standard paper- based clinical questionnaires;
+
+The opportunity for senior patients to utilize a web-based portal to complete standardized e- PROs remotely at home;
+
+Storage of bio-imaging source data and bioanalytical results, including biomarkers, for secondary research;
+
+Spontaneous physical activity will be recorded on a continuous basis via a connected accelerometer.
+
+Biophytis selected Bluecompanion and eClinicalHealth, two innovative European e-health-focused firms, as partners for the design and implementation of SARA-data.
+
+Following successful completion of SARA-OBS, SARA-data will also be utilized in the Phase 2b SARA-INT clinical trial, providing a comprehensive system for assessing the effectiveness of Sarconeos.
+
+Stanislas Veillet, CEO of BIOPHYTIS, declares: "We look forward to leveraging our proprietary e-Health platform, SARA-data, to more accurately track physical activity and analyse other clinical outcomes in sarcopenia patients. I am confident that the use of SARA-data will add significant value to the quality of the clinical data we will generate. Our use of SARA-data represents the exciting convergence of biotechnology and e-Health technology that can make the difference in better understanding sarcopenia in aging patients and better evaluating the effectiveness of Sarconeos."
+
+He adds: "With Bluecompanion, we have designed SARA-data in order to capture, integrate and make available on the same digital platform different source data: patients' questionnaires, physical activity sensoring and recording, and DXA imaging, combined to standard clinical data reporting."
+
+Karl Landert, CEO of eClinicalHealth, comments: "We are pleased to be selected as the Biophytis technology partner to support the implementation of SARA-data. Through the use of Clinpal, we can work collaboratively with Biophytis and Blue Companion to move important innovative research efforts forward in sarcopenia patients."
+
+About SARCONEOS
+
+Sarconeos is a first in class drug candidate based on the activation of the MAS receptor (major player of the renin-angiotensin system) restoring muscular anabolism, inhibiting myostatin, that has demonstrated meaningful activity in animal models of muscular dystrophies. Sarconeos is developed in the treatment of sarcopenia, an age-related degeneration of skeletal muscle, leading to loss of mobility in elderly people. This condition, for which no medical treatment currently exists, was first described in 1993 and has entered the International Classification of Diseases (M62.84) in 2016. It affects more than 50 million people worldwide.
+
+About Bluecompanion (www.bluecompanion.eu) Bluecompanion ltd is a London based SME specialized in designing and setting up e-health products, collaborative projects and services, that will serve both patients and healthy citizens, enhancing their awareness for an active and healthy life but also facilitating their access to healthcare via digital solutions.
+
+About eClinicalHealth (www.clinpal.com)
+
+eClinicalHealth ltd is based in Stirling, Scotland, and is the creator of Clinpal, a leading cloud-based digital patient recruitment and
+
+engagement platform. The company aims to improve clinical trial results and productivity by providing patients, sites and
+
+other key stakeholders with appropriate solutions from recruitment through the study lifecycle and beyond.
+
+****
+
+About BIOPHYTIS:
+
+Biophytis SA (www.biophytis.com), founded in 2006, develops drug candidates targeting diseases of aging. Using its technology and know-how, Biophytis has begun clinical development of innovative
+
+therapeutics to restore the muscular and visual functions in diseases with significant unmet medical need. Specifically, the company is advancing two lead products into mid-stage clinical testing next year: Sarconeos (BIO101) to treat sarcopenic obesity and Macuneos (BIO201) to treat dry age-related macular degeneration (AMD). The company was founded in partnership with researchers at the UPMC (Pierre et Marie Curie University) and also collaborates with scientists at the Institute of Myology, and the Vision Institute
+
+BIOPHYTIS is listed on the Alternext market of Euronext Paris (ALBPS; ISIN: FR0012816825). For more information: http://www.biophytis.com
+
+Disclaimer
+
+This press release contains certain forward-looking statements. Although the Company believes its expectations are based on reasonable assumptions, these forward-looking statements are subject to numerous risks and uncertainties, which could cause actual results to differ materially from those anticipated. For a discussion of risks and uncertainties which could cause the Company's actual results, financial condition, performance or achievements to differ from those contained in the forward looking statements, please refer to the Risk Factors ("Facteurs de Risque") section of the Listing Prospectus upon the admission of Company's shares for trading on the regulated market Alternext of Euronext Paris filed with the AMF, which is available on the AMF website (www.amf- france.org) or on BIOPHYTIS' website (www.biophytis.com).
+
+This press release and the information contained herein do not constitute an offer to sell or a solicitation of an offer to buy or subscribe to shares in BIOPHYTIS in any country. Items in this press release may contain forward-looking statements involving risks and uncertainties. The Company's actual results could differ substantially from those anticipated in these statements owing to various risk factors which are described in the Company's prospectus. This press release has been prepared in 5 both French and English. In the event of any differences between the two texts, the French language version shall supersede.
+
+BIOPHYTIS Stanislas VEILLET CEO contact@biophytis.com Tel : +33 (0) 1 41 83 66 00 Milestones Press and investor relations Bruno ARABIAN barabian@milestones.fr Tel : +33 (0) 1 83 62 34 84 Mob : +33 (0) 6 87 88 47 26 LifeSci Advisors Chris MAGGOS Managing Director, Europe chris@lifesciadvisors.com Tel : +41 79 367 6254 Citigate Dewe Rogerson International press Laurence BAULT/Antoine DENRY Laurence.bault@citigate.fr/antoine.denry@citigate.fr Tel : +33 (0)1 53 32 84 78 Mob : +33(0)6 64 12 53 61

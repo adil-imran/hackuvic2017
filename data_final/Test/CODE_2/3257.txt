@@ -1,0 +1,28 @@
+http://www.bloomberg.com/news/articles/2016-10-11/flash-boys-may-win-on-keeping-code-secret-as-cftc-mulls-tweaks
+60
+6
+The top U.S. derivatives regulator is considering modifying its push for access to computer code after high-speed traders said the effort would be unprecedented and could put the industry’s secret trading formulas at risk.
+
+The requirement, which is part of a broad package of new rules unveiled last November, is one of the measures the Commodity Futures Trading Commission may tweak, Chairman Timothy Massad said during an interview Tuesday with Bloomberg News in Washington. He said the regulator is planning to propose those modifications before the end of the year.
+
+The CFTC is trying to step up oversight of high-frequency traders as so-called flash crashes become more prevalent. Disruptions such as the May 2010 plunge in equities, a harrowing swing for Treasuries in 2014 and the British pound’s historic decline last week have all spurred questions about the resilience of markets and led to a debate over the best way to regulate high-speed and other forms of computer-driven trading. Massad said during an interview Tuesday on Bloomberg Television that the regulator was looking into what caused the pound’s dip.
+
+The agency has spent almost three years reviewing industry feedback on just the possibility of new rules for traders known for submitting thousands of buy and sell orders at speeds faster than the blink of an eye. The CFTC proposed a registration requirement in November that would affect as many as 100 firms that have changed markets by trading their own money through complex algorithms and advanced technology like microwave towers. Automated activities now represent three-quarters of trading in some derivatives markets but aren’t subject to key government policies for curbing risk.
+
+Intellectual Property
+
+The computer code measure requires firms to create a repository for their algorithms and give the CFTC more access to them, so the agency could inspect and review the codes to see what role they played in a market malfunction. It’s been controversial because trading codes contain firms’ secrets and lucrative trading strategies. Firms from CTC Trading Group LLC to Intercontinental Exchange Inc. have expressed concern over increasing government access to their algorithms, which they consider to be intellectual property.
+
+“We can think of no other circumstance where market participants have been required to reveal, to a regulator, their thoughts, words or actions regarding future automated or manual trading intent,” the Modern Markets Initiative wrote in a June letter to the CFTC. Forcing firms to provide their code without a subpoena “constitutes an unlawful seizure of protected intellectual property,” the industry trade group said in its letter.
+
+Massad acknowledged the issue “was certainly an issue people gave us comments on.”
+
+“This is one of the issues that we’re thinking about,” he said.
+
+Ensuring Confidentiality
+
+Most people in the industry are supportive of preservation of the code, but are wary of giving regulators access, according to Massad.
+
+“I’m committed to coming up with a rule that respects confidentiality, while at the same time ensuring that we have that access,” Massad said. “We never were trying to require firms to give us their source code as a regular thing or as a routine matter.”
+
+Meanwhile, Republican Commissioner J. Christopher Giancarlo has argued it isn’t clear why the CFTC or the Justice Department would need access to the code without a subpoena. The November proposal “dramatically lowers the bar for the federal government to obtain this information,” he said.

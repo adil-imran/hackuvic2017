@@ -1,0 +1,36 @@
+http://www.thestar.com.my/business/business-news/2016/08/19/two-blocks-of-yen-global-shares-crossed-at-rm1/
+60
+6
+PETALING JAYA: Two blocks of Yen Global Bhd’s shares amounting to a 5.9% stake in the company were crossed at RM1 yesterday, indicating that could be a new major shareholder could be emerging in the company.
+
+Shares in Yen Global closed the day at RM1.09 a piece, which was its 52-week high. At RM1.09, Yen was up 151% on a year to date basis.
+
+It isn’t clear which party acquired this block although the deal comes shortly after the entry of two new parties in the company. Although loss-making, Yen Global is transforming into a technology company making inroads into the Internet of Things (IoT) space.
+
+In July, Taiwan-listed Gemtek Technology Co Ltd bought an additional 20% in Yen, after an initial 10% to raise its stake to 30% thereby making it the single largest shareholder of the company.
+
+The entry of Gemtek marked Yen Global’s transformation into an IoT player.
+
+Gemtek’s 20% block was transacted at 50 sen a share, while its earlier 10% stake was bought at 52 sen.
+
+On Aug 3, Green Packet Bhd emerged as a substantial shareholder after it acquired a 22% stake in Yen Global at 60 sen per share or a total of RM18.15mil.
+
+Meanwhile yesterday, Yen Global’s unit Atilze Digital Sdn Bhd signed a memorandum of collaboration with Cyberjaya developer Cyberview Sdn Bhd to team up in the roll out of a city-wide long range (LoRa) network in Cyberjaya
+
+LoRa is a low power, long range, wide area network (LPWAN) technology that provide IoT connectivity.
+
+“Using LoRa technology, we will enable a cost effective means of implementing viable and relevant IoT applications for Cyberjaya to enhance urban management,” Atilze chief executive officer Gerard Lim said in his speech at the signing yesterday.
+
+The collaboration will be for a period of one year, and Lim said upon completion of the installation of the LoRa network, Atilze will continue to manage, operate and provide maintenance, service and support services for the said network in Cyberjaya.
+
+In explaining the advantages of the LoRa network, Lim said: “4G LTE technology is not cheap and quoting from a reliable operator that has already deployed LoRa, the overall cost can be around 10 times lower than a 4G network”.
+
+Cyberview managing director Datuk Faris Yahaya said that the firm would be inviting the other partners who have ready IoT applications, to work and integrate their IoT applications to be LoRa enabled, and implemented on Cyberjaya’s LoRa network.
+
+“With this collaboration, Cyberview and Altize will be working together to create the catalyst needed to further spur Cyberjaya into the first smart city in Southeast Asia,” he said.
+
+The signing ceremony was also in conjunction of a two-day conference of the 10th edition of Asian IoT Business Platform to discuss on the growth of the IoT ecosystem in Malaysia as well as industry trends and opportunities and its impact on Malaysian businesses.
+
+Ministry of Science, Technology and Innovation’s research arm Mimos senior director and head of corporate market strategies Helmi Halim said IoT Malaysia is currently at its infancy stage and the government would focus on value creation to implementation of IoT in strategic sectors.
+
+“IoT has definitely created new opportunities, especially when it comes to industry applications and services. We see immense growth opportunities for the small and medium enterprises,” he said.

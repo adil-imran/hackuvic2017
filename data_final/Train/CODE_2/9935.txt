@@ -1,0 +1,37 @@
+https://www.yahoo.com/news/verizon-ceo-not-shocked-yahoo-203757320.html
+120
+12
+Lowell McAdam , CEO of Verizon, said Monday he was "not that shocked" about a Yahoo data breach where the information from 500 million users was stolen, saying it was not a matter of if, but when.
+
+The internet is "not the happy place where you can put all your personal information out and expect it to be safe," McAdam said. "You've got to take steps to protect yourself."
+
+McAdam spoke from the Internet Association's Virtuous Circle conference in Menlo Park, California, meant to gather "the most important stakeholders of the internet economy."
+
+After enduring years of high-profile struggles, Yahoo (YHOO) finally reached a deal to be bought by Verizon (VZ) for $4.8 billion in July . But since then, Yahoo has come under fire after it revealed the security breach, likely perpetrated by state actors, that occurred in late 2014. Such actors have a lot of resources, McAdams said, and he said "occasionally they're going to land a punch."
+
+"Certainly not anything we wanted to have happen," McAdam said. "Certainly we're going to do everything we can to fortify ourselves. But I think people are beginning to realize this is part of the way the internet operates."
+
+
+
+McAdam said the company is 50 to 60 percent done with its investigation.
+
+
+
+Media outlets have reported that Yahoo CEO Marissa Mayer may have known about the breach sooner , that the company was slow to invest in cyberdefenses and that Yahoo may have authorized emails to be scanned by the government. Since then, a report from the New York Post, unconfirmed by CNBC, indicated that Verizon may demand a price negotiation on their deal.
+
+"That is just total speculation — we still see a real value to the asset there," he said. "But in fairness, we're still understanding what was going on, to define whether it's a material impact to the business or not. But the industrial logic of doing this merger still makes a lot of sense ... I'm hoping we can get through all this stuff and get to the close [of the deal]."
+
+Yahoo said that reports of government requests were "misleading" and that it is working closely with law enforcement on the cyberattack.
+
+"With the government involved, sometimes you're asked not to disclose this kind of thing," McAdam said.
+
+
+
+Verizon's investment on Yahoo comes on the heels of its acquisition of AOL, which introduced Verizon to the way advertising technology works. He said it's important to be clear and let customers elect what data they want to share.
+
+"I think, and we'll see how AOL and Yahoo come together, but I think that entity can be easily one of the top three," McAdam said. "I think we can provide the content and applications that will stand up with anything that goes up on the West Coast."
+
+— Reporting by CNBC's Mike Newberg and Julia Boorstin .
+
+Correction: McAdam spoke at the Internet Association's Virtuous Circle conference. A previous version misstated the name of the conference.
+

@@ -1,0 +1,56 @@
+http://www.huffingtonpost.com/entry/what-to-do-during-the-next-airline-computer-meltdown_us_57b09b5de4b03d06fe851f80
+160
+16
+Catastrophic computer outages that paralyze an entire airline are few and far between. Except this summer.
+
+Last month, Southwest Airlines canceled 2,300 flights after a router in one of its data centers failed, delaying hundreds of thousands of passengers. And last week, Delta Air Lines suffered a massive computer outage, which triggered the cancellation of 451 flights in a single morning.
+
+A rare look behind the curtain at Southwest’s meltdown offers several important customer-service lessons for passengers who experience similar delays in the future. And in an industry that depends on finicky information systems, these incidents are bound to repeat themselves. They’ve left customers wondering how to avoid getting stuck in another IT collapse, and what, if anything, an airline can do to make up for such an event.
+
+Related: Frequently asked questions about air travel.
+
+Jack Russell, who was scheduled to fly from St. Louis to Las Vegas last month, had a front-row seat for Southwest’s IT issues, which an employee euphemistically blamed on a “software problem.” The airline’s proposed fix: Fly him to Vegas four days later.
+
+As the executive vice president of a software company in St. Louis, Russell knows a thing or two about computers that go on the blink. But he’s less understanding about Southwest’s IT implosion, which he says left him with little choice but to pay an extra $1,800 to reach his destination.
+
+“I spent twice as much money as I thought I would to get to Las Vegas,” Russell says. “If my customers had an outage created by my company and I said, ‘Sorry, it was a freak occurrence,’ they would be waiting at my doorstep with their lawyer.”
+
+The Southwest systems problem suggests how fragile even the best-run airlines can be. It started in the early afternoon of July 20, when one of its small Cisco routers, out of about 2,000 such pieces of hardware that direct the airline’s network traffic, failed.
+
+This router broke in an unusual way. Instead of registering the error, which would have allowed network administrators in Southwest’s Dallas data center to take it offline immediately and replace it with a working router, it behaved as if it was still operating normally. Only, it wasn’t directing any traffic.
+
+Although network administrators spotted the error within half an hour, enough traffic had backed up that critical systems needed to be rebooted — a process that took a full 12 hours and affected critical functions, including the airline’s website, its smartphone app and several internal systems used by Southwest employees to handle reservations. It was as if someone had turned off the lights for half a day.
+
+When the systems flickered back to life, the problems continued. The airline still didn’t have enough information to restart all flights. Because its systems had been down for so long, it couldn’t be sure whether some of its crews had taken enough rest, as required by the Federal Aviation Administration. That forced Southwest to cancel more flights on July 21 and 22.
+
+Brandwatch, a social-tracking service, charted a corresponding tsunami of anger on Southwest’s social media channels. The airline drew 36,905 mentions in a single day on July 21, an almost 20-fold increase from normal levels.
+
+“The spike in incoming volume that this received was incredible,” says Joshua March, the chief executive of Conversocial, which offers customer-service software to travel companies. “But the really significant piece in this instance was the inability to effectively scale the response.”
+
+Southwest had no script for handling an event of this magnitude.
+
+“It was really rough,” says Robert Jordan, the airline’s executive vice president and chief commercial officer, who describes the IT catastrophe as a “thousand-year flood.” The airline sent 50-percent-off vouchers to passengers affected by the outage, and in some cases paid for them to fly to their destinations on other airlines. All told, he says Southwest spent “tens of millions of dollars” trying to make amends.
+
+“We know we messed up,” he adds. “We know we have to work really hard to regain our passengers’ trust.”
+
+Southwest is still cleaning up. Russell’s delayed flight to Las Vegas is among the thousands of cases still being processed. Under most circumstances, a full refund for a replacement flight would be a tall order, but these are not normal circumstances.
+
+IT disasters of this scale are unusual. Back in 2012, United Airlines experienced several days of delayed flights and sluggish customer service as it struggled to integrate the IT systems of United and Continental Airlines. Last July, United also suffered an outage that made it cancel hundreds of flights after a network router stopped working.
+
+Asked if passengers could have done anything to get to their destinations faster during such a systems collapse, Jordan paused. So many things went wrong during the event that the normal tricks didn’t work. You couldn’t fall back on calling the airline because even the call-center employees didn’t have access to their IT systems.
+
+“There just isn’t a good answer,” he says.
+
+That’s the consensus of the customer service experts, too.
+
+Elaine Allison, a former flight attendant and on-board service manager who now offers training courses in customer service, says passengers are powerless to negotiate their way around a total systems failure. She happened to be in Las Vegas during the week of Southwest’s outage, but was lucky enough to be flying on another airline.
+
+“Pack at least one day of clothing and small amenities, plus all medications, in a carry-on, in the event luggage is checked and immediately not retrievable,” she says. Russell handled the situation correctly by re-booking his flight on another airline, she says. Southwest must refund a ticket when it cancels a flight.
+
+The trick, says customer service expert Teri Yanovitch, is to look forward and not back. Southwest needs to figure out how to say it’s sorry without losing its shirt, and customers need a game plan should they get caught in a future systems failure.
+
+“Southwest needs to explain the situation and how Southwest will prevent it from happening again,” she says. “As a customer, the best you can do when all critical IT systems are down is to keep calm, don’t take it out on the employee — it is not their fault — and consider your options for alternate transportation based on the situation.”
+
+Research suggests that Southwest can make a full recovery, Yanovitch says. When a recovery is handled correctly, 96 percent of the customers will return. And when it’s not? In 2012, when United Airlines suffered its first meltdown, it was the world’s largest airline. Today, it’s No. 3.
+
+After you’ve left a comment here, let’s continue the discussion on my consumer advocacy site or on Twitter, Facebook and Google. I also have a newsletter and you’ll definitely want to order my new, amazingly helpful and subversive book called How to Be the World’s Smartest Traveler (and Save Time, Money, and Hassle).

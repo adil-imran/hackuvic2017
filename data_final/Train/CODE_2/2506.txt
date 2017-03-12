@@ -1,0 +1,56 @@
+http://www.politico.com/tipsheets/morning-tech/2016/10/sandberg-treasury-secretary-talk-has-some-progressives-worried-216911
+52
+5
+Sandberg Treasury Secretary talk has some progressives worried
+
+PROGRESSIVES PIQUED OVER SANDBERG-FOR-TREASURY TALK — Sheryl Sandberg, the billionaire Facebook COO and author of “Lean In,” continues to garner attention as a potential Treasury Secretary in a Hillary Clinton administration, but all the talk has some progressives concerned. Sandberg is “drawing red flags from progressives, who are suspicious about her ties to former Clinton administration Treasury Secretary Larry Summers, unhappy with Facebook’s international tax practices and wary about seeing the next Democratic White House stack its Cabinet with allies of big business,” POLITICO’s Zachary Warmbrodt, Ben White and Tony Romm report. “That makes Sandberg an illustration of the lingering skepticism by Sen. Elizabeth Warren and other progressive Democrats about the staffing and economic policies of a Clinton presidency — even though Sandberg said last week that she has no intention of leaving Facebook.”
+
+— But she’s also seen as a symbol of an exclusive club of tech titans that wield immense influence. “She's a proxy for this growing problem that is the hegemony of five to 10 major Silicon Valley platforms,” David Segal, executive director of advocacy group Demand Progress, told POLITICO. But Sandberg, who worked at Treasury during Bill Clinton’s administration and is also being mentioned as a possible pick to run Commerce, “would bring many advantages to Clinton’s administration: Clinton's advisers view her as both highly progressive and experienced in the corporate sector through her years at Facebook and Google. She would be a high-profile woman in a Cabinet that Clinton has said would be at least 50 percent female.”
+
+Story Continued Below
+
+YAHOO TAKING NO QUESTIONS ON EARNINGS — Yahoo will release its third-quarter earnings after the market’s closing bell today, but the company said late last week that it will not hold a customary earnings call or webcast, “due to the pending transaction with Verizon.” That decision, not entirely surprising, means investors will likely have to wait to learn whether Yahoo’s performance has been hobbled by the massive hack that affected 500 million users and reports that it helped law enforcement track user data. Verizon has said it believes Yahoo’s value has suffered from that one-two punch, and that it may choose to renegotiate the deal.
+
+TECHIES BUNDLING FOR CLINTON — The “Hillblazers” have big-name techies among them. That’s what Clinton calls bundlers who have given or raised $100,000 for her campaign’s uniquely successful money machine, reports POLITICO’s Shane Goldmacher. There are 1,133 of them, “nearly double the number of any past presidential candidate, including President Obama four years ago,” Shane writes. Napster co-founder Sean Parker is a Hillblazer. So, too, are venture capitalist Chris Sacca, Yahoo CEO Marissa Mayer and the aforementioned Sheryl Sandberg.
+
+— “While Clinton and her advisers like to tout her small online donors,” Shane writes, “it is these bundlers in more than 40 states and four foreign countries who form the true backbone of her financial operation. Combined, this elite $100,000-and-up club has amassed a minimum of $113 million for Clinton and the Democratic Party — and the actual figure is likely far, far higher than that.”
+
+GOOD TUESDAY MORNING! Welcome to Morning Tech, where we’ve got even more questions after this week’s Westworld. Send your tech tips and comments to lzhou@politico.com and @liszhou. Catch the rest of the team’s contact info after the calendar.
+
+INTRODUCING POLITICO EUROPE’S PRO TRANSPORT — To mark the launch of Pro Transport, POLITICO Europe is slated to hold a kickoff event that starts at 6 p.m. CET Tuesday, featuring an interview with Violeta Bulc, European Commissioner for Transport and Mobility. Get more details here.
+
+RIDE-SHARING AND THE CANCER MOONSHOT — Vice President Joe Biden on Monday delivered a report to President Barack Obama regarding the progress of the Cancer Moonshot Initiative, which he has led since January. Uber and Lyft both made an appearance in the report as companies that have offered to help provide transportation for cancer patients traveling to and from treatments and other medical appointments. According to a fact sheet on the initiative, Lyft pledged to expand a “Treatment Transport” partnership it operates in Boston to the 200-plus cities in which it now does business, by 2020. Uber has also committed to provide its service to patients in over 500 cities by 2018.
+
+A FINTECH GUIDE FOR REGULATORS — The Information Technology and Innovation Foundation has a report out this morning calling out key principles for policymakers to consider as they develop regulations for the burgeoning “fintech” industry. Given how complex the regulatory environment can be for financial institutions, the report indicates that fintech players — which provide digital and mobile services that handle financial transactions like money transfers, deposits and loans — need policies that offer room to experiment, while enforcing consumer protections.
+
+— “The financial services industry is at an inflection point,” said Daniel Castro, Information Technology and Innovation Foundation vice president and co-author of the report. “The industry is poised to take a transformative leap. But, in order to achieve that, the industry will need buy in from policymakers.” The report recommends developing national regulations for fintech, to establish a common standard across states, and strengthening cybersecurity so customer data is safeguarded.
+
+FTC PUTS FINTECH WORKSHOP ON THE DOCKET — The agency is scheduled to hold a second forum on fintech, on Oct. 26, that will examine peer-to-peer lending options and crowdfunding platforms. Panelists included Kickstarter general counsel Michal Rosenn and Financial Innovation Now executive director Brian Peters.
+
+NETFLIX SMASHES EXPECTATIONS — Its third quarter numbers were a marked improvement on the disappointment of the previous quarter, topping $2 billion in quarterly revenue for the first time, a 36 percent jump year-over-year. It posted 3.6 million subscribers, well above its projection of 2.3 million. Hit original shows, like “Stranger Things” and “Narcos,” were a boon, but its international push was a main driver.
+
+— A change in China: Netflix noted in a letter to shareholders that it is adjusting its China expansion efforts, because of the country’s complicated regulatory environment. “We now plan to license content to existing online service providers in China rather than operate our own service in China in the near term,” the letter said.
+
+PROJECT INCLUDE BREAKS WITH YC OVER THIEL DONATION — Project Include, an organization dedicated to helping tech companies increase their diversity, has cut ties with Y-Combinator after its president, Sam Altman, stood by Peter Thiel’s partnership in the institution amid outcry over Thiel’s $1.25 million donation to Trump campaign efforts. “We agree that people shouldn’t be fired for their political views, but this isn’t a disagreement on tax policy; this is advocating hatred and violence,” writes Project Include co-founder Ellen Pao in a post on Medium. “Thiel’s actions are in direct conflict with our values. … Because of his continued connection to YC, we are compelled to break off our relationship with YC.”
+
+ICYMI: EEOC SETS UP TECH DIVERSITY WORKING GROUP — The Equal Employment Opportunity Commission on Monday launched an internal working group that will seek to identify practices that can help improve gender and racial diversity at tech companies. The group’s formation follows a May study the agency conducted on high-tech firms, which found stark imbalances in female and minority representation in the industry, relative to that of the private sector.
+
+LGBT TECH PARTNERSHIP TO CHAT WITH PAI — FCC Commissioner Ajit Pai is slated to participate in a fireside chat with the LGBT Technology Partnership this afternoon, with Pai’s Digital Empowerment Agenda serving as a key focus of the conversation. “We look forward to discussing how Commissioner Pai’s Digital Empowerment Agenda and other government efforts can help bridge the digital divide for rural and LGBT communities to maximize their opportunities for entrepreneurship and success,” says Chris Wood, LGBT Technology Partnership and Institute’s co-founder and executive director.
+
+TRANSITIONS — Consumers Union, the policy and mobilization arm of Consumer Reports, has two additions to its legal team: Jonathan Schwantes joins as a senior policy counsel, focusing on telecommunications policy; and Katie McInnis joins as technology policy counsel, with an emphasis on privacy issues. ... Apple has hired Russ Salakhutdinov, a leading artificial intelligence researcher at Carnegie Mellon, as a director of AI research.
+
+QUICK DOWNLOADS
+
+Livestreaming a war zone: News outlets on Monday used Facebook Live to stream footage of combat as the long-awaited battle to liberate Mosul, Iraq, from the Islamic State began.
+
+Hillary Clinton’s 48 hours on Snapchat: The Democratic nominee is expected to appear on Snapchat’s politics show “Good Luck America” this morning, talking with Peter Hamby for a segment that will be available on the platform for 48 hours, starting at 6 a.m. ET. Snapchat says Donald Trump declined to participate in an interview for the show.
+
+Apple downshifts self-driving car plans: The company no longer plans to build its own autonomous vehicle, but instead will focus on developing software with an eye toward launching it in conjunction with automakers, Bloomberg reported.
+
+Tesla moves product launch to Wednesday: The “unexpected” product that it is poised to reveal wasn’t quite ready, and “needs a few more days for refinement,” Tesla founder Elon Musk tweeted.
+
+Gender discrimination suit against Microsoft a go: A judge declined to grant Microsoft’s request to dismiss a class-action suit led by three women who allege gender discrimination in the tech company’s promotion and pay practices.
+
+WikiLeaks blames Ecuador: The site tweeted on Monday that the internet connection that its founder, Julian Assange, uses in his hideout at the Ecuadorian embassy in London was cut off by Ecuador on Saturday, “shortly after” the site published emails that purportedly contained full transcripts of speeches Hillary Clinton gave to Goldman Sachs.
+
+Tips, comments, suggestions? Send them along via email to our team: Alex Byers (abyers@politico.com, @byersalex), Eric Engleman (eengleman@politico.com, @ericengleman), Angela Greiling Keane (agreilingkeane@politico.com, @agreilingkeane), Tony Romm (tromm@politico.com, @tonyromm), Nancy Scola (nscola@politico.com, @nancyscola), Margaret Harding McGill (mmcgill@politico.com, @margarethmcgill), Ashley Gold (agold@politico.com, @ashleyrgold) and Li Zhou (lzhou@politico.com, @liszhou).

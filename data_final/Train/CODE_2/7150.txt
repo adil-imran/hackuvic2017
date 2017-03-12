@@ -1,0 +1,36 @@
+http://indianexpress.com/article/technology/tech-news-technology/trai-net-neutrality-order-now-vodafone-idea-4g-packages-under-scanner/
+1043
+10
+Vodafone recently launched its 4G services in Delhi, where it offered some free data as well. Vodafone recently launched its 4G services in Delhi, where it offered some free data as well.
+
+The Telecom Regulatory Authority of India’s (TRAI) regulation on differential tariffs, which came into force from February 8, has thrown operators like Vodafone India and Idea Cellular into a tizzy. These operators do not have an operator-agnostic application like Bharti Airtel’s Wynk for movie and music downloads, but have tie-ups with Hungama Play exclusively for their subscribers, where subscription charges are waived off for the first three months.
+
+While any such differential tariff-like package, which was already in force, can continue for a maximum of six months according to TRAI’s direction, Vodafone has launched such packages in two circles — Mumbai and Bangalore — after the new regulation was announced — on February 10 and 11, respectively.
+
+The package waives off subscription charges for downloading movies/songs from Hungama Play though data charges will apply. Vodafone’s contention is that the package does not violate differential tariff as unlike Wynk, it is exclusively for Vodafone subscribers and therefore, very much within the parameters of TRAI’s regulation. However, the company concedes that it is a grey area and lacks clarity, so it will seek clarity from the regulator.
+
+Also read: Vodafone rolls out 4G services in Mumbai; offers free SIM upgrade to users
+
+Though Idea Cellular has not launched any such package in any circle post the regulation, it has such packages in circles where it has so far launched 4G services. The firm said it can therefore carry on with the package as per the permissible period by TRAI, but will seek clarification on such packages from the regulator. Industry sources said that the Cellular Operators Association of India will also write to TRAI seeking clarification on such tariff packages.
+
+However, TRAI officials said that the packages by Vodafone and Idea, though distinct from Wynk, violate differential tariff regulations. According to TRAI, anything that’s available on the Internet cannot have differential tariff.
+
+“Though the packages in question are exclusively for the subscribers of the service provider, any other subscriber can also access the same via the Net but will have to pay subscription charge whereas a Vodafone subscriber will not, so there’s discrimination,” an official said.
+
+The option, therefore available before the operators, is to buy such movies/songs from the content provider, store it on their server and offer only to their subscribers through some closed communication network. This way, they are free to provide it for free if they want.
+
+TRAI’s differential tariff regulation notified on February 8 bars operators from offering differential data tariffs through select tie-ups with content providers, which it has labelled as “discriminatory”.
+
+The regulation, apart from being a strict no-no to Facebook’s Free Basics and Bharti Airtel’s yet-to-be operationalised Airtel Zero, impacts a host of tariff packages which operators provided to access WhatsApp, Facebook, movies and songs.
+
+However, it allows operators to provide free apps and content to their subscribers on closed communication networks called Intranet. The first to be impacted was Airtel, which has launched a music streaming app called Wynk. It offers the basic version with a subscription fee of Rs 99 per month for Android phone users, and Rs 120 per month for Apple users.
+
+Also read: Vodafone 4G services launched in Bengaluru
+
+However, Bharti users get this subscription waived if they use the company’s 3G or 4G services. Also, the premium version of the app that comes with a subscription fee of Rs 129 a month and offers about 500 songs’ download waives off data charges for Bharti Airtel users.
+
+While subscribers of other operators can download this app, they will have to pay for the download charges. Such schemes will have to be closed once their existing validity comes to an end, which shall not be later than six months at the most.
+
+However, if Bharti’s Wynk app was not available on the internet as it currently is, and tomorrow is restricted to only Bharti subscribers through a closed communication network, the company can offer the service free of data charge to its subscribers. Similar will be the case with Reliance Jio’s Jio Chat.
+
+(This story originally appeared in Financial Express. R Jaikrishna contributed to this story)

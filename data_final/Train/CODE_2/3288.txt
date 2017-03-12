@@ -1,0 +1,26 @@
+http://indianexpress.com/article/lifestyle/health/altering-human-flavour-may-help-fight-malaria-study-3075013/
+60
+6
+Malaria is an infectious parasite disease of humans and animals transmitted by the bite of the female mosquito. (Source: Thinkstock Images) Malaria is an infectious parasite disease of humans and animals transmitted by the bite of the female mosquito. (Source: Thinkstock Images)
+
+Scientists have identified an area of the mosquito brain that mixes taste and smell, an advance that may help find a substance that makes “human flavour” repulsive to the malaria-bearing species.
+
+Using the substance, the mosquitoes instead of feasting on humans may keep the disease to themselves, potentially saving an estimated 450,000 lives a year worldwide, researchers said.
+
+“All mosquitoes, including the one that transmits malaria, use their sense of smell to find a host for a blood meal,” said Christopher Potter, assistant professor at the Johns Hopkins University School of Medicine in the US.
+
+“Our goal is to let the mosquitoes tell us what smells they find repulsive and use those to keep them from biting us,” said Potter.
+
+Malaria is an infectious parasite disease of humans and animals transmitted by the bite of the female Anophelesgambiae mosquito. In 2015, experts estimate it affected 214 million people, mostly in Africa, despite decades of mosquito eradication and control efforts.
+
+There is no malaria vaccine, and although the disease is curable in early stages, treatment is costly and difficult to deliver in places where it is endemic.
+
+Smell is essential to mosquito survival and each mosquito has three pairs of “noses” for sensing odours: two antennae, two maxillary palps and two labella.
+
+The maxillary palps are thick, fuzzy appendages that protrude from the lower region of the mosquito’s head, more or less parallel to its proboscis, the long, flexible sheath that keeps its “feeding needle” under wraps until needed.
+
+At the very tip of the proboscis are the labella, two small regions that contain both “gustatory” neurons that pick up tastes and olfactory neurons for recognising odourants. To better understand how Anopheles gambiae mosquitoes that cause malaria receive and process olfactory information from so many sensory regions, Potter’s team wanted to see where olfactory neurons from those regions go to in the brain.
+
+They used a powerful genetic technique to make certain neurons “glow” green. The green glowing label was designed to appear specifically in neurons that receive complex odours through proteins called odourant receptors (ORs), since OR neurons are known to help distinguish humans from other warm-blooded animals in Aedes aegypti mosquitoes, which carry the Zika virus.
+
+“This is the first time researchers managed to specifically target sensory neurons in mosquitoes. Previously, we had to use flies as a proxy for all insects, but now we can directly study the sense of smell in the insects that spread malaria,” said lead author Olena Riabinina, now postdoctoral fellow at the Imperial College London.The study appears in the journal Nature Communications.

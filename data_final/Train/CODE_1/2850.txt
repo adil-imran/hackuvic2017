@@ -1,0 +1,66 @@
+http://www.nytimes.com/2016/10/30/us/harold-martin-nsa.html
+154
+15
+His actions, which prosecutors described in court as “breathtaking,” have already cast a harsh light on the government’s ability to police the 3.1 million employees and 900,000 contractors who hold clearances — or even the much smaller number who work inside the most closely guarded programs, as Mr. Martin did. His case appears to show serious breakdowns in personnel evaluation, technology designed to detect leaks and the basic job of inspecting people leaving secure buildings.
+
+Photo
+
+Dennis C. Blair, a former director of national intelligence, said he was “shocked” that Mr. Martin managed to remove classified material in bulk as recently as this year, in part because the government has spent tens of millions of dollars since 2010 on measures to prevent unauthorized activity or downloads.
+
+“If there are breakdowns in your security system, as there clearly were with Snowden and this guy, you have to look at whatever went wrong and fix it,” Mr. Blair said.
+
+Advertisement Continue reading the main story
+
+Some intelligence officials sounded a defensive note. William R. Evanina, the government’s top counterintelligence official, said it may be infeasible to prevent every breach at an agency like the N.S.A., with 35,000 employees.
+
+“I don’t think it’s possible,” Mr. Evanina said. He credited the government with doing “an amazing job” in tightening security and called the N.S.A. “one of the leaders.” Despite such efforts, he said, “if someone is intent on stealing classified data, it’s very hard to stop them.”
+
+But a look at Mr. Martin’s past raises a question: Did his erratic behavior ever prompt a review of his top secret clearance, which allowed him to work on some of the nation’s most sensitive intelligence operations over two decades at eight contractors? His record of personal and legal troubles reads like it might have been drawn from the official list of factors that can be used to deny a clearance.
+
+Clearances by the Numbers The number of people with security clearance is a little over 1 percent of the U.S. population. 4 million total security clearance holders
+
+1.3 million with top secret clearance Of the 1.3 million, 900,000 are government employees and 400,000 are private contractors
+
+In 2000, the State of Maryland put an $8,997 lien on Mr. Martin’s property for unpaid taxes that he would not pay off till 2014, a sign of chronic financial difficulties. In 2003, he was charged with misdemeanor computer harassment, a result of pestering a woman with unwanted messages. The charge was eventually dismissed.
+
+Mr. Martin has a history of “binge drinking on a monthly basis,” Judge Richard D. Bennett of Federal District Court said in a detention hearing on Friday. Alcoholism does not automatically block a security clearance, officials say, but the person must acknowledge the issue and seek treatment.
+
+In 2006, Mr. Martin was charged with driving under the influence. In 2008, he cut off another driver and in the ensuing argument, announced that he was a police officer, according to two acquaintances who did not want to be named speaking critically of him. When it turned out the other driver was an off-duty state trooper, Mr. Martin fled. The local police charged him in the incident, but the record of the episode was later expunged.
+
+“Those are all big red flags, and reasons why you wouldn’t get a clearance,” said Ross Schulman, a cybersecurity expert at the Open Technology Institute at New America, a Washington research group. “What seems clear in this case is that they dropped the ball in choosing who to allow access to their material and computers in the first place.”
+
+The year after the episode of police impersonation, Mr. Martin was hired by the contractor Booz Allen Hamilton, for whom he would work at the N.S.A. for the next six years before being moved in 2015 to a Pentagon job involving offensive cyberwarfare.
+
+Photo
+
+A routine five-year renewal of his security clearance in 2012 should have covered all his legal tangles and the breakup of his two marriages, in the late 1990s and 2010. Such reviews include a polygraph test, in which a standard question asks about mishandling of classified information. If such a question was asked, Mr. Martin appears to have passed the polygraph.
+
+Advertisement Continue reading the main story
+
+In recent years, intelligence agencies have begun to bolster the five-year reviews with “continuous evaluation,” said Mr. Evanina, the counterintelligence chief. That means public databases showing criminal or civil cases, unpaid debts and divorces should all be scanned constantly for the names of clearance-holders, he said.
+
+In a major upgrade to the security system after the transfer of military and diplomatic files by the former Army private now known as Chelsea Manning to WikiLeaks in 2010, the N.S.A. and other agencies installed specialized software to detect unusual conduct on agency networks or large downloads of secret data. Agencies also cracked down on removable storage devices like CDs and thumb drives, literally gluing drives shut or disabling the software required to use them.
+
+But one former senior intelligence official suggested that Mr. Martin might have dodged those safeguards because he was assigned to Tailored Access Operations, the N.S.A. hacking unit. Because the unit develops malware to break into foreign computer networks and steal secrets, its machines are segregated from N.S.A.’s main network to avoid the possibility that a rogue program could get loose and do damage.
+
+In the separate network, the electronic alarms that sound for unusual downloads may not operate and the ban on thumb drives does not always apply, said the official, who spoke on the condition of anonymity because the investigation is continuing. “By the nature of the work he’s in, you have to carve that out so as not to do harm to your own system,” he said.
+
+Photo
+
+The last chance to stop someone from carrying off secrets is at the gates to N.S.A. facilities. Mr. Martin’s lawyer, James Wyda, said in court that “there was nothing sophisticated Mr. Martin did to remove this information” from the agency. But before the lawyer could elaborate, prosecutors abruptly objected, evidently concerned about the message that security is lax.
+
+Only the most intrusive search would detect papers or a small drive hidden under clothing, and officials fear that universal searches would be impractical and send a message of mistrust.
+
+“You don’t want to create a Stasi-like atmosphere,” said Michael V. Hayden, a former N.S.A. and C.I.A. director, referring to the East German secret police. Instead, N.S.A. guards carry out random searches, which sometimes included the director, he said.
+
+Advertisement Continue reading the main story
+
+Several former N.S.A. workers said that if Mr. Martin was ever caught with a few classified pages, he might have pleaded absent-mindedness and escaped punishment. But F.B.I. agents who took 50 terabytes of data from his house found it on disks, hard drives and thumb drives. Had security guards found any of those leaving the agency, it would have set off an investigation, Mr. Martin’s former colleagues said.
+
+The N.S.A. is now conducting an internal review to track everything Mr. Martin took to its source to understand the breaches, officials said. But the case has reinforced how technology that makes it easy to store and move huge volumes of data can threaten security, Mr. Hayden said.
+
+As more details on the case emerged last week — including prosecutors’ assertion that the documents Mr. Martin took contain the names of some intelligence officers who worked undercover — Booz Allen Hamilton announced that it had hired the former F.B.I. director Robert S. Mueller III to review its security and management practices. For Booz Allen, Mr. Martin’s arrest was a second devastating blow: Mr. Snowden was also an employee when he took hundreds of thousands of N.S.A. documents in 2013.
+
+Senator Dianne Feinstein, the vice chairwoman of the Senate Intelligence Committee, said she expected the committee to examine the incident, both to review whether recent security upgrades at N.S.A. are sufficient and consider further improvements.
+
+In court on Friday, Judge Bennett concluded that Mr. Martin posed too much of a flight risk to release before trial. Though there is no proof so far that Mr. Martin passed the secrets he took to others, “the harm has already occurred,” the judge said, “in terms of the loss of confidence on the part of the public” in the intelligence agencies.

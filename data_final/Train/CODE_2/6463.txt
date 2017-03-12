@@ -1,0 +1,46 @@
+http://www.bloomberg.com/news/articles/2016-09-12/southwest-engine-fan-blade-broke-off-in-mid-flight-last-month
+90
+9
+A fan blade on a jet engine snapped off a Southwest Airlines Co. plane last month in a violent failure that sent debris slamming into the plane, according to a preliminary investigative report released Monday.
+
+Investigators with the U.S. National Transportation Safety Board found evidence of a crack “consistent” with metal fatigue in the titanium-alloy blade, it said in a statement released on the agency’s website.
+
+The Boeing Co. 737-700 was forced to make an emergency landing in Pensacola, Florida, Aug. 27 after parts of the left engine broke apart, damaging the fuselage, wing and tail. The plane lost cabin pressure and passengers Tweeted pictures of themselves with oxygen masks on.
+
+While no one was hurt on the flight from New Orleans to Orlando, Florida, some of the 99 passengers aboard reported on social media that the diversion was harrowing as they looked outside and saw the air intake known as a cowling had been ripped loose, exposing the front of the engine. The five crew members also weren’t hurt.
+
+The CFM56 engine was built by CFM International Inc., a joint venture between General Electric Co. and Safran SA.
+
+The NTSB has not determined the cause of the failure.
+
+Lost Pressure
+
+An unidentified shard put a 5-by-16-inch (13-by-41-centimeter) gash in the side of the plane above the wing, according to investigators. The cabin leaked air and lost pressure after the failure, though the NTSB said no metal from the engine pierced the cabin and no debris was found within the plane.
+
+NTSB investigators view so-called “uncontained” failures seriously because they can fling heavy metal parts into fuel lines, electronics and the passenger compartment. And under requirements in the U.S. and other nations, it’s never supposed to happen.
+
+Regulations hold that jet engines must be built with a strong enough exterior casing to prevent fan blades and other debris from breaking through in the event of a failure. Tests must be conducted simulating a fan-blade breakup to prove that the metal shards can’t escape.
+
+Modern jet engines contain a series of spinning fans and if one of them breaks apart it can eject blades and other metal debris at high speeds.
+
+Checking for Cracks
+
+Engine manufacturers and airlines conduct periodic inspections on planes designed to spot any evidence of cracks or weakening of the metal due to fatigue. Investigators did not say why they suspect the fan blade broke loose.
+
+"GE and Safran continue to assist the NTSB in its investigation," GE spokesman Rick Kennedy said.
+
+The last maintenance check on the Southwest plane was on Aug. 21, according to Brandy King, an airline spokeswoman.
+
+While increasingly rare, engine failures that propel shrapnel into the fuselage of a plane have proved fatal in the past. A mother and child seated in a Delta Air Lines Inc. plane were killed on July 6, 1996, in Pensacola when the left power plant on a Boeing MD-88 broke apart while accelerating for takeoff.
+
+After the front fan blade disintegrated, it sent metal shards flying into the plane where people were sitting, according to the NTSB. A manufacturing defect in the engine, made by United Technologies Corp. division Pratt & Whitney, should have been detected by airline maintenance workers performing routine inspections, the NTSB investigation concluded.
+
+Shrapnel Damage
+
+The NTSB and other accident investigation agencies around the world occasionally probe other cases in which engines on airliners fail so violently that shrapnel escapes the hardened casing around the turbine and causes more damage.
+
+An Airbus Group SE A380 double-decker jet flying from Singapore to Sydney suffered extensive damage on Nov. 4, 2010, when high-velocity debris from one engine sprayed the plane and two other power plants. The Qantas Airways Ltd. pilots managed to land in spite of damage to the plane’s hydraulics system, electronics and three out of the four engines, according to the Australian Transport Safety Bureau. The failure was traced back to pipes installed on the engine that were too thin and cracked, according to the ATSB.
+
+Overall, jet engine reliability has improved dramatically since the technology was introduced and airliners now routinely fly across oceans with just two power plants because breakdowns are so rare. While far below the leading causes of accidents and death, engine failures ranked fourth in the decade from 2006 through 2015 with 165 fatalities, according to Boeing statistics.
+
+Southwest has begun repairs on the plane, the airline said in an e-mailed statement. The carrier deferred to the NTSB to release details of the investigation.

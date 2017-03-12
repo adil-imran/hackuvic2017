@@ -1,0 +1,24 @@
+https://www.yahoo.com/news/windows-10-deadline-apparently-failed-175703223.html
+130
+13
+Microsoft stopped giving away Windows 10 last week, but consumers didn’t exactly rush to install it before the deadline, data from NetMarketShare.com suggests.
+
+Windows 10 jumped up 1.73 percent in July, according to these figures, going from from 19.4 percent of the overall desktop market to 21.13 percent. That’s in line with June’s gain of 1.71 percent, suggesting the deadline didn’t prompt a bunch of procrastinators to install the latest Microsoft operating system. Adoption rates are expected to slow in August as the giveaway ends, Betanews is reporting.
+
+Related: Windows 10 adoption slows to a crawl
+
+Windows 7 still dominate the desktop browser market, with half of all users still using the seven-year-old operating system.
+
+desktop-market-share More
+
+On one level, these results make sense. After a year of constant prompts and reminders — and cases where some users even ended up with Windows 10 against their will — it’s hard to imagine there were many people left who wanted Windows 10 but simply hadn’t gotten around to it yet.
+
+And yet, a nearly 2 percent uptick in market share in just a month is nothing to sneeze at. That would be a monumental month of growth for Linux, which currently holds 2.3 percent of the desktop market. Windows 10 gained more users in June and July than Linux’s current total, by these numbers. And there are already more Windows 10 users than Mac and Linux users combined.
+
+Windows 10 probably can’t count on 2 percent growth now that the free update is over, but growth won’t stop completely. Most users don’t upgrade operating systems: they buy computers, and use whatever operating system comes with it. This, combined with Enterprise users’ preference for familiarity and stability, explains why Windows 7 still makes up the bulk of the PC market.
+
+Related: Where’s the bottom? PC sales continue to plummet in 2016
+
+But a year after release, there’s a chance the Enterprise market will slowly start adopting Windows 10. The U.S. Department of Defense has already committed to installing Windows 10 on 4 million PCs, for example. Big organizations like this switching over could keep Windows 10 growing.
+
+It’s hard to imagine that type of growth matching the pace of a free download with constant pop-ups, though. For now, like most Microsoft operating systems after one year, Windows 10 has less than half the user base of a previous version of Windows.
