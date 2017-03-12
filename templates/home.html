@@ -8,11 +8,9 @@
     <h1>Non-Violent News</h1>
 
     {% for a in articles %}
-        <li>
-        	<a href={{a[0]}}>{{a[2]}}</a>
-        	<p>{{a[1]}}</p>
-        	<p>{{a[3]}}</p>
-        </li> 
+		<h2><a href={{a[0]}}>{{a[2]}}</a></h2> <!-- URL -->
+		<h3><p>Authors: {{a[1]}}</p></h3> <!-- Authors -->
+		<p>{{a[3]|safe}}</p> <!-- Article body -->
     {% endfor %}
     
 

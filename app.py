@@ -1,9 +1,9 @@
 from flask import Flask, render_template
 import newspaper
-from apscheduler.schedulers.background import BackgroundScheduler
-from apscheduler.triggers.interval import IntervalTrigger
-import datetime
-import atexit
+#from apscheduler.schedulers.background import BackgroundScheduler
+#from apscheduler.triggers.interval import IntervalTrigger
+#import datetime
+#import atexit
 
 app = Flask(__name__)
 
@@ -21,7 +21,8 @@ def get_news_articles(url):
 	for article in last_10:
 		article.download()
 		article.parse()
-		articles.append([article.url, article.authors, article.title, article.article_html])
+		authors = ",".join(article.authors)
+		articles.append([article.url, authors, article.title, article.article_html])
 
 	return articles
 
