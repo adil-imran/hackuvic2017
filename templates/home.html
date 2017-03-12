@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title>Test Template</title>
+</head>
+<body>
+
+    <h1>Non-Violent News</h1>
+
+    {% for a in articles %}
+        <li>
+        	<a href={{a[0]}}>{{a[2]}}</a>
+        	<p>{{a[1]}}</p>
+        	<p>{{a[3]}}</p>
+        </li> 
+    {% endfor %}
+    
+
+</body>
+</html>
