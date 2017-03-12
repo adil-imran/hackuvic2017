@@ -21,4 +21,7 @@ $> Initialized the database.
 export FLASK_APP=newsapp
 export FLASK_DEBUG=true 
 flask run
+$> * Serving Flask app "newsapp"
+...
 ```
+The app will be served at `localhost:5000`
