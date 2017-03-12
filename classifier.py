@@ -90,6 +90,8 @@ class ArticleClassifer(object):
 
         return text
 
+    # expect list of articles
+    # returns - list 0 or 1; 0=Non-safe and 1=safe
     def classify(articleText):
         # violent1 = '/Users/abhi/Documents/hack2017/hackuvic2017/violent1.txt'
         # f1 = readFileFromLine(violentFile,0)
@@ -98,11 +100,7 @@ class ArticleClassifer(object):
         # f4 = readFileFromLine(violent1,0)
         # f5 = readFileFromLine(nv2,0)
 
-        Reddit_articles = []
-        Reddit_articles.append(articleText)
-
         X = cv.transform(Reddit_articles)
-
         out =clf.predict(X)
 
         return out
