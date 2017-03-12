@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<title>Test Template</title>
+
+
+</head>
+
+<body>
+
+	<div class="container">
+		<ul class="nav nav-tabs nav-justified">
+			<li class="active"><a href="#A">Menu 1</a></li>
+			<li><a href="#B">Menu 2</a></li>
+			<li><a href="#C">Menu 3</a></li>
+		</ul>
+		<div class="tab-content">
+			<div id="A" class="tab-pane fade in active">
+				<h1>Non-Violent News</h1>
+				<div class="row">
+					<div class="col-md-7 col-lg-7">
+						<ul class="media-list main-list">
+							{% for a in articles %}
+								<li class="media">
+									<a class="pull-left" href={{a[0]}}>
+										<img class="media-object" style="width:120px" src="{{a[4]}}" alt="...">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">
+											<a href={{a[0]}}>{{a[2]}}</a>
+										</h4> 
+										<p class="by-author">{{a[1]}}</p>
+									</div>
+								</li>
+								<!--<p>{{a[3]|safe}}</p> -->
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="B" class="tab-pane fade">
+				<h1>Menu 2</h1>
+			</div>
+			<div id="C" class="tab-pane fade">
+				<h1>Menu 3</h1>
+			</div>
+		</div>
+		
+	</div>
+
+	<!-- Bootstrap CDN -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<script>
+		$(document).ready(function(){
+		    $(".nav-tabs a").click(function(){
+		        $(this).tab('show');
+		    });
+		});
+	</script>
+</body>
+
+</html>
