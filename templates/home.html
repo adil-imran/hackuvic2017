@@ -24,14 +24,23 @@
 						<ul class="media-list main-list">
 							{% for a in articles %}
 								<li class="media">
-									<a class="pull-left" href={{a[0]}}>
-										<img class="media-object" style="width:120px" src="{{a[4]}}" alt="...">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">
-											<a href={{a[0]}}>{{a[2]}}</a>
-										</h4> 
-										<p class="by-author">{{a[1]}}</p>
+									<div class="col-md-6 col-lg-6">
+										<a class="pull-left" href={{a[0]}}>
+											<img class="media-object" style="width:120px" src="{{a[4]}}" alt="...">
+										</a>
+										<div class="media-body">
+											<h4 class="media-heading">
+												<a href={{a[0]}}>{{a[2]}}</a>
+											</h4> 
+											<p class="by-author">{{a[1]}}</p>
+										</div>
+									</div>
+									<div class="col-md-1 col-lg-1">
+									{% if a[5] == 0 %}
+										<span class="label label-danger">Violent!</span>
+									{% else %}
+										<span class="label label-success">Non-Violent</span>
+									{% endif %}
 									</div>
 								</li>
 								<!--<p>{{a[3]|safe}}</p> -->
