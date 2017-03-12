@@ -21,7 +21,7 @@ def get_news_articles(url):
 	for article in last_10:
 		article.download()
 		article.parse()
-		authors = ",".join(article.authors)
+		authors = ", ".join(article.authors)
 		articles.append([article.url, authors, article.title, article.article_html, article.top_image])
 
 	return articles
