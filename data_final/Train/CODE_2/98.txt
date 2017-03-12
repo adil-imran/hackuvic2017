@@ -1,0 +1,40 @@
+http://www.bloomberg.com/news/articles/2016-10-03/microsoft-s-push-to-win-european-cloud-customers-tops-3-billion
+17
+1
+Microsoft Corp. has spent more than $3 billion building up its cloud infrastructure in Europe, including $1 billion in the past year, part of Chief Executive Officer Satya Nadella’s push to win customers over rivals such as Amazon.com Inc. and Google.
+
+Next year the software maker will open data centers in France as the company continues its investment, Nadella said in an interview Sunday. Microsoft already has more than doubled its computing capacity to deliver Internet-based services in the region, including a network of centers in various European countries to address laws and preferences for keeping data stored locally.
+
+“My expectations would be that investments will continue,” Nadella said ahead of a four-day tour through Europe with stops in Dublin, Berlin, Paris and London. “There will be cyclicality to how we invest, but I fully expect the investments to grow with our business and the impact it has.”
+
+Under Nadella, Microsoft is trying to add cloud customers and gain on larger competitor Amazon, which had three times the market share of Microsoft in the second quarter, both in Europe and worldwide, according to Synergy Research Group. Western Europe will account for 21 percent of $205.7 billion in overall annual public-cloud spending this year, or $42.5 billion, making it the No. 2 region after North America, according to researcher Gartner Inc. By 2020, Gartner expects that number to rise to almost $74 billion.
+
+In Europe, Microsoft has opted for special cloud offerings to respect some local regulations on where information can be stored, including one setup in Germany where access to customer data is controlled by a German company, a subsidiary of Deutsche Telekom AG.
+
+“Europe represents a large market and a pretty complex one in terms of the requirements -- Microsoft’s expansion plans reflect that,” said Ed Anderson, an analyst at Gartner. “Europe is a pretty complex web of different regulatory requirements, some of which bubble up to the EU and some are very country specific.”
+
+Starting Points
+
+Last month, Redmond, Washington-based Microsoft opened a U.K. data center for its Azure cloud-computing service as well as two sites in Germany. The company can also use investments in Western Europe as jumping off points in markets in Eastern Europe that are growing, such as Poland, Hungary and the Czech Republic, Anderson said.
+
+Among public-cloud infrastructure service providers in Europe, the Middle East and Africa, Amazon has 39 percent market share compared with Microsoft’s 13 percent, according to Synergy. Nadella said Microsoft is far closer to Amazon when it comes to customers among governments, small businesses and local startups.
+
+"We definitely acknowledge the lead Amazon has in a segment in an early market, but a sustainable long-term business can only be built when it has broader impact," he said.
+
+Nadella also noted that the U.K.’s coming exit from the European Union won’t diminish Microsoft’s commitment to that market.
+
+Expansion in Europe comes with other potential challenges. Microsoft settled a 10-year antitrust probe in Europe in 2009 and was fined for violating the settlement two years later. Now, rival Salesforce.com Inc. is lobbying regulators there to examine Microsoft’s planned acquisition of LinkedIn Corp., and EU Competition Commissioner Margrethe Vestager has stepped up scrutiny of large technology companies’ privacy, tax and data-sharing practices.
+
+Cloud Policy
+
+Timed to Nadella’s tour of Europe accompanied by President Brad Smith, Microsoft is also releasing a more than 200-page book, “A Cloud for Global Good,” that features 78 public-policy recommendations in 15 categories. Microsoft says these recommendations are critical to making sure economic development spawned by the growth of cloud computing protects the environment and privacy, as well ensuring that the changes don’t leave behind some groups of workers. The goal, Smith said, is to create a cloud that is “trusted, responsible and inclusive.”
+
+The book, which Microsoft officials will use as a blueprint for discussions with governments, reflects an effort to lead technology companies in promoting a shift to cloud -- and setting the related policy agenda through both lobbying and lawsuits. The software maker has urged officials to modernize laws regarding government access to customer data stored in the cloud and has battled the U.S. government in court over the same set of issues, assembling a broad coalition of U.S. companies, organizations and legal experts to back its efforts.
+
+Recommendations in the book include the idea that governments establish privacy frameworks that give users control over their data but also enable companies and organizations to analyze the information to gain insights in an ethical manner.
+
+Microsoft is also suggesting increasing access to clean energy, as well as policies that encourage migration to the cloud, which Microsoft said can be more energy-efficient than corporations running their own data centers. The company asks for a modernization of laws to increase access to large data sets needed for artificial intelligence work -- for example, making sure laws don’t prevent AI researchers from analyzing the information in copyrighted works. There are also recommendations for increasing access to broadband, boosting tech-skills training and making sure new technology is accessible to people with disabilities.
+
+Through the book, Nadella and Smith want to start a conversation on how to make sure the advancements and automation brought by the cloud and technology benefit everyone, they said.
+
+"There is clearly going to be job displacement,” Nadella said. “The question is, what are we going to do about that?"

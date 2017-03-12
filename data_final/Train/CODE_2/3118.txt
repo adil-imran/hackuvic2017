@@ -1,0 +1,26 @@
+http://news.trust.org/item/20160818002128-5i6ty
+60
+6
+By Mark Hosenball, Dustin Volz and John Walcott
+
+WASHINGTON, Aug 17 (Reuters) - Bill and Hillary Clinton's charitable foundation hired the security firm FireEye to examine its data systems after seeing indications they might have been hacked, according to two sources familiar with the matter.
+
+So far, no message or document clearly hacked from the New York-based Clinton Foundation has surfaced in public, the sources said.
+
+One of the sources and two U.S. security officials said that like hackers who targeted the Democratic National Committee, Hillary Clinton's presidential campaign and the Democrats' congressional fundraising committee, the hackers appear to have used "spear phishing" techniques.
+
+These include creating bogus emails or websites in an effort to gain access to Clinton Foundation staffers' emails and then to the foundation itself.
+
+Speaking on the condition of anonymity, however, the U.S. officials said the hackers used the same techniques Russian intelligence agencies or their proxies employed against the Democratic Party groups, which suggests that Russians also attacked the foundation.
+
+Kremlin officials dismissed as absurd the allegations of Moscow's involvement, which were made last month amid political party nominating conventions for the Nov. 8 election.
+
+Neither former White House Counsel Kathryn Ruemmler, the Clinton Foundation's principal lawyer, nor a spokeswoman for the foundation responded to requests for comment on the hacking and the precautions the organization has taken.
+
+Officials with FireEye said the company could not discuss its clients.
+
+The attacks have left some Democrats and Clinton campaign officials worried that the hackers might have obtained emails and voice messages that could be used to reinforce Republican charges that donors to the Clinton Foundation were rewarded with access to Clinton and her aides while she was secretary of state, or to her husband, former President Bill Clinton.
+
+The Democratic Congressional Campaign Committee convened a closed-door meeting on Wednesday to discuss best cyber security practices.
+
+The meeting, according to people familiar with it, included a recommendation that staff and lawmakers change their phone numbers and email addresses if that information was published online by hackers. (Reporting by Mark Hosenball, Joe Menn, Dustin Volz and John Walcott; Editing by John Walcott and Grant McCool)

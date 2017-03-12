@@ -1,0 +1,58 @@
+http://www.slate.com/articles/news_and_politics/jurisprudence/2016/02/the_supreme_court_may_finally_have_to_take_a_new_gun_case.html
+203
+20
+Roman Hloba/Thinkstock
+
+In December the Supreme Court declined to hear a case challenging a Chicago suburb’s ban on selling and owning assault weapons. Two justices—Clarence Thomas joined by Antonin Scalia—offered up a bitter dissent when the court refused to weigh in. But the high court, which hasn’t heard a major gun case since 2010, nevertheless let stand a lower court’s ruling that the 2013 ban, adopted in Highland Park, Illinois, did not violate the Second Amendment or the court’s recent jurisprudence interpreting it. Gun groups were furious. This week, those same groups are rejoicing.
+
+Dahlia Lithwick Dahlia Lithwick writes about the courts and the law for Slate, and hosts the podcast Amicus.
+
+
+
+On Thursday, a three-judge panel of the 4th U.S. Circuit Court of Appeals, in a case called Kolbe v. Hogan, sent the state of Maryland’s ban on assault weapons back to a federal trial court for a second, more scrupulous review. In a 2–1 decision, the majority of the appellate panel found that the semi-automatic weapons and high-capacity magazines banned under a new Maryland law “are in common use by law-abiding citizens” and cannot be banned under the Second Amendment. The ruling sets the wheels in motion for another major gun fight at the high court. It will now likely have to answer this question: In a country where one bloody massacre seems to follow another, and 33,636 people were killed by firearms in 2013, does the court want to be in the business of handing out AR-15s like so much Halloween candy?
+
+Advertisement
+
+
+
+Maryland’s Firearm Safety Act was passed along with a raft of similar gun control measures in other states in the wake of the Sandy Hook Elementary massacre in December 2012. Twenty children and six adult staff members were killed in that massacre by a gunman using three semi-automatic firearms. Among other things, the Maryland statute banned possession of firearms designated as “assault weapons,” including AR-15s and AK-47s. Maryland also banned sales and purchases of ammunition magazines of more than 10 rounds. A District court in Maryland upheld the ban.
+
+That ban and similar ones have been surviving in federal courts because they have been subject to intermediate scrutiny—a constitutional test that often turns on whether the government has a reasonable purpose for a gun law. Public safety is often sufficient to satisfy that standard. The 4th Circuit, in demanding that the lower court look at the Maryland law again under strict scrutiny—a standard that makes it very difficult to salvage a law—sets up the potential for a new high court showdown.
+
+Get Slate in your inbox.
+
+The reason these questions remain open is that the last big Supreme Court fight, while striking a major blow against certain gun control measures, left others wide open to interpretation. In 2008, the Supreme Court decided by a 5–4 margin in District of Columbia v. Heller that the Second Amendment guarantees an individual right to possess a handgun at home for self-protection. Heller came with a coda however, a kind of penumbra that either means a whole lot or nothing at all: “Like most rights, the right secured by the Second Amendment is not unlimited” noted the majority. The Second Amendment, said the court, is “not a right to keep and carry any weapon whatsoever in any manner whatsoever and for whatever purpose.” The rights delineated in Heller were extended to the states two years later. Since then, the high court has declined to clarify whether Heller was a broad or narrow ruling, and what kinds of guns and gun laws are OK.
+
+The court in Heller explained that “dangerous and unusual” weapons could still be prohibited but didn’t clarify what that meant, beyond gesturing to some case law explaining that the Second Amendment would not “protect those weapons not typically possessed by law-abiding citizens for lawful purposes, such as short-barreled shotguns.”
+
+Advertisement
+
+
+
+When the court refused to set aside a 7th Circuit decision upholding an assault weapons ban last December, in Friedman v. City of Highland Park, the court was effectively refusing to hear a claim from pro-gun plaintiffs in Illinois that the ban “includes some of the most popular firearms in the nation.”
+
+In his dissent from the court’s refusal to hear the case Justice Thomas wrote that “roughly five million Americans own AR-style semiautomatic rifles. … The overwhelming majority of citizens who own and use such rifles do so for lawful purposes, including self-defense and target shooting.” He added that “[u]nder our precedents, that is all that is needed for citizens to have a right under the Second Amendment to keep such weapons.” Thomas further mourned that the Supreme Court and lower reviewing courts had consigned the Second Amendment “to a second-class right.”
+
+That same Illinois opinion the court didn’t disturb this winter was penned by Judge Frank Easterbrook, a Reagan appointee deeply devoted to conservative principles and methodologies. In assessing the Highland Park ban, Easterbrook nevertheless found that “Heller and McDonald set limits on the regulation of firearms, but within those limits, they leave matters open. The best way to evaluate the relation among assault weapons, crime, and self-defense is through the political process and scholarly debate, not by parsing ambiguous passages in the Supreme Court’s opinions.”
+
+But the 4th Circuit this week determined that the court has already answered these questions. Writing for himself and Judge Steven Agee, Judge William B. Traxler Jr. found that assault weapons are common indeed, observing, helpfully, “for perspective, we note that in 2012, the number of AR- and AK-style weapons manufactured and imported into the United States was more than double the number of Ford F-150 trucks sold, the most commonly sold vehicle in the United States.”
+
+Advertisement
+
+
+
+Traxler noted that large-capacity magazines are also common, with more than 75 million in circulation in the United States: “In fact, these magazines are so common that they are standard.”
+
+Turning to Heller’s caveat that “dangerous and unusual” weapons might not be protected under the Second Amendment, the majority notes that the district court erroneously believed that semi-automatic rifles are too dangerous “based on evidence that they unleash greater destructive force than other firearms and appear to be disproportionately connected to mass shootings.” The 4th Circuit then argued that since handguns kill far more people than semi-automatic weapons, and that since Heller made handgun ownership constitutional, the less overall deadly semi-automatic assault weapons must not be dangerous and unusual either.
+
+Writing alone in dissent Judge Robert B. King is unequivocal: “Let’s be real: The assault weapons banned by Maryland’s FSA are exceptionally lethal weapons of war. In fact, the most popular of the prohibited semiautomatic rifles, the AR-15, functions almost identically to the military’s fully automatic M16.” He also notes that the Supreme Court specifically called out M16 rifles in Heller when defining “dangerous and unusual.”
+
+Judge King concluded his opinion on a regretful note of warning: “To put it mildly, it troubles me that, by imprudently and unnecessarily breaking from our sister courts of appeals and ordering strict scrutiny here, we are impeding Maryland’s and others’ reasonable efforts to prevent the next Newtown—or Virginia Tech, or Binghamton, or Fort Hood, or Tucson, or Aurora, or Oak Creek, or San Bernardino.”
+
+Advertisement
+
+
+
+The majority chided King for linking the decision to the next mass shooting, but it’s hard to imagine this isn’t on the mind of any judge looking at expanding the use of lethal weapons in ways that may open the floodgates to more shootings, suicides, and accidental deaths. As Linda Greenhouse mused when the court declined to take the Illinois case back in December, the fact that the court couldn’t muster four votes to review the Highland Park assault ban implies “that one or more of the justices who signed on to Justice Scalia’s strained reading of history seven years ago in District of Columbia v. Heller are reacting to the country’s bullet-ridden landscape by showing symptoms of buyer’s remorse.”
+
+Greenhouse also argued that the split between Thomas and Scalia—who desperately wanted to hear the case—and the silent conservatives who had also voted to strike down the handgun ban in Heller, reflected “the chasm on the conservative flank between, on the one hand, two justices who embrace all-out judicial activism and, on the other, those who are willing to wait and see.”

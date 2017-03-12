@@ -1,0 +1,14 @@
+https://www.yahoo.com/tech/google-reportedly-killing-ambitious-plan-142925085.html
+32
+3
+Just a little more than three months ago, Google declared it would release its highly customizable Project Ara smartphone to consumers next year. No longer: Google parent company Alphabet appears to be shelving that initiative, which aimed to develop phones with parts that can be swapped out like LEGO blocks, reported Reuters and The New York Times.
+
+A Google spokesperson confirmed to TIME that the information reported by Reuters is accurate, but declined to offer any comment. The move is part of Google’s efforts to consolidate its hardware operations, which includes products like its Nexus smartphones and Chromebook computers. While the company is suspending plans to release a modular smartphone, it may work with partners to bring the technology to market through licensing agreements, according to Reuters.
+
+Google had been facing some setbacks with Project Ara. The first device to come out of the program was intended to launch in Puerto Rico last year, but the company scrapped that pilot.
+
+Project Ara generated excitement among some in the technology world because it promised to reimagine the way smartphones are built. Rather than being forced to upgrade your entire phone whenever you wanted a better camera or new features, phones released under Project Ara would have allowed you to replace old components with more advanced technology. After its developer conference in May, Google painted a picture that depicted future Ara smartphones like Swiss Army knives. Owners would be able to snap on health-focused sensors like a glucose detector or an air quality sensor to fit their needs, as CNET noted. Or they could opt for more traditional additions like a larger speaker or battery.
+
+Even if Google mothballs Project Ara, the modular smartphone concept remains alive elsewhere. Motorola’s new Moto Z phones, for instance, have a special connector on the back that allows owners to quickly attach accessories like a miniature projector or battery pack. LG’s G5 also comes with similarly configurable hardware for snapping on camera grips and other accessories.
+
+These types of modular phones are exciting in part because they come at a time when smartphone growth has seemingly stalled. Even so, it’s unclear whether modular smartphones will resonate with a broad enough audience to turn Project Ara into a viable hardware business.

@@ -1,0 +1,82 @@
+http://www.businessinsider.com.au/medianet-acquisition-chinese-ad-tech-arbitrage-play-2016-8
+211
+2
+AP Images Alibaba founder and executive chairman Jack Ma.
+
+Another day, another Chinese group splashing out on ad tech.
+
+On Monday, a group of Chinese investors dropped $900 million in cash on Media.net, a little-known ad tech firm based in New York and Dubai that provides the tech for the contextual ads on Yahoo and Bing, Bloomberg reported.
+
+Media.net touted the purchase as the “third largest ad tech deal ever,” although the purchase is a little more complex than that and involves the Chinese consortium selling the firm to a Beijing-based telecoms firm called Miteno at a later date in a kind of reverse merger.
+
+However wonky that particular deal, there’s a definite trend of Chinese companies pumping money into ad tech:
+
+February — China’s largest mobile advertising company Mobvista bought mobile game and app ad tech firm NativeX for $24.5 million.
+
+— China’s largest mobile advertising company Mobvista bought mobile game and app ad tech firm NativeX for $24.5 million. June — Spearhead Integrated Marketing Communications Group, based in Beijing, bought mobile ad exchange Smaato for $148 million
+
+— Spearhead Integrated Marketing Communications Group, based in Beijing, bought mobile ad exchange Smaato for $148 million July — A $1.2 billion offer from a consortium of companies to buy Opera collapsed due to regulatory difficulties. A new deal was announced in July that will see the consortium buy Opera’s consumer-facing business, such as its browser and privacy apps, while the ad tech part — Opera Mediaworks — will be spun off into a separate publicly traded company.
+
+Most people who work within the ad tech market think the Chinese ad tech shopping spree has only just begun. Here’s why.
+
+Here come the Chinese buyers in ad tech. Expect more deals!https://t.co/i0WFtIeKNH pic.twitter.com/iOYHjS7Uaq
+
+— Terence Kawaja (@tkawaja) August 22, 2016
+
+
+
+
+
+An arbitrage play
+
+Tim Cadogan, CEO of ad tech company OpenX, explains that wealthy Chinese investors are running out of places to park their money. A lot have already invested in real estate, but some cities have restrictions how many properties an individual can own, so many investors in China have turned to the stock market instead.
+
+
+
+But there aren’t very many publicly listed companies in China, so investors are ploughing their savings into the same few companies. These companies can then use their high stock price as leverage in acquisitions.
+
+Meanwhile, the majority of pure-play ad tech companies in public markets in the west have struggled since their IPOs.
+
+Collectively, ad tech stocks fell 11% in the second quarter (excluding Maxpoint Interactive, which performed a reverse stock split in the period). Only France-based ad tech firm Criteo maintained growth.
+
+Investors often look to public companies when trying to assess the value of private firms, so the crash in the market has depressed prices on private ad tech firms in the west.
+
+Those firms are valued more highly by Chinese standards, so there’s an arbitrage play available.
+
+Terence Kawaja, the CEO of investment bank LUMA Partners, which advises on ad tech deals, explained to Business Insider, “Due to the discrepancy in valuations — Chinese markets value revenue and profits at much higher multiples — these Chinese buyers are arbitraging the difference. They buy US assets and then trade up much higher in the domestic market.”
+
+So, for example, if a Chinese company buys an ad tech company at 15x net income, then incorporates it into their business, which is valued at 80x net income, that’s an easy way to create value on paper.
+
+This isn’t just happening in ad tech: a lot of Chinese investors looking for undervalued western assets. Just today, The Financial Times reported that a Chinese consortium of investors is interested in buying a stake in Liverpool Football Club (which, in turn, has US owners.)
+
+Nobody knows for sure how long that arbitrage window will stay open.
+
+Cadogan said: “Generally, when you have such big spreads in value, they tend not to last forever.”
+
+Strategic buyers, too
+
+While a lot of the action in Chinese ad tech buys are purely financial, some strategic plays are likely, too.
+
+Globally, many of the recent high-profile ad tech buyers have been traditional telco companies: Verizon and AOL/Millennial Media, Comcast and StickyAds, and Telenor and Tapad, to name a few.
+
+That trend will likely continue in the Chinese market.
+
+Kawaja said: “Chinese buyers need US technology. The vast majority of innovative startups with scaled technology capabilities are based in the US.”
+
+The $14 billion Chinese internet display advertising market is dominated by three players: Baidu, Alibaba, and Tencent. Tencent recently made a big statement about its global ambitions by acquiring Finnish gaming company Supercell (which makes “Clash of Clans”) for $8.6 billion last month. So it’s easy to imagine those companies eyeing up western ad tech firms as they look to scale worldwide.
+
+OpenX Tim Cadogan, OpenX CEO.
+
+Those three dominating internet companies have also made it difficult for other technology firms to compete in china. As Digiday pointed out in June, all three have yet to open up their APIs (application programming interface), so marketers can’t place ads on their platforms using third-party automated technology. Smaller Chinese internet companies may have an easier time in the overseas markets where there is more open access to ad platforms.
+
+Both Cadogan and Kawaja think there will be plenty more Chinese groups announcing ad tech acquisitions before the end of the year. As TechCrunch wrote earlier today, the Chinese State Council is practically encouraging it, releasing guidance last year advocating investment in the ad tech sector.
+
+That’s welcome news for the ad tech market, where hasn’t been an ad tech IPO in about two years, according to Cadogan.
+
+“I think it’s probably good for people to see that these companies have real value, that even if certain segments of the market aren’t currently valuing them [highly], other segments are,” Cadogan said. “These are smart investors. They are not throwing money about here. They have a reason for doing this and they want to make a return.”
+
+NOW WATCH: New guidelines have led to a big change for uniforms at the Rio Olympics
+
+
+
+Follow Business Insider Australia on Facebook, Twitter, and LinkedIn

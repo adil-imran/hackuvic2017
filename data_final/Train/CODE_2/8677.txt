@@ -1,0 +1,52 @@
+http://www.straitstimes.com/singapore/sporean-loses-270k-in-bogus-china-cops-scam
+115
+11
+A Singaporean in his 60s thought he was protecting his family's savings when he cooperated with "police officers" from China who accused him last month of being involved in money laundering.
+
+He ended up losing close to $270,000 from five POSB accounts linked to his name over eight consecutive days last month. This was money that he needed for his family's expenses and children's education.
+
+The case took place as scams involving the impersonation of China officials rose from 179 cases in the first half of the year to 249 in the July to September period. Victims lost at least $21 million from January to September, with one losing $2.38 million, said the police.
+
+There were 74 impersonation scams from January to last month, where scammers pretended to be from local agencies such as the police force or Ministry of Manpower.
+
+In the man's case, it all started one morning when a caller claiming to be a policeman told him that a female "bank employee" who previously contacted him had been arrested abroad. He was told that his accounts, which had been implicated in her crimes, would be frozen unless he called Chinese police officers and followed instructions for them to help.
+
+
+
+The victim showing some of the transactions that led to his loss of almost $270,000 last month. The case comes as scams involving the impersonation of China officials rose from 179 cases in the first half of the year to 249 in the July to September period. ST PHOTO: SEAH KWANG PENG
+
+
+
+$21m Amount Singapore residents lost to China impersonation scams from January to September this year.
+
+The man provided his details and applied for an Internet banking token - a gadget he had never used before. He then called a Chinese number, speaking to a man named Liew for up to an hour every day. About seven times a day, he was asked to read out codes on the token after pushing a button.
+
+It was not until almost two weeks later that he realised that five of his family's bank accounts, which were linked to his name, had been cleaned out.
+
+Related Story Guard personal data, be wary of cold calls: Experts
+
+Money from his children's and sister's joint accounts with him had been transferred to one of his own before being siphoned out in sums of between $417 and $2,029. This was done multiple times in a row, mostly recorded as a transaction to a merchant under D2Pay - a direct debit payment system. Other inter-bank fund transfers were also made.
+
+"It was as though I had been hypnotised, I believed everything they said," said the victim, who declined to be named. "They told me not to update my bank book, or they would tell the Monetary Authority of Singapore to hold my accounts."
+
+When his two children, both in tertiary institutions, realised that money had vanished from their bank accounts, they asked him about it. He had only recently transferred money that he received from their insurance policies into their accounts. "I told them that I took the money out for investments," he said.
+
+He has since come clean with them and reported the case to the police. He said he asked the bank why it failed to alert him when multiple transactions were made and was told only that the case is under police investigation. The bank also told him to close his accounts.
+
+"I don't know what is going to happen. My life savings... are all gone just like that," he said.
+
+In response to queries, a DBS spokesman said the bank is unable to comment on this specific case as it is under police investigation. POSB is a part of DBS Group.
+
+When asked about D2Pay transactions, the spokesman said: "We inform our customers via SMS of transactions done on their accounts. The same protocol is used for D2Pay transactions."
+
+He said the bank has "a robust due diligence process in place" for those who become merchants on D2Pay, as "they first need to become our corporate customers to obtain a corporate account".
+
+Instead of allowing customers the option of receiving one-time passwords via SMS, DBS switched to only token authentication last year for better security, he said.
+
+Other banks said they have security measures such as fraud-monitoring systems to detect irregular activity, as well as two-factor authentication (2FA).
+
+United Overseas Bank said that once an irregularity is flagged, investigations will take place immediately and it will call the customer to verify the transaction.
+
+Mr Patrick Chew, head of operational risk management at OCBC Bank, said customers need 2FA for online transactions. While its number of unauthorised transactions has been low, "in such an instance, it is often a case of the individual having inadvertently divulged his security information".
+
+A spokesman for Maybank said it introduced an eight-digit code last week for customers who access their accounts online. Users receive this code on their registered phones and key it into a token to generate a one-time password to complete the transaction. In the past, users needed only the one-time password on their tokens.

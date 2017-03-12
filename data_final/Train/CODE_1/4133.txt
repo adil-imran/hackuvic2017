@@ -1,0 +1,48 @@
+http://en.farsnews.com/newstext.aspx?nn=13950605000282
+182
+18
+Technology
+
+Living with Android 7.0 Nougat: Most Important Changes
+
+TEHRAN (FNA)- Android 7.0 Nougat has finally reached Google’s Nexus devices after more than five months of developer preview testing. The final version is more stable and has a ton of new features.
+
+Most phones won’t get a Nougat update for a few months at least, and that’ll only happen if the carrier and OEM consider it a high priority. What can you expect when that glorious day finally arrives? I’ve been using Nougat on both a Nexus 6P and a Pixel C for the last few days. I won’t bother reciting all the features, which you can find a simple list of them on Google’s site. Let’s talk about what it’s actually like to use Android 7.0 Nougat as a daily driver.
+
+Doze mode gets better
+
+In my opinion, Doze Mode in Android 6.0 was one of the most important features to ever show up in Android. It addressed an ongoing issue with phones that could cause problems even for the most experienced users. Sometimes you’d install an app, and it would misbehave in the background, draining your battery while the phone sat idle. Doze Mode shuts all that down.
+
+In Marshmallow, leaving the phone sitting for about 30 minutes would activate Doze mode. Almost all apps would be put to sleep and not permitted by the system to wake up until a regular update window was reached or you picked up the phone. Important push notifications would still arrive while in Doze.
+
+In Nougat, Doze Mode does the same thing, but it turns on in more situations. It’s no longer limited only to when a device is stationary. Thus, if the phone is in your pocket, Doze Mode can still be activated. This has made a noticeable positive impact on my battery life over the last few days.
+
+New notifications will take some getting used to
+
+Notifications are one of the stock Android features most OEMs implement without a ton of changes. So, a lot of users will be getting the new bundled Nougat notifications in the coming months. They’re much more powerful than notifications in Marshmallow, but also a little overwhelming at first.
+
+Nougat bundles together all the active notifications from an app in a single expandable item. For example, if you’ve got several Gmail notifications, you can expand the Gmail notification to see each one individually right in the notifications. You get the full snippet preview of each one as if it were the only active notification. Plus, you can expand them individually to see more text and get action buttons for each notification in the bundle. If you get a lot of email, this becomes a rather ungainly list.
+
+Messaging apps that support Nougat’s new direct reply feature in notifications are limited right now, but I can’t wait for more of them to show up. This is quick reply done right — just expand the notification and tap in the embedded text box to type a reply.
+
+Multi-window has potential
+
+One of the headlining features in Android 7.0 is support for multi-window apps in split-screen. This was quite exciting when Google announced it, but in practice it’s a little disappointing. The basic functionality makes sense. You can long-press the overview button to shrink your current app down to the top half of the screen (left half in landscape) and bring up a list of open apps to choose one for the other half. The problem, though, is developers don’t have to support this feature at all.
+
+During the developer preview, any app would go into split-screen, even if it didn’t work correctly. Now, if an app is on a very old API level or the developer specifically opts to block multi-window, it won’t work. Most apps don’t have official support for multi-window, so you get a toast message pointing out that it might not work correctly. I haven’t seen any major issues, though.
+
+One of the apps that won’t work in split screen at all is Netflix, which would have been nice to have. Apps that don’t have full support for the new split-screen API won’t operate in the background when you’re interacting with the other app you have up. YouTube is a good example of what’s possible with split-screen apps. It continues playing in split-screen while you poke around in another app. It’s a cool experience.
+
+For multi-window to be truly useful, apps need to add full support. The double-tap shortcut for switching apps is fantastic, though. That’s going to be useful immediately.
+
+Customizable quick settings, finally!
+
+The quick settings UI has gotten a complete revamp in Nougat. Those are the settings toggles that show up at the top of the expanded notification pane. In Android 7.0, they are finally customizable. There’s an edit button that lets you add, remove, and rearrange the items. The first few buttons are also visible at the top of the un-expanded quick settings UI. This has already made a huge difference in my daily use.
+
+This might not have a significant impact on Android users at large, though. Most OEMs have had some form of customizable quick settings for a while. Still, this is a huge thing for those of us who prefer stock Android. However, if OEMs choose to adopt Google’s stock code for this feature (even if they re-skin it) we could have something great. There’s an API for tiles that developers can plug into. That means you can download more quick settings tiles from the Play Store. There are already a few that add things like VPN toggles and a live weather tile.
+
+Nougat, the kitty collector
+
+Those are all the things that will make an immediate impact on your smartphone experience when Nougat rolls out. That’s just scratching the surface, though. There are also seamless updates, the Vulkan graphics API, and an improved code compiler. You’ll also be able to play a built-in version of Neko Atsume, a weird kitty collector game. You leave treats in your quick settings to lure in unique virtual cats, which you can then share as images. That’s the Easter Egg in this version of Android. It’s more amusing and less frustrating than the Flappy Bird Easter Egg in Marshmallow.
+
+Nexus devices from the Nexus 6 onward are getting the Nougat OTA right now. That process should be complete in a week or two. The first devices from OEMs like Motorola and Samsung should get updates out by late fall.

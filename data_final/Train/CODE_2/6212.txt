@@ -1,0 +1,58 @@
+http://sputniknews.com/us/20160829/1044754163/google-accused-manipulating-results-clinton.html
+90
+9
+On Saturday, screenshots of users typing “Hillary Clinton’s he” into Google, Yahoo, and Bing went massively viral, as the contrast between what the sites then prompted as results varied greatly.
+
+— Kassy Dillon (@KassyDillon) August 27, 2016
+
+Users searching on Google were met with suggestions including, “Hillary Clinton’s headquarters,” “Hillary Clinton’s health plan,” “Hillary Clinton’s healthcare plan,” “Hillary Clinton’s healthcare plan 1993,” and “Hillary Clinton’s healthcare plan 2016.”
+
+Microsoft-owned Bing, on the other hand, provided results that more readily reflected the trending news topic. Suggestions included: “Hillary Clinton’s health,” “Hillary Clinton’s health issues,” “Hillary Clinton’s height and weight,” “Hillary Clinton’s health care plan,” and “Hillary Clinton’s health report.”
+
+On Yahoo, the results were even more focused on the current trending issue, with “Hillary Clinton’s health problems,” “Hillary Clinton’s health,” “Hillary Clinton’s health issues,” “Hillary Clinton’s head injury,” “Hillary Clinton’s height and weight,” and “Hillary Clinton’s health records.”
+
+© REUTERS/ Aaron P. Bernstein US Election Media Coverage Biased Toward Clinton - Survey
+
+These irregularities prompted Twitter users to spring into action, trending the hashtag #HillaryClintonSearchTerms throughout the rest of the day.
+
+This is not the first time Google has been accused of attempting to manipulate the election by providing search results on Clinton that did not match those of other search engines.
+
+Last week, opponents of the former US Secretary of State discovered that Google is the only search engine where the term “Clinton’s body count” does not auto complete. The term is widely used to refer to a number of mysterious deaths and murders of people connected to the Clinton family.
+
+The difference in search engine results came to light shortly after New York Times columnist Farhad Manjoo tweeted a suggestion that Google should censor “conspiracy theories” surrounding the candidate.
+
+— Farhad Manjoo (@fmanjoo) August 21, 2016
+
+Last year it was reported that Google has donated somewhere between $500,000 and $1,000,000 to the Clinton Foundation. No other company with a major search engine appears on the foundation’s list of donors.
+
+WikiLeaks founder Julian Assange has long referred to Google as Clinton’s “secret weapon.”
+
+Robert Epstein, senior research psychologist at the American Institute for Behavioral Research and Technology, wrote last year in an article titled “Google Could Rig the 2016 Election,” that America’s next president could be eased into office by Google’s algorithm tweaks.
+
+​“I’ve been doing experimental research for more than three and a half years now which shows that all Google has to do is show people search results that favor one candidate, in this case Hillary Clinton, higher in search results,” Epstein told Sputnik earlier this month. “That can easily shift 20 percent or more of undecided voters toward her — as a matter of fact up to 80 percent of people shift in some demographic groups.”
+
+Epstein calls this phenomenon the “Search Engine Manipulation Effect.” He explained that it is an extremely effective tactic, and that he has replicated it with more than 10,000 people, in 39 countries, and throughout three elections.
+
+“Google’s search algorithm can easily shift the voting preferences of undecided voters by 20 percent or more—up to 80 percent in some demographic groups—with virtually no one knowing they are being manipulated,” he said.
+
+“There is no question about this possibility — the power that Google has to shift up to 25 percent of the national elections in the world without anyone knowing it is occurring — and without leaving a paper trail,” Epstein stated.
+
+Sputnik reached out to Google for comment and was directed to a June 2016 prepared statement on the autocomplete feature.
+
+“The autocomplete algorithm is designed to avoid completing a search for a person’s name with terms that are offensive or disparaging. We made this change a while ago following feedback that Autocomplete too often predicted offensive, hurtful or inappropriate queries about people. This filter operates according to the same rules no matter who the person is,” the statement reads.
+
+© AP Photo/ Karly Domb Sadof Site Unseen: America's Oligarchs Mask Multi-Million Dollar Mansions From Google
+
+We asked Google whether the company believes that searches regarding the candidate’s health are “offensive or disparaging.” A spokeswoman declined to comment on specific search results.
+
+“It’s also important to keep in mind that Autocomplete predictions aren’t search results and don’t limit what you can search for. It’s a shortcut for those who are interested. You can still perform whatever search you want to, and of course, regardless of what you search for, we always strive to deliver the most relevant results from across the web,” the statement notes.
+
+When asked for comment specifically regarding Epstein’s research, the spokeswoman referred Sputnik to a counterargument to Epstein’s claims published in Politico by a Google executive.
+
+“There is absolutely no truth to Epstein’s hypothesis that Google could work secretly to influence election outcomes. Google has never ever re-ranked search results on any topic (including elections) to manipulate user sentiment. Moreover, we do not make any ranking tweaks that are specific to elections or political candidates. From the beginning, our approach to search has been to provide the most relevant answers and results to our users, and it would undermine people's trust in our results, and our company, if we were to change course,” Amit Singhal, senior vice president and software engineer at Google Inc., wrote on Politico.
+
+Singhal’s remarks do not attempt to counter Epstein’s research, insisting instead that everyone simply trust the search engine giant.
+
+“Just as any electoral system must be trusted to be considered valid, so too must our search results. We know that; it’s essential to who we are, and a necessary part of our success as company. So, as a result, we work very hard to earn and keep the trust of everyone who comes to our site looking for answers,” Singhal stated.
+
+Google declined to specifically address the difference in search results regarding Hillary Clinton’s health.

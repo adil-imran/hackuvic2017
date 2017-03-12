@@ -1,0 +1,38 @@
+http://gulfnews.com/business/sectors/technology/apple-s-ios-10-making-some-iphones-unusable-1.1908113
+84
+8
+File picture: Craig Federighi, Apple senior vice president of software engineering, speaks about the new iOS 1
+
+File picture: Craig Federighi, Apple senior vice president of software engineering, speaks about the new iOS 1 Image Credit: AP
+
+Dubai: Users are reporting a rough ride with their iPhones after downloading iOS 10, Apple's biggest and latest operating system release.
+
+Consumers in the UAE say post-update issues they face with their iPhones (mostly pre-iPhone 7 versions), include "bricking" or freezing.
+
+“My husband had trouble with his phone; it switched off and would not turn back on. He had to visit an authorised centre. The storekeeper tried to access iCloud and suddenly loud sounds started coming from the phone. So he turned it off,” said Shumaila Ahmad, a Sharjah resident.
+
+"Bricking" refers to device rendered unusable due to a software or hardware malfunction. Following iOS 10 installation, some users get a screen asking them to plug their handsets into a computer, and rendering the phone unusable — instead of the iPhone or iPad turning back on with the software upgrade.
+
+The California-based company launched iOS 10 and macOS Sierra last month, and some users have reported getting error messages.
+
+Qaiser Khan, a Dubai resident, faced issues when connecting to WiFi. “I have faced issues with the update. I reset my phone due to internet issues. I was unable to connect to WiFi and even data.”
+
+Other users said that their phones "freeze".
+
+“It is difficult to unlock the phone. It hangs and it’s difficult to take a call,” said Dubai resident, Razz Rishi.
+
+'Brief issue'
+
+After rolling out the update last month, an Apple spokeswoman reportedly said that the company “experienced a brief issue with the software update process, affecting a small number of users during the first hour of availability.”
+
+However, reports of various issues still are common, with numerous tech sites listing known issues and possible solutions. The most common problems listed are short battery life, WiFi connectivity and apps freezing.
+
+“Battery finishes in two hours with the phone overheating. I thought it had some hardware issue and spent Dh1,000 with changing of battery and U2 IC repairing,” said Rana Faisal Imran, a Dubai resident.
+
+Other common issues with the latest update include being greeted with a blank screen when accessing the Mail app; alarms not going off; not finding downloaded custom ringtones; and unresponsive third-party keyboards, among others.
+
+Since Apple's rollout of iOS10 with the release of the iPhone 7 last month, the company has already released one update, but has not announced any further updates.
+
+Most of the complaints have been from customers upgrading their existing iPhones (pre 7) to iOS10.
+
+Apple Support had been reminding users to back up their phones before upgrading, and recommending they download the software over iTunes.

@@ -1,0 +1,72 @@
+http://www.timesofisrael.com/israel-walks-tightrope-in-clash-with-facebook-google/
+1821
+18
+As Israel steps up its efforts to curb incitement to violence on social media sites, questions arise about whether and how this can be done, taking into account the fine balance that needs to be struck between freedom of speech and the malignancy of hate posts.
+
+Public Security Minister Gilad Erdan (Likud) earlier this month lambasted Facebook founder Mark Zuckerberg for allowing Palestinian incitement and hate speech to run rampant on his social media site. Erdan charged that Facebook hinders Israeli police efforts to catch terrorists and declared that Zuckerberg has “some of the blood” of Israeli teenager Hallel Yaffa Ariel on his hands. Ariel was stabbed to death in her bed last week by a Palestinian teenager who publicized his desire to die for the Palestinian cause in a number of Facebook posts in recent months.
+
+Justice Minister Ayelet Shaked has also said that social media giants Google and Facebook must be held accountable for criminal activity on their websites, and both Erdan and Shaked are drafting a new law that aims to “remove offensive content from social media” as part of their campaign to fight online incitement. Another Knesset member proposes fining Facebook $77,000 for every post that includes incitement which the social media giant doesn’t immediately take it down.
+
+Erdan and Shaked’s law aims to block access to offensive content and messages that incite to terror and will call for “complete removal” of the post through a court injunction against any party involved in its publication. Content removed would include posts that promote terror, shaming and defamation and the insulting of public workers, the ministers said.
+
+“In light of the potential damage to freedom of speech, these orders to remove content will be given sparingly, and in extreme cases, and will be targeted only toward the offensive content,” the ministers said in a statement.
+
+Israel has repeatedly blamed incitement in the Palestinian Authority for a recent spate of attacks by lone perpetrators which have claimed the lives of 34 Israelis since October 1, 2015.
+
+Blocking and filtering content won’t be easy, experts say, as determined perpetrators can work around the filters and blocking content is a slippery slope for democratic countries. The best solution would be to work closely with these companies, they say.
+
+“Totalitarian countries like China and North Korea block the system, but this is not a solution that is possible for Israel because it crosses the boundaries of democracy,” Carmi Gillon, a former head of Israel’s Shin Bet internal security service and executive chairman of the Tel Aviv-based cybersecurity firm Cytegic, said in an interview. “As long as there is a will to use these sites for incitement, there is no hermetic way to deal with it, so on a practical level these calls for legislation are baseless.”
+
+Technologically speaking, it is possible to block access to or shut down social media sites for all of Israel or, for example, just the West Bank, said Yoram Arad, head of the technology practice and a partner at the Tel Aviv-based law firm Gornitzky & Co. Arad is also co-chairman of the Law, Science & Technology Forum at the Israel Bar Association.
+
+“Technically it is possible to do,” he said. “Legally the government could also try to pass a law that would enable the blocking of these sites to certain geographic parts of the population. Whether that law will actually be upheld by the High Court of Justice is a big question.”
+
+The key problem here, he said, is deciding who should have the mandate to monitor and take down hateful posts and, if you set up automatic filters through the use of algorithms searching for key words, how high do you set the bar and what should be the resolution of those filters.
+
+“Will they catch only hateful posts against Jews or maybe hateful posts of Jews against Arabs? It is a slippery slope of free speech and the values we hold so dear,” Arad said.
+
+Just like orange juice
+
+To further complicate the matter, some things that are culturally unacceptable or offensive in some countries are perfectly fine for other countries. “It is all a matter of what is in the eye of the beholder, ” Arad said. Social media companies should adapt their policies — community standards as they are called — to the local needs of the countries they work in, “just like orange juice is sometimes adapted to meet local tastes.”
+
+So how does the removal of noxious posts work in practice? Social media groups like Google or Facebook call on users to flag posts they find offensive. These alerts get reviewed by teams of people the companies employ 24 hours a day around the world, and if found they don’t adhere to the community standards set out by the companies, they are taken down.
+
+In addition, Facebook, for example, also operates algorithms to search the web for key words that could indicate problematic posts. These algorithms, however, cannot distinguish what position any particular content takes regarding its subject: so, for instance, the algorithm cannot distinguish whether a demonstration that is being organized is pro-violence or against it. And this may be the crux of the problem: do you filter out everything, just to be on the safe side, or alternatively, how do you decide what you filter out?
+
+“As in all issues where technology is used, do we want technology to be 100 percent automatic or do we want a human mediator in the middle?” Arad asked. “The technology will help us monitor the millions and millions of posts to find harmful ones. But where freedom of speech is involved we might prefer some human judgment to be involved before taking these posts down. As a citizen I would feel more comfortable if there were some human judgment involved, before freedom of speech is limited. I wouldn’t want a robot to have complete control over that.”
+
+Facebooks community standards, for example, say the company removes content, disables accounts, and works with law enforcement when “we believe there is a genuine risk of physical harm or direct threats to public safety.” Facebook doesn’t allow organizations that are engaged in terrorist activity or organized criminal activity to have a presence on the site, and it removes content that “expresses support for groups that are involved in violent or criminal behavior.” The company calls on members to report items that are believed to violate its terms.
+
+Facebook’s comment for this article was unchanged from the one published on July 3 in reaction to Erdan’s comments.
+
+Similarly, Google’s YouTube’s community guidelines say its staff reviews flagged videos 24 hours a day, seven days a week to determine whether they violate its community guidelines relating to violent or graphic content, nudity or sexual content or hateful content.
+
+“YouTube has clear policies that prohibit content like gratuitous violence, hate speech and incitement to commit violent acts, and we remove videos violating these policies when flagged by our users. We also terminate any account registered by a member of a designated Foreign Terrorist Organization,” Paul Solomon, a spokesman for Google, said by email.
+
+The Simon Wiesenthal Center, a self-proclaimed pro-Israel organization, has been combating hate websites for 21 years and running the Digital Terrorism and Hate Project since 2001.
+
+The project has released annual reports about what extremists are active online and how they leverage internet technologies to promote hateful, violent, and terrorist agendas. The project has also given annual grades to social media companies regarding their concern for and action — or lack of action — against hate and terrorism-related postings.
+
+Generally speaking, Facebook has had the most cooperative approach, Twitter the worst, and Google/YouTube somewhere in the middle, Rabbi Abraham Cooper, associate dean of the Simon Wiesenthal center, said in an email.
+
+“We condemn the use of Twitter to promote terrorism and the Twitter Rules make it clear that this type of behavior, or any violent threat, is not permitted on our service. Since the middle of 2015 alone, we’ve suspended more than 125,000 accounts for threatening or promoting terrorist acts, primarily related to ISIS,” a Twitter spokesman said by email, using an acronym for the Islamic State terror group.
+
+Cooper said the Wiesenthal center is “deeply concerned” about two new technological developments: the use of encryption — “increasingly touted and used by terrorists and their enablers, and the introduction of live streaming video by Facebook and other services which gives the terrorists a new tool to actually broadcast their murderous deeds,” he said.
+
+Representatives of the center have met regularly with Facebook, YouTube and Twitter in Silicon Valley, as well as law enforcement and intelligence officials and political leaders in US and elsewhere, Cooper said.
+
+“I am not sure that taking draconian moves of perhaps blocking these services, even if technologically possible, would be in Israel’s best interest,” Cooper said. But all of these companies can do more, he said, and, when pressured, “can, and do, use their unmatched technological capabilities to curb online hate.”
+
+Cooper is coming to Israel later this month to meet with Israeli officials to discuss organizing a visit to Silicon Valley, so they can voice their concerns directly to the companies. Social media companies should also set up their own taskforce on the Middle East and should commit to take immediate action when notified that “the red line of incitement has been crossed,” Cooper said.
+
+The recent agreement reached by the companies with the EU to remove “illegal hate” postings should serve as a model for a more serious and comprehensive approach by the social media giants to the targeting of Israelis and Jews the world over, he said.
+
+In May, the European Commission and Facebook, Twitter, YouTube and Microsoft announced a joint code of conduct to fight the spread of illegal speech online and in Europe.
+
+“There is a positive process going on in the world and that is to bend the big internet bodies in the global village to the laws of the State,” said Prof. Yair Amichai-Hamburger, head of the Research Center for Internet Psychology at the IDC Herzliya School of Communication. “There is a sense of lawlessness to the internet” and big social media companies often “think they are stronger than nations, and because they are in the virtual realm they can do what they want.”
+
+Taking down posts quickly is not in the interest of social media giants who thrive on traffic and rating, he said. And even if the internet in many ways is a tool for the weak to fight oppression, “this spirit of freedom” should not be transformed into anarchy, Amichai-Hamburger said. There should be internet legislation, he said, but it must be done “wisely and carefully.”
+
+Censorship of the internet and its content does not match the spirit of the 21st century, ex-Shin Bet chief Gillon said.
+
+“Technology always wins,” he said. As long as the world is striving for technological advancement, it cannot fight it at the same time. “The free world has already made this choice, but one must take into account that there is a price to this.”

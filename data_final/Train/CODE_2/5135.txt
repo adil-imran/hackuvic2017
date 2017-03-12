@@ -1,0 +1,30 @@
+http://www.businessinsider.com/why-is-virtual-reality-so-expensive-2016-9
+831
+8
+There are plenty of reasons to think that virtual reality (VR) has finally arrived. Facebook's Oculus finally launched its virtual reality headset this year, Sony is about to do the same, Alphabet's Google is about to debut a mobile virtual reality content hub (more on that later) and NVIDIA recently blurred the lines between a VR-ready notebook and a desktop VR system with its new graphics cards.
+
+But with all of its gains so far this year, there is still one major hurdle virtual reality has to overcome: It's cost.
+
+A high-end VR computer can easily cost $1,000. And many high-end computers aren't VR-ready at all. In fact, NVIDIA says 99% of computers on the market this year can't handle the high-end specs you'll need for a true virtual reality experience.
+
+If you want to build your own VR computer, you'll need to shell out at least a couple hundred dollars (on the low end) just for the graphics card alone, not to mention the rest of the computer's internals.
+
+And then there are the headset costs. A high-end headset like HTC's Vive or the Oculus Rift will run you $599 and $799, respectively.
+
+At the present costs, a VR fan will have to shell out at least $1,600 for a high-end virtual reality experience. Those costs will likely stymie VR's growth in the high-end market. But it's not all bad news.
+
+The best VR experience is going to cost a lot of money for a while. But really good VR experiences, at much lower costs, should be the real VR growth driver in the short term.
+
+In the coming weeks, Google will release a Daydream VR platform, according to Bloomberg. The platform will be a way for mobile users to access VR videos, apps, and other content. It'll be the first VR content hub of its kind and I think it's going to be one of the most significant ways that virtual reality is adopted by consumers.
+
+Google isn't just launching a hub for VR content -- it is also paying some content creators up to hundreds of thousands of dollars to make videos for Daydream, and is partnering with device makers to ensure that smartphones will be ready to handle all the content the platform offers.
+
+Of course, Google isn't the only one pursuing cheaper alternatives to VR. Sony will release its own VR bundle next month (which includes a VR headset, games, and controllers) that all work with its PlayStation 4, for just $499. Or, you can get the headset for just $399.
+
+That's not cheap, of course, but 40 million PS4 consoles have already been sold and transitioning those console users to VR users can be done with just a $399 headset.
+
+So Google should help drive inexpensive mobile VR growth and Sony will help VR growth among console users. Meanwhile, high-end devices should continue to see their prices drop as more people get interested in the technology.
+
+Research firm Tractica says that the price of VR headsets should decline by about 15% each year over the coming years. And that drop in price will help spur growth in hardware sales and VR content, which is expected to have a combined market value of $21.8 billion by 2020, up from just $108.8 million in 2014.
+
+So while virtual reality may still be too costly for many consumers, there are plenty of upcoming hardware and software offerings in the pipeline that should spur VR growth and drive down costs. Mobile VR will be much cheaper than Oculus' headset, and Sony's headset will fall somewhere in between. With such a large VR market on the horizon and key tech companies making VR a priority it won't be long before investors see this promising technology turning into big gains.

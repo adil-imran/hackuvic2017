@@ -1,0 +1,64 @@
+http://www.techtimes.com/articles/150994/20160417/apple-refuses-to-help-fbi-unlock-iphone-in-new-york-drug-case-who-will-have-the-last-laugh.htm
+202
+20
+Advertisement
+
+After asking a federal judge to uphold a magistrate court's ruling on unlocking an iPhone, Apple has asserted that it is still a friend of the Department of Justice. However, the FBI has asserted that things are different now, and Apple has "changed course."
+
+
+
+A week or so ago, the Department of Justice informed a federal court that it intended to appeal a decision reached by a magistrate court, which ruled that the FBI couldn't compel Apple to assist it in unlocking the iPhone once possessed by a confessed drug dealer. And now Apple is asking the federal court to uphold the lower court's ruling.
+
+
+
+The last time the two sides sparred over unlocking an iPhone, the back and forth ended with an unnamed third-party stepped in and help the FBI crack a phone that belonged to one of the two perpetrators of December massacre in San Bernardino, California.
+
+
+
+In the case of the San Bernardino iPhone, a 5C running iOS 9, the FBI wanted Apple to help build a backdoor into the phone's operating system and retrieve data from the device. And a court ordered the company to do so, though Apple fought the order.
+
+
+
+In the case of the Brooklyn iPhone, a 5S running iOS 7, the FBI has called for Apple to help decipher the handset's pin code.
+
+
+
+Apple's Latest Defense
+
+Federal prosecutors appealed to the magistrate court last month before moving to federal court with its appeal to compel Apple into pinning down the code to the iPhone 5S. Last Friday, Apple filed a 45-page brief in response to that appeal
+
+
+
+"The government has utterly failed to satisfy its burden to demonstrate that Apple's assistance in this case is necessary," said Apple in the brief. "The government has made no showing that it has exhausted alternative means for extracting data from the iPhone at issue here."
+
+
+
+Supporting its stance on the Justice Department ability to crack the phone on its own, Apple, in the brief, pointed to the FBI's success in unlocking the San Bernardino iPhone and its tougher-to-break encryption.
+
+
+
+On top of that, Apple used FBI Director James Comey's own words to argue that court isn't the ideal venue for debating "a complicated policy issue."
+
+
+
+"[Litigation] is a terrible place to have any kind of discussion about a complicated policy issue," Apple quoted Comey as saying, "especially one that touches on our values, on the things we care about most, on technology, on trade-offs and balance."
+
+
+
+Friendship
+
+Apple initially agreed to aid the feds with the iPhone in the Brooklyn case, Justice Department spokeswoman Emily Pierce stated in response to the company's push to have the lower court's ruling upheld.
+
+
+
+"As we have made clear in our previous filings, Apple expressly agreed to assist the government in accessing the data on this iPhone -- as it has at least 70 times before in similar circumstances," she said. "Apple has said it would take them only a few hours to open this kind of phone, because they already have a mechanism that would allow them to do so."
+
+
+
+Apple, in the past, has assisted with Justice Department's order that leveraged the Wall Writs Act of 1789, the tech company has "changed course," she said. The new course, going by an Apple letter to customers, is to work with a panel of experts on determining the implications of the All Writs Act.
+
+
+
+Whatever degree Apple has or hasn't complied with orders under the All Writs Act, the company called the FBI previous usage of its "unprecedented" and deemed that interpretation of it to be a move to "justify an expansion of authority."
+
+© 2016 Tech Times, All rights reserved. Do not reproduce without permission.

@@ -1,0 +1,32 @@
+http://www.bloomberg.com/news/articles/2016-06-30/amazon-committed-to-u-k-data-center-opening-despite-brexit
+130
+13
+Amazon serves customers from 13 data-center clusters worldwide and plans to open four additional locations in the coming year.
+
+Amazon.com Inc.’s cloud computing division remains "committed" to opening a London data center by early next year, even after the British public’s vote for the U.K. to leave the EU.
+
+It will also offer local customers the option of hosting data in Germany or Ireland, a company executive said Thursday.
+
+"Demand for all our services is growing across all Europe. For us it’s business as usual," Stephen Orban, head of enterprise strategy at Amazon Web Services, said in an interview at a customer conference Thursday in Frankfurt.
+
+Britain’s vote last week to break away from the EU has raised concerns about how data-storage regulations in Europe and the U.K. will evolve. Orban confirmed Amazon’s planned U.K. data center would open despite the uncertainty, opening later this year or early next as planned.
+
+"We’re watching the situation but I can’t speculate how everything is going to unfold," Orban said. AWS offers data protection agreements that have been approved by the EU’s Article 29 working group and plans to work with "the various different compliance rules and regulations" on the Continent, he said.
+
+Exclusive insights in your inbox, from our technology reporters around the world. Get Fully Charged, from Bloomberg Technology. Business Your guide to the most important business stories of the day, every day. You will now receive the Business newsletter Politics The latest political news, analysis, charts, and dispatches from the campaign trail. You will now receive the Politics newsletter Markets Your daily must-read for the most important news in markets. You will now receive the Markets newsletter Pursuits The coolest cars to drive, the latest gadgets to ogle, the hottest places to travel. You will now receive the Pursuits newsletter Game Plan The school, work and life hacks you need to get ahead. You will now receive the Game Plan newsletter Britain’s decision to leave the EU could make using the planned London center more complicated for customers if the U.K. adheres to different rules than the rest of Europe about storing and safeguarding data. The Brexit process raises concerns that Europe’s new General Data Protection Regulation, approved in April and set to take effect in 2018, will no longer apply in the U.K. once it leaves the EU. If the U.K. needs to create its own set of protection rules it could complicate business in Europe for cloud providers such as AWS, Microsoft Corp.’s Azure service, and data businesses.
+
+Customer Considerations
+
+"We were considering using the U.K. one, mostly for U.K. customers," said Charles Phillips, Chief Executive of Infor, a New York-based business software company that’s one of AWS’s biggest customers. "It’s less likely given what’s going on. I don’t want to rush in there and then have customers tell us to do something different."
+
+Phillips, a former high-ranking executive at Oracle Corp., said Infor plans to keep hosting British customers’ data from Amazon’s Dublin center, though he had hoped Amazon’s U.K. center would offer faster Web response times.
+
+"Most of our customers we know are OK with Ireland," he said. "We don’t know if they’re OK with the U.K."
+
+Orban said European customers that don’t want to tap computing capacity from the upcoming U.K. cluster of data centers could still host their applications in Amazon’s Frankfurt and Dublin locations.
+
+Amazon’s cloud division, which the company says is on track for $10 billion in revenue this year, rents computing capacity and software that businesses can tap online instead of installing and maintaining their own servers. Amazon serves customers from 13 data-center clusters worldwide and plans to open four additional locations in the coming year.
+
+"Everything new we’re building on AWS," said Eric Bowman, vice-president of engineering at Zalando SE, the fast-growing Berlin-based Web apparel retailer. Each of its 110 developer teams has its own AWS account, which lets the company build new capabilities quickly without getting tangled in one another’s code or waiting weeks for new servers to arrive.
+
+The U.K. cluster would offer EU customers "strong data sovereignty," Amazon’s chief technology officer, Werner Vogels, said in a blog post last year. That’s an important issue in Europe, where regulations require data resides on computers in the EU, and many businesses, especially in Germany, insist it say in their own country.

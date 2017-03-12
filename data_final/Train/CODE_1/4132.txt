@@ -1,0 +1,24 @@
+http://en.farsnews.com/newstext.aspx?nn=13950605000305
+1821
+18
+Technology
+
+Scientists Solve Puzzle of Converting Gaseous Carbon Dioxide to Fuel
+
+TEHRAN (FNA)- Scientists believe they've found a way to convert all Carbon Dioxide emissions into energy-rich fuel in a carbon-neutral cycle that uses a very abundant natural resource: silicon.
+
+Every year, humans advance climate change and global warming -- and quite likely our own eventual extinction -- by injecting about 30 billion tonnes of carbon dioxide into the atmosphere.
+
+A team of scientists from the University of Toronto (U of T) believes they've found a way to convert all these emissions into energy-rich fuel in a carbon-neutral cycle that uses a very abundant natural resource: silicon. Silicon, readily available in sand, is the seventh most-abundant element in the universe and the second most-abundant element in the earth's crust.
+
+The idea of converting carbon dioxide emissions to energy isn't new: there's been a global race to discover a material that can efficiently convert sunlight, carbon dioxide and water or hydrogen to fuel for decades. However, the chemical stability of carbon dioxide has made it difficult to find a practical solution.
+
+"A chemistry solution to climate change requires a material that is a highly active and selective catalyst to enable the conversion of carbon dioxide to fuel. It also needs to be made of elements that are low cost, non-toxic and readily available," said Geoffrey Ozin, a chemistry professor in U of T's Faculty of Arts & Science, the Canada Research Chair in Materials Chemistry and lead of U of T's Solar Fuels Research Cluster.
+
+In an article in Nature Communications published August 23, Ozin and colleagues report silicon nanocrystals that meet all the criteria. The hydride-terminated silicon nanocrystals -- nanostructured hydrides for short -- have an average diameter of 3.5 nanometres and feature a surface area and optical absorption strength sufficient to efficiently harvest the near-infrared, visible and ultraviolet wavelengths of light from the sun together with a powerful chemical-reducing agent on the surface that efficiently and selectively converts gaseous carbon dioxide to gaseous carbon monoxide.
+
+The potential result: energy without harmful emissions.
+
+"Making use of the reducing power of nanostructured hydrides is a conceptually distinct and commercially interesting strategy for making fuels directly from sunlight," said Ozin.
+
+The U of T Solar Fuels Research Cluster is working to find ways and means to increase the activity, enhance the scale, and boost the rate of production. Their goal is a laboratory demonstration unit and, if successful, a pilot solar refinery.

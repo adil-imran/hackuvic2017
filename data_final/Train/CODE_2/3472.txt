@@ -1,0 +1,52 @@
+http://www.bloomberg.com/news/articles/2016-08-26/bank-supervisors-bark-may-exceed-bite-after-eu-capital-revamp
+72
+7
+The European Central Bank and the Bank of England may soon find that their most powerful tool for overseeing lenders doesn’t pack the punch it once did.
+
+QuickTake Capital Requirements
+
+The European Union is overhauling the way supervisors set bank-specific capital levels for current and potential risks that aren’t covered by the minimum requirements in EU law. A proposal from the European Commission, the EU’s executive arm, would rein in supervisors and give banks the lead in determining their capital needs.
+
+The ECB has already followed directions from the commission in splitting its demands into binding requirements and non-binding guidance, reducing the capital burden on euro-area banks. This decision also made it less likely that banks will face restrictions on the payment of dividends, bonuses and additional Tier 1 bond coupons.
+
+“What this boils down to is a complete disarming of the authorities,” said Christian Stiefmueller, a senior policy analyst at Finance Watch, a Brussels-based watchdog. “It makes it effectively impossible for the supervisor to set capital requirements for any risk except those that have already materialized.”
+
+Bankers’ Bonuses
+
+Europe’s banks are starting to get some slack from policy makers after years of aggressive regulation. The Brussels-based commission has opened up the entire financial rule book for review, including contentious issues such as the cap on bankers’ bonuses. Faced with weak banks and an anemic economy, regulators have made clear that global standards will be adapted to suit Europe’s needs.
+
+The ECB’s lowering of capital requirements was preceded by the BOE’s decision to reduce a key buffer rate last month.
+
+“The backlash against regulation has been under way already for a while,” Stiefmueller said. “Banks are hurting due to the economic situation, and supporting them in their campaign has become respectable again.”
+
+The revamp of the EU’s bank-specific capital rules known as Pillar 2 takes aim at a system that has produced an average common equity Tier 1 capital ratio requirement of about 9.9 percent for major euro-area banks, more than twice the 4.5 percent level in EU law.
+
+The additional requirements have led to criticism from banks and policy makers alike. Deutsche Bank AG’s head John Cryan said last year’s process “surprised the industry.” Bank of Italy’s Deputy Governor Fabio Panetta complained of “unwarranted” and “arbitrary” requirements in a letter to Daniele Nouy, head of the ECB’s supervisory arm.
+
+Supervisors currently have a broad remit in setting Pillar 2 requirements. EU law empowers them to impose additional own funds requirements “at least” where certain conditions are met, including that a bank’s risks “are likely to be underestimated despite compliance” with the law.
+
+In a discussion paper, the commission sets out a very different approach, under which Pillar 2 requirements “could only be imposed” by supervisors when specific conditions are met. Rather than providing a framework for supervisory action in the law that allows supervisors to go further in requiring additional capital, the commission now proposes a finite list of stipulations to which they must adhere.
+
+“It almost reverses the burden of proof and it limits supervisors to pre-set categories and methodologies,” said Otto Dichtl, a fixed income analyst at brokerage Stifel Nicolaus Europe Ltd. “If you restrict supervisors to a narrowly defined set of cookie-cutter tools, you go back to a situation where banks can find many options for regulatory arbitrage.”
+
+Risk Management
+
+Stress tests, which supervisors previously used in setting capital requirements, now feed only into non-binding guidance. The ECB has said binding requirements will fall because of guidance, which it is using in this year’s supervisory review and evaluation process to set Pillar 2 in line with guidance from the European Commission.
+
+The European Banking Authority last month set out guidelines for the use of capital guidance to cover potential own-funds shortfalls revealed in stress tests. “Although capital guidance does not constitute any form of minimum capital requirement, institutions are expected to incorporate it their risk management frameworks and competent authorities should monitor its fulfillment,” the London-based regulator said.
+
+Sven Giegold, a German member of the European Parliament, says the ECB’s move runs afoul of EU law.
+
+“The European Commission is relieving weak banks from billions of euros of capital requirements,” Giegold said. “The fact that the ECB is prematurely executing this plan is a breach of existing EU law, which must apply if Pillar 2 requirements aren’t met.”
+
+Biggest Banks
+
+The ECB rejects this reasoning. “Nothing in the current legislation prevents the ECB from using Pillar 2 guidance, which is something that has already been used elsewhere in the European Union, and the EBA has also recommended this approach recently,” an ECB spokesperson said.
+
+When the commission presented its proposal to member-state experts before the summer break, some voiced skepticism, according to minutes of the meeting seen by Bloomberg. Additional protection for risky bond investors was questioned by some, while others said it might be difficult to distinguish Pillar 2 requirements from guidance.
+
+The final word on Pillar 2 policy will have to wait for an update of EU bank-capital law, a sweeping process that will cover work under way at the Basel Committee on Banking Supervision, new standards on loss absorbency for the biggest banks adopted by the Group of 20 nations and a host of other issues. The commission plans to complete its review of the law this year.
+
+Dichtl said he’d be surprised if the commission’s proposal was adopted as is. “It looks like it softens the existing rules considerably,” he said. “Some of it almost reads like the banks’ wish list.”
+
+While the proposal may be watered down, a trend toward easing of EU Pillar 2 policy is clear. As analysts at CreditSights Inc. led by John Raymond and Simon Adamson wrote in a report this week, the supervisory review and evaluation process “is an evolving one, and we are seeing a number of changes to it which should make life a little easier for most euro-zone banks.”

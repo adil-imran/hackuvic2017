@@ -1,0 +1,18 @@
+http://www.4-traders.com/AT-T-INC-14324/news/AT-T-using-70-80-GHz-spectrum-in-fixed-wireless-trial-23193930/
+61
+6
+Perhaps not surprising to some in the wireless industry, AT&T is using the 70 GHz-80 GHz spectrum band in its point-to-point millimeter wave (mmWave) wireless and wireline technology trial that it announced last week.
+
+The operator did not identify that exact spectrum band in its press announcement, but a company spokesperson told FierceWirelessTech that it holds a nationwide license to provide service in the 70 GHz-80 GHz spectrum band, and thats what its using for this trial. As AT&T has done for this trial, licensees register use of site specific spectrum links in this band through the FCCs registration process, AT&T said in a statement.
+
+The higher spectrum bands, including the 28 GHz and 39 GHz bands and higher, are being tested as part of 5G trials in the U.S. But this trial that AT&T is doing using the 70 - 80 GHz band is for point-to-point wireless technology connecting the backhaul between buildings. While this trial delivers comparable speeds and operates in the millimeter wave band, as will some 5G technologies, this is not a 5G radio protocol or equipment, AT&T told FWT.
+
+The higher bands like 70 and 80 GHz have been used for backhaul for quite some time. Fastback Networks, for example, has been selling products to more than a dozen Tier 1 customers in North America and Europe , but it isnt allowed to identify all of them publicly. AT&T is not identifying the vendors that its working with in this trial.
+
+The operator did say that its a first-of-its-kind trial for AT&T and uses a combination to wired and wireless network technologies to provide a 100 megabits-per-second connection to apartment units. The first to see the service are apartment complexes in Minneapolis , which is outside of AT&Ts traditional 21-state wireline service area.
+
+The 70/80 GHz bands are included in the FCCs Report and Order and Further Notice of Proposed Rulemaking on spectrum bands above 24 GHz, also known as the Spectrum Frontiers proceeding. Back in 2003, the commission established service rules to promote non-federal development and use of millimeter wave spectrum in the 71-76 GHz, 81-86 GHz and 92-95 GHz bands using a two-pronged authorization scheme.
+
+First, a licensee applies for a non-exclusive nationwide license. Second, the licensee registers individual point-to-point links. Under this licensing scheme, a non-exclusive license serves as a prerequisite for registering individual point-to-point links.
+
+As of June 10, 2016 , there were 446 active non-exclusive nationwide licenses covering the 70 GHz, 80 GHz and 90 GHz bands, according to the FCC . Based on information available from third-party database managers that are responsible for registering links in those bands, as of June 10, 2016 , there were about 22,600 registered fixed links in the 71-76 GHz and 81-86 GHz bands.

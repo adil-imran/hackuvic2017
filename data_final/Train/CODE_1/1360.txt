@@ -1,0 +1,38 @@
+https://www.yahoo.com/tech/samsung-versus-apple-u-supreme-004017759.html
+130
+13
+In 2011, Apple filed a patent design lawsuit against Samsung. In 2017, we may finally see an end to the long-running feud between the two largest smartphone makers in the world.
+
+The U.S. Supreme Court heard a specific aspect of the Apple vs. Samsung case on Tuesday in Washington, D.C. Both sides made arguments and the U.S. Department of Justice added a few comments. We expect the Supreme Court’s ruling to come some time before the court’s term ends in June 2017.
+
+Recalling the design of the Volkswagen Beetle
+
+To understand the line of questioning from the Supreme Court justices to Apple and Samsung lawyers, you need to take a look at the law and the argument in the case.
+
+Design patents, as the name suggests, protect the unique look of a product. Utility patents protect the functional parts of a product. In the original 2012 case, Apple sued Samsung saying it copied various design patents of the iPhone. The jury ended up siding with Apple, agreeing that Samsung copied the black rectangle shape and rounded corners, the bezel, and a patent that covered the graphical layout of icons on the iPhone. The Korean giant was ordered to pay “total profits” of the phones in question.
+
+“Whoever during the term of a patent for a design, without license of the owner, applies the patented design, or any colorable imitation thereof, to any article of manufacture for the purpose of sale, or sells or exposes for sale any article of manufacture to which such design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit, but not less than $250, recoverable in any United States district court having jurisdiction of the parties,” the law states (emphasis ours).
+
+Samsung, and many of its supporters, believe the reward for infringing a design patent should not offer the “total profits.” Since a smartphone is filled with thousands of patented components, infringing design patents should not amount to the total profit of the smartphone. Apple counters that the whole design sells the phone — removing the need to pay total profits would hamper legal protection for new products and design.
+
+Related: Samsung has finally killed the Galaxy Note 7
+
+In recent court filings, Apple has said while “total profit” should mean that Samsung has to pay the total profit of a sale, “article of manufacturer” could mean specific features and not the whole product. The company said in court that significant financial damage would deter people from stealing designs of products
+
+One line of questioning that was prevalent throughout the hearing concerned how to identify the value of a design from the overall product, according to CNET.
+
+“If I was a juror, I wouldn’t know what to do,” Justice Anthony Kennedy reportedly said. Justices were skeptical about Samsung’s argument, according to The Verge, as Justice Sonia Sotomayor suggested that the design of a phone “might drive the sale.”
+
+The design of the original Volkswagen Beetle was brought up, as it features many components inside it. Justice Samuel Alito said design was important, but it isn’t the only driving force behind sales.
+
+“Nobody buys a car, even a Beetle, just because they like the way it looks,” Justice Alito said, according to the Verge.
+
+But while the car has to perform all the other functions cars are expected to do, Justice Elena Kagan said perhaps its design was indeed a primary motivator in sales.
+
+Related: After a slow start last month, iOS 10 now being run on a majority of Apple devices
+
+In its brief, Samsung raised the point that if Apple wins, it would mean someone who infringes on the design of a “patented cupholder” may have to pay the entire profits on a car. It’s why Samsung wants “articles of manufacturing” to mean the specific components of a phone, rather than the whole phone itself.
+
+“The infringement wasn’t found on the whole phone,” Samsung attorney Kathleen Sullivan said after the hearing. “It asserted three narrow patents. The patent doesn’t apply to the internals of the phone, so Apple doesn’t deserve profits on all of Samsung’s phone.”
+
+She said awarding total profits for infringing design patents would “devalue” the other important patents in a smartphone, according to CNET. A device typically has about 250,000 patented features, Sullivan noted.

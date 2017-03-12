@@ -1,0 +1,50 @@
+http://hosted.ap.org/dynamic/stories/U/US_SUPREME_COURT_APPLE_SAMSUNG?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2016-10-11-12-27-00
+120
+12
+WASHINGTON (AP) -- The Supreme Court raised serious doubts Tuesday about a $399 million judgment against smartphone maker Samsung for illegally copying parts of the patented design of Apple's iPhone.
+
+Justices hearing arguments in the long-running dispute seemed troubled that Samsung was ordered to pay all the profits it earned from 11 phone models, even though the features at issue are just a tiny part of the devices.
+
+But some justices struggled over how exactly a jury should be told to compute damages if the case is sent back to a lower court.
+
+"If I were a juror, I wouldn't know what to do," said Justice Anthony Kennedy.
+
+Justice Stephen Breyer appeared to embrace a test proposed by a group of internet companies including Facebook and Google that would outline new limits on such damage awards. Other justices seemed to favor a different test proposed by the Obama administration.
+
+The outcome could have ripple effects across the high-tech industry as the court balances the need to encourage innovation against a desire to protect lucrative design patents.
+
+The case is part of series of high-stakes lawsuits between the technology rivals that began in 2011. None of the early generation Samsung phones involved in the lawsuit remains on the market.
+
+Cupertino, California-based Apple sued over South Korea-based Samsung's duplication of a handful of distinctive iPhone features for which Apple holds patents: the flat screen, the rounded rectangle shape of the phone, and the layout of icons on the screen.
+
+The companies are wrangling over how much Samsung is required to compensate Apple under an 1887 law that requires patent infringers to pay "total profit." At issue is whether that means all the profits from phone sales, or just the profit related to the specific components that were copied.
+
+Samsung says the hefty award ignores the fact that its phones contain more than 200,000 other patents that Apple does not own. Apple argues that the verdict is fair because the iPhone's success was directly tied to its distinctive look.
+
+The federal appeals court in Washington that hears patent cases has ruled that Apple was entitled to all the profits.
+
+Samsung's lawyer Kathleen Sullivan told the court that total profits should be limited only to the sliver of the product that was copied. She said the parties could use consumer surveys and other expert testimony to show how much the design affected sales.
+
+The justices seemed open to the idea, but several kept wondering how it would play out using the example of the Volkswagen Beetle, a car with a quirky design that surged to popularity in the 1960s.
+
+"It may be that the body accounts for only 10 percent of the cost of the car, but 90 percent of the profits are attributable to the shape of the car," Justice Sonia Sotomayor said.
+
+But Justice Samuel Alito said the Beetle example was not that helpful.
+
+"I can't get over the thought that nobody buys a car, even a Beetle, just because they like the way it looks," he said.
+
+Breyer relied on other examples to suggest that a test limiting damages to just one component that was infringed, and not the entire product, could work.
+
+"You know, wallpaper, you get the whole thing. A Rolls Royce thing on the hood? No, no, no. You don't get all the profit from the car," he said.
+
+Arguing for the Obama administration, Justice Department lawyer Brian Fletcher said the justices should adopt a multi-factor test that includes how prominent are the design features in the product, and to what extent consumers buy an iPhone or other device based on how it looks instead of what it can do.
+
+Both Sullivan and Apple's lawyer, former solicitor general Seth Waxman, seemed open to the court adopting a version of the government's test.
+
+Technology giants, including Facebook and Google, are backing Samsung. They say upholding the lower court ruling would value a single design patent at the expense of all other things a smartphone can do, leading to excessive windfalls not intended by the law.
+
+On the other side, companies including sportswear manufacturer Adidas and jewelry maker Tiffany & Co. say allowing recovery of total profits will discourage "design pirates" and protect companies that invest in creative designs.
+
+The argument comes at a rough time for Samsung. The company announced Tuesday that it is halting sales of Galaxy Note 7 smartphones after reports that even the replacements for problem-plagued recalled models were catching fire. That model was not part of the patent litigation.
+
+A ruling in the case is expected by June.

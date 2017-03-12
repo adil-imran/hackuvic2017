@@ -1,0 +1,44 @@
+https://www.justsecurity.org/30065/international-criminal-law-trifecta/
+202
+20
+This post is the latest installment of our “Monday Reflections” feature, in which a different Just Security editor examines the big stories from the previous week or looks ahead to key developments on the horizon.
+
+Three important decisions in international justice are slated to be released in the next two weeks. Importantly, two involve the doctrine of superior responsibility (the first for the International Criminal Court). With trial judgments to be rendered in two of its remaining cases, the International Criminal Tribunal for the former Yugoslavia (ICTY) will move inexorably closer towards succeeding in its Completion Strategy. International justice watchers will no doubt be busy digesting the new jurisprudence. I offer some background on the three cases below…
+
+1. Prosecutor v. Bemba (ICC)
+
+Today, the ICC will release the long-awaited opinion in the case involving Jean-Pierre Bemba, a national of the Democratic Republic of the Congo accused before the International Criminal Court (ICC) of committing crimes in neighboring Central African Republic (CAR) in 2002-03, in violence unconnected to the current crisis. CAR first self-referred this situation to the Court in 2005. Bemba has been charged with war crimes and crimes against humanity in an indictment that features chilling allegations of mass rape and pillage alongside acts of murder allegedly by Bemba’s subordinates. (Update: The Trial Chamber unanimously found Bemba guilty of all five counts. You can find the judgment and separate opinions here.) Controversially, back in 2009, the Pre-trial Chamber adjourned the confirmation of charges proceedings and asked the Prosecutor to consider amending the operative theory of liability from co-perpetration to superior responsibility. Later, during trial, the Trial Chamber recharacterized the facts again to adjust the operative mens rea standard. Several scheduled witnesses did not appear at trial.
+
+The impending verdict will mark the first time the ICC has grappled extensively with gender-based violence charges as well as the doctrine of superior responsibility, set forth in the ICC Statute in Article 28(a) (applicable to a military commander; other superiors are dealt with in Article 28(b)). The latter doctrine contains three elements:
+
+Subordination — the direct perpetrators were under the effective command or control of the defendant;
+
+Mens rea — the defendant knew, or should have known, that his/her subordinates were committing, had committed, or were about to commit international crimes; and
+
+Actus reus/omission — the defendant failed to act to prevent the crimes from being committed or to punish the perpetrators after the fact.
+
+(See my earlier discussion of the doctrine in US law here). The case was submitted to the judges in November 2014, although a companion case involving offenses against the administration of justice (primarily witness tampering) against Bemba, members of his legal team, and other associates remains underway, with former US defense counsel Kweku Vanderpuye as the lead prosecutor. The latter case came to fruition following an unprecedented joint arrest operation involving the Netherlands, France, Belgium, and the DRC.
+
+The protracted delay between closing arguments and the anticipated verdict has generated all sorts of speculation as to the outcome. Bemba has been financing his own defense out of funds that were frozen in Portugal (where Bemba had fled in 2007, although he was arrested in Belgium) and are being disbursed monthly to his counsel and for familial support. His primary defense has been that the direct perpetrators were not under his effective command or control and, to the extent that troops under his command did commit excesses, they were effectively punished.
+
+In 2014, CAR referred itself again to the ICC, this time for crimes committed since 2012 in connection with the Séléka Rebellion. In 2015, CAR also established by domestic legislation a Special Criminal Court to prosecute other perpetrators of mass crimes not tried by the ICC.
+
+2. Prosecutor v. Karadžić (ICTY)
+
+The trial judgement in the case against Radovan Karadžić — former President of Republika Srpska — will be delivered on Thursday, March 24, 2016. (Trial proceedings concluded in October 2014.) Karadžić stands accused of genocide, crimes against humanity, and war crimes on joint criminal enterprise and superior responsibility theories of liability before the ICTY. Count 11 concerns hostage-taking, which covers the alleged detention of over 200 UN peacekeepers and military observers in 1995 in order to force an end to NATO air strikes against Bosnian Serb military targets (Operation Deliberate Force). Other counts concern the siege of Sarajevo and the attack on the Srebrenica safe haven. His was one of the first indictments issued by the ICTY, but he remained at large until 2008, when he was found living — virtually in plain sight — as a guru in Belgrade. His co-accused Ratko Mladić, whose trial is ongoing, was not arrested until 2011. A judgment in that case is expected in November 2017.
+
+In 2009, and as a function of the ICTY’s Closing Strategy, the Prosecutor streamlined the controlling indictment, removing a number of incidents and municipalities from the case’s scope. Following the Prosecutor’s case-in-chief, Karadžić moved for acquittal on a no-case-to-answer motion (Rule 98bis of the ICTY’s Rules of Procedure and Evidence). The Trial Chamber granted the motion with respect to Count 1, involving allegations of genocide in Bosnia-Herzegovina, on the ground that acts of ethnic cleansing in the relevant municipalities in 1992 did not rise to the level of genocide. Count 2, covering alleged genocide in Srebrenica, remained intact. On the Prosecutor’s appeal, however, the Appeals Chamber reinstated Count 1.
+
+Throughout the trial, Karadžić has essentially represented himself, although he did accept assistance from Peter Robinson, a US international criminal defense lawyer. A major plank of his defense is premised on the argument that the late Ambassador Richard Holbrooke, who at the time was US Special Envoy in the Balkans, had promised him immunity if he withdrew from public life — allegations that have been vehemently denied.
+
+3. Prosecutor v. Šešelj (ICTY)
+
+Finally, after multiple fits and starts, the judgment in the case against Vojislav Šešelj is due to be rendered on March 31, 2016.
+
+In an apparent effort to unite by force Serbian communities in areas of the former Yugoslavia, Šešelj — a nationalist politician — is alleged to have contributed to a joint criminal enterprise that committed the crimes against humanity of persecution and deportation and the war crimes of murder, torture, and wanton destruction of property. Among the incidents alleged includes the murder of prisoners of war at Vukovar hospital, an incident already the subject of another ICTY case.
+
+Although he voluntarily surrendered to the ICTY, Šešelj ultimately refused to attend his trial and went on a hunger strike that required a medical intervention. In addition, the trial was adjourned several times, in part in light of the accused’s health issues, but also due to the alleged intimidation of witnesses. At one point, the trial was ordered to restart anew. Šešelj did not present a defense, but did unsuccessfully move for judgment of acquittal after the presentation of the prosecution’s case-in-chief. Along the way, he was also convicted three times of contempt in court and sentenced to 15 months’, 18 months’, and then two years’ imprisonment (to be served concurrently) for revealing the identities of protected witnesses.
+
+Following closing arguments, Judge Frederik Harhoff was disqualified from the chamber after a letter was made public that gave the appearance of a pro-prosecution bias. This was the very same letter that accused his colleague, ICTY President Ted Meron, of being influenced by outside states and pressuring his colleagues to acquit top commanders. Controversially, Šešelj was not granted a new trial; instead, Judge Harhoff’s replacement, Judge Mandiaye Niang, was given time to familiarize himself with the record. The accused was released, apparently without conditions, on humanitarian grounds in 2014 to receive treatment for cancer. Earlier, he had refused an offer of provisional relief if he agreed to forgo participation in politics.
+
+Although originally ordered to appear on the 31st to hear the verdict against him, the ICTY later rescinded the summons. Šešelj had boasted that he would not return to the Hague voluntarily and would have to be extradited.

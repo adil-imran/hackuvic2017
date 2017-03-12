@@ -1,0 +1,54 @@
+http://www.dailymail.co.uk/wires/ap/article-3783061/Hacks-election-systems-raise-fear-foreign-meddling.html
+130
+13
+Election hacks raise fears of Russian influence
+
+WASHINGTON (AP) — Recent hacks of election data systems in at least two states have raised fear among lawmakers and intelligence officials that a foreign government is trying to seed doubt about — or even manipulate — the presidential race, renewing debate over when cyberattacks cross red lines and warrant a U.S. response.
+
+Federal officials already are investigating cyberattacks at the Democratic National Committee and the Democratic Congressional Campaign Committee, believed to be the work of hackers tied to the Russian government. Trolling a private organization's emails is one thing, cyberexperts say, but breaching state election systems to undermine the integrity of the November ballot would be quite another.
+
+"The mere access to those systems is incredibly concerning to me," said Sean Kanuck, former national intelligence officer for cyber issues at the Office of the Director of National Intelligence. "I think that the manipulation of election data or voting systems would warrant a national security response."
+
+FILE - In this Sept. 7, 2016 file photo, Russian President Vladimir Putin holds the Cabinet meeting in Moscow's Kremlin, Russia. Recent hacks of election data systems in at least two states have raised fear among lawmakers and intelligence officials that a foreign government is trying to seed doubt about - or even manipulate - the presidential race, renewing debate over when cyberattacks cross red lines and warrant a U.S. response. (Mikhail Klimentyev/Sputnik, Kremlin Pool Photo via AP, File)
+
+No one has yet confirmed that data was actually manipulated. Law enforcement and intelligence officials are investigating the election-related breaches, but also are looking at the extent to which Russia could be involved in a disinformation campaign to diminish U.S. clout worldwide. Russian President Vladimir Putin says Moscow wasn't involved in the hacking of emails of the Democratic Party.
+
+Republican presidential nominee Donald Trump said last week he thinks it's unlikely that Russia is trying to influence the election. "I think maybe the Democrats are putting that out," he said on RT America, the U.S. partner of Kremlin-backed network Russia Today.
+
+But Defense Secretary Ash Carter issued a public warning to Moscow last week while in Europe. "We will not ignore attempts to interfere with our democratic processes," Carter said. Asked later to elaborate, Carter said he was referring to Russia's use of hybrid warfare — "interference in the internal affairs of nations, short of war" — which he said is a concern across Europe.
+
+Late last month, the FBI sent a "flash alert" to warn state officials to strengthen their election systems in light of evidence that hackers targeted data systems in two states. The FBI described a "compromise" of one elections board website and "attempted intrusion activities" in another state's system. The FBI didn't name the states, but state election websites in Illinois and Arizona experienced hack-related shutdowns in the parts of the websites that handle online voter registration.
+
+Manipulating an election in the United States would be difficult, officials say, because there are thousands of electoral jurisdictions across the 50 states.
+
+Homeland Security Secretary Jeh Johnson said Thursday that the election system is "so decentralized, so vast ... it would very difficult to alter the count."
+
+FBI Director James Comey agrees.
+
+"The vote counting in this country tends to be kind of clunky," which is a blessing because it makes harder for hackers to infiltrate, Comey said. "It makes it more resilient and farther away from an actor who might be looking to crawl down a fiber-optic cable, and find there actually is no fiber optic cable — that it's actually some woman named Sally and a guy named Joe and they roll the thing (voting machine) over and pull out the punch cards," Comey said.
+
+Such reassurances have not eased concern on Capitol Hill, yet reaction has been mixed.
+
+Senate Democratic leader Harry Reid of Nevada was "deeply shaken" after a half-hour briefing about Russian activities that he received at the FBI office in Las Vegas, according to an individual familiar with the briefing. The individual was not authorized to publicly discuss the briefing and spoke only on condition of anonymity.
+
+An aide to another senator, who also was briefed, said what gave the lawmaker "pause" was that Russia might be meddling in the United States in the same way it has in Eastern Europe where it has a history of using cyberattacks to facilitate their political objectives.
+
+Sen. Ron Wyden, D-Ore., member of the Senate Intelligence Committee, said there is bipartisan concern about the "Russian government engaging in covert influence activities." He said a section of this year's intelligence authorization bill directs the president to set up an interagency committee to 'counter active measures by Russia to exert covert influence over peoples and governments.'"
+
+Rep. Devin Nunes, R-Calif., chairman of the House Intelligence Committee, said, however, that he's not surprised by the hacks.
+
+"I just think people have been asleep," he said. "This is the challenge of going to digital records, digital voting. This is why it's imperative to keep paper voting."
+
+How the U.S. should respond to cyberattacks is the subject of much debate.
+
+John Carlin, assistant attorney general for national security at the Justice Department, described a three-pronged approach: figure out who's responsible, don't be afraid to take it public and routinely impose consequences.
+
+Andrew McCabe, deputy director of the FBI, said each one of those steps presents challenges. "In terms of options for action, they are limited — very understandably sometimes — by international policy constraints, diplomatic challenges and the concern about the impact on partners and relationship with partners."
+
+California Rep. Adam Schiff, the top Democrat on the House Intelligence Committee, said each cyberattack will require a different U.S. response. In some cases, it could begin with "naming and shaming" responsible parties, he said. Other cases call for economic or other sanctions. When it comes to cyberattacks by North Korea, perhaps the U.S. should consider dropping public leaflets aimed at denouncing the repressive North Korean government, he said.
+
+"I think the failure to act, the failure to establish any deterrent, the failure to even name responsible parties — particularly in the case of Russia — only invites further exploitation, further attacks and further effort to disrupt our elections," Schiff said.
+
+___
+
+Associated Press writer Alicia A. Caldwell contributed to this report.

@@ -1,0 +1,36 @@
+http://washpost.bloomberg.com/Story?docId=1376-OFEZQBSYF01U01-6RSH3S4C54U2DKV6F1AH7DRQ85
+153
+15
+(Bloomberg) -- A Russian man arrested in the Czech Republic was indicted in California over cyberattacks on LinkedIn Corp. and Dropbox Inc. in a case that has already raised tensions between the U.S. and Russia over his extradition.
+
+Yevgeniy Nikulin, 29, of Moscow, is charged with multiple counts of computer-enabled fraud and identity theft in the indictment filed Thursday and made public Friday in San Francisco federal court. Czech police detained Nikulin at a Prague hotel on Oct. 5 after being alerted by a so-called Red Notice from Interpol.
+
+Russia’s Foreign Ministry said Thursday it was working with Czech authorities to block Nikulin from being extradited. It said the arrest proves the U.S. is “hunting for Russian citizens across the world.”
+
+The arrest follows the conviction of the son of a Russian lawmaker in Seattle two months ago on charges of orchestrating a global hacking bonanza in what a U.S. prosecutor called one of the most prolific credit card trafficking schemes in history. When Roman Seleznev was first arrested, the Russian Foreign Ministry accused U.S. agents of kidnapping him after a passport check in the Maldives and forcibly taking him to Guam.
+
+This month, U.S. intelligence officials said publicly for the first time that they are “confident that the Russian government directed” the hacking of the Democratic National Committee and subsequent disclosures of almost 20,000 e-mails “to interfere with the U.S. election process.” Russia has rejected the accusations.
+
+LinkedIn said in May that a 2012 hack may have been bigger than previously known, after a hacker’s attempt to sell what was purported to be login codes for 117 million accounts. Like many internet companies whose security has been breached, LinkedIn had only required a reset of passwords for customers whose accounts it believed to have been hacked, which at the time covered 6.5 million users.
+
+Extensive Breach
+
+Dropbox confirmed in August that a 2012 breach of its data was more extensive than previously known and, according to one report, could involve almost 69 million accounts.
+
+Representatives of both companies didn’t immediately respond to phone and e-mail messages seeking comment on the indictment. A lawyer for Nikulin couldn’t be immediately identified and reached for comment.
+
+Nikulin’s online aliases included Chinabig01 and itBlackHat. If convicted of the most serious charge against him, he could face as long as 10 years in prison, prosecutors said.
+
+Nikulin is accused in the indictment of executing the LinkedIn breach over two days in 2012, from March 3 to March 4, by using a company employee’s password and login. The Dropbox hack allegedly occurred over more than two months in 2012, from May 14 to July 25.
+
+Nikulin is also accused in the indictment of breaking into the social networking platform Formspring to steal the company’s user accounts database. The breach, which began at an unknown date, ended on May 31, 2013, according to the indictment.
+
+All three hacks were executed with the aid of three unnamed co-conspirators, two of whom used Gmail accounts to plan their attacks, according to the filing. They also discussed selling the Formspring data for 5,500 euros ($5,990).
+
+The case is U.S. v. Nikulin, 16-cr-00440, U.S. District Court, Northern District of California (San Francisco).
+
+(Updates with extent of data breaches in fifth paragraph.)
+
+--With assistance from Nafeesa Syeed and Chris Strohm To contact the reporters on this story: Kartikay Mehrotra in San Francisco at kmehrotra2@bloomberg.net, Joel Rosenblatt in San Francisco at jrosenblatt@bloomberg.net. To contact the editors responsible for this story: Michael Hytha at mhytha@bloomberg.net, Peter Blumberg
+
+©2016 Bloomberg L.P.

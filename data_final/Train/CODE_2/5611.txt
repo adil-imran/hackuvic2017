@@ -1,0 +1,28 @@
+https://www.yahoo.com/news/police-used-instagram-facebook-twitter-monitor-black-lives-172228638.html
+90
+9
+Police departments around the country have used special software to monitor Black Lives Matter protests on social media, according to a new report from the American Civil Liberties Union (ACLU). One of the most popular tools for this purpose, dubbed Geofeedia, had special data sharing agreements with , Instagram and — but the companies are now curtailing access to make sure that their platforms aren’t used for profiling.
+
+The ACLU has been investigating the use of social media by police agencies for months, requesting records from 63 California police departments this summer. Scouring the thousands of pages of paper the organization received as a response, it realized that at least a third were using social media monitoring tools.
+
+The documents also showed that these tools were often used to broadly cast peaceful protesters and people of color as security risks. Geofeedia for example labeled union activists taking part in these protests as “overt threats,” and a potential sign for anticipated riots and looting.
+
+Documents also showed that Geofeedia was telling law enforcement officials that it had special access to data from Twitter, Facebook and Instagram. Like other companies building social media marketing tools, Geofeedia was making use of data supplied by these platforms.
+
+However, both Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg have been vocal supporters of Black Lives Matter protests. The use of their companies data to track these very protesters, and label them as potential threats, couldn’t go over well with the companies — and they both responded Tuesday by curtailing Geofeedia’s access.
+
+“Based on information in the ACLU’s report, we are immediately suspending Geofeedia’s commercial access to Twitter data,” tweeted Twitter public policy team Tuesday.
+
+And Facebook terminated the company’s access to Instagram data, stating that it will “take swift action” whenever someone uses Facebook or Instagram data in an unauthorized matter.
+
+Geofeedia didn’t immediately respond to a request for comment.
+
+The ACLU now wants the two companies to go one step further and permanently ban any company that has law enforcement ties from accessing their data. “Law enforcement should not be using tools that treat protesters like enemies,” wrote ACLU Technology and Civil Liberties Project Director Nicole Ozer in a blog post.
+
+Related stories
+
+Twitter: Trump-Clinton Second Debate Live Average Viewership Up 7%, Most-Tweeted Debate Ever
+
+Two Months of Gains Erased From Twitter's Stock as Possible Buyers Back Out
+
+Twitter Sale: Disney, Google Are Out of the Running (Reports)

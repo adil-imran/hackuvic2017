@@ -1,0 +1,47 @@
+https://www.yahoo.com/tech/3-apple-patents-supreme-court-010110854.html
+130
+13
+Apple has been locked in bitter lawsuits with Samsung ever since late CEO Steve Jobs vowed to take revenge on its Korean rival for “slavishly copying” the iPhone.
+
+One of those cases, which began in 2011, goes before the eight Supreme Court Justices on Tuesday to settle a dispute over how much Samsung should pay for infringing three of its design patents that cover early versions of the iPhone.
+
+While you can read a full Q&A about the hearing here, it’s worth taking a closer look at the patents themselves since they highlight Apple’s approach to design--and are what led a jury to order Samsung to pay $399 million in damages (an amount that could get reduced after the Supreme Court rules).
+
+Remember these are “design patents,” which protect the ornamental parts of an invention as opposed to more common “utility patents” which protect the invention itself. It’s important to note that design patents claim only what is within the solid black lines (like the ones you see below) --everything in dotted lines is excluded. Here are Apple’s patents:
+
+US Patent D618677 (Black rounded rectangle design)
+
+As you can see, what Apple is claiming is the rounded rectangle shape on the front of the iPhone. The patent also limits the claimed design to the color black.
+
+screen-shot-2016-10-10-at-6-31-52-pm More
+
+screen-shot-2016-10-10-at-6-32-23-pm More
+
+US Patent D593087 (Front and the bezel design)
+
+This one covers the design appearance of the front of the phone, including the raised frame (aka the bezel) that affixes the glass screen to the rest of the device. Sarah Burstein, a design law professor, explains in a blog post that the patent “claims the front, flat portion of the iPhone, including the bezel and the home button.”
+
+US patent D618677 More
+
+Get Data Sheet, Fortune's technology newsletter.
+
+US Patent D604305 (Design of Icon Layout)
+
+This patent covers not the design of the device itself, but the icon layout that appears on the screen. In Apple’s words, it covers “a graphical user interface for a display screen or portion thereof showing our new design.” (Retro fans will appreciate the old-school icons for YouTube and “SMS”).
+
+US Patent More
+
+How much is a design worth?
+
+The big legal fight on Tuesday revolves around how courts should interpret a law that says a patent owner should get the “total profit” when a competitor infringes its design. An appeals court took that to mean that Samsung must hand over all its profits for phones like the Galaxy, which used Apple’s patented designs. Meanwhile, Samsung and many scholars say this is absurd since a single design element doesn’t represent the full value of the phone to consumers.
+
+More generally, there are questions of whether design patents have become too broad or if such protection is necessary to ensure innovation.
+
+Fortune will have a report shortly after Tuesday’s hearing. The Supreme Court will likely rule on the case in December or January.
+
+See original article on Fortune.com
+
+More from Fortune.com
+
+
+

@@ -1,0 +1,26 @@
+https://www.rt.com/usa/362314-google-fraudulent-lawsuits-index/
+160
+16
+A little known legal maneuver offers the secret to scrubbing out undesirable Google search results, one UCLA law professor found. The loophole sees attorneys charging $6,000 a month and court-approved injunctions, but dozens of the lawsuits are based in fiction.
+
+Google has become something of a great equalizer with its ability to instantly drag up any dirt in seconds with just a search of a name. However, it turns out that there is one way to get a name or company scrubbed from Google, but it costs a pretty penny.
+
+In 2010, Google CEO Eric Schmidt predicted that in the future, legally changing one’s name will become a rite of passage for youth looking to distance themselves from their younger selves and their web presence. However, one UCLA law professor found a backdoor to being de-indexed by Google without the need for a personal reinvention.
+
+‘Overzealous’ Google Street View blurs cow’s face to protect its privacy https://t.co/Zv1Zx8ecRbpic.twitter.com/B0dOLLfmy3 — RT America (@RT_America) September 16, 2016
+
+Eugene Volokh found 25 lawsuits that all seemed just a little strange. These are all self-represented plaintiffs who happen to use extremely similar language to each other with defendants who ostensibly agreed to the injunction quickly, meaning the courts issue an order faster. And 15 of the defendants had fake addresses.
+
+Google rarely removes material for being defamatory, but when a court order is involved, Google will usually de-index the websites posthaste.
+
+Although it is within an individual’s right to sue anyone for defamation, it is a notoriously difficult charge to prove under US law. But these lawsuits don’t really need to prove anything as the defendants in them mostly don’t exist.
+
+Instead, the point is to provide Google with just a court-approved injunction in order for them to remove the website from its index. As with many loopholes in the US, this has been taken advantage of by reputation law firms who charge as much as $6,000 per month for a “proprietary de-indexing program,” the Washington Times reported.
+
+The uses for this system are numerous. Georgia resident Matthew Chan was shocked when he learned that a negative Yelp review he had posted about Mitul Patel, a Georgia-based dentist, was being removed due to an injunction issued against him. Chan was especially shocked to learn this, mostly because he has never been sued.
+
+The lawsuit named a Mathew Chan of Baltimore, who seemingly does not exist. Patel claimed to have nothing to do with this, but did admit to hiring a reputation management company.
+
+Chan is not the only person to face this particular brand of legal maneuvering. In fact, it has been used to de-index news articles by naming the comments section as a defendant.
+
+Volokh believes that these fraudulent lawsuits are proof of why Google should not be required to follow injunctions, saying, “the questionable nature of many such injunctions is reason to further insist that platforms not be legally bound by them.”

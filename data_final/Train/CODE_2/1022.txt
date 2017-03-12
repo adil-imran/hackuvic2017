@@ -1,0 +1,82 @@
+http://www.bigstory.ap.org/article/6df84d701a8b48a4866cb280877e0efc/nj-train-crash-raises-many-familiar-safety-issues
+20
+2
+WASHINGTON (AP) — The investigation into a New Jersey commuter train that hurtled into a station building Thursday raises many familiar issues from other crashes, including whether the tragedy could have been prevented or mitigated if a key safety technology had been in place.
+
+The National Transportation Safety Board, which is leading the investigation, has been calling on railroads to start using the safety technology, called positive train control, or PTC, for nearly four decades. New Jersey Transit is in the process of installing the technology, but it was not in operation yet on any of the agency's trains or tracks.
+
+Govs. Chris Christie of New Jersey and Andrew Cuomo of New York cautioned at a news conference that not enough is known yet about the circumstances of the crash at the Hoboken station to say if PTC could have made a difference.
+
+"Let's find out the facts first, and then let's follow the facts," Cuomo said.
+
+___
+
+WHAT INVESTIGATORS WILL WANT TO KNOW
+
+"Everything is on the table," said Bob Chipkevich, who formerly headed the NTSB train crash investigations section.
+
+Investigators will look for any mechanical problems with the train or signals, whether the brakes were working and at the condition of the track. They'll also examine what the train engineer was doing at the time of the crash, his overall health and whether he was well-rested or fatigued.
+
+Operator fatigue has been one of the most significant on-going safety problems across all modes of transportation.
+
+Witnesses said the train failed to slow down as it entered the station.
+
+In 2013, a Metro-North Railroad Hudson Line commuter train derailed while going around a curve near the Spuyten Duyvil station in the Bronx, New York. The train was traveling at three times the posted speed. Four passengers were killed and 61 injured. The engineer later acknowledged that he had gone into a "daze," and an investigation found that he suffered from untreated sleep apnea.
+
+___
+
+INVESTIGATIVE TOOLS
+
+The train was equipped with forward-facing cameras that should show what was happening on the track ahead of the train. The train's data recorder should also reveal how fast it was traveling and whether the brakes were applied before the crash.
+
+However, New Jersey Transit trains cabs aren't equipped with inward-facing cameras. The NTSB has long urged railroads to include the cameras to help with safety investigations, but labor unions have opposed the cameras as intrusive.
+
+That was an issue in the deadly derailment of Amtrak Train 188 in Philadelphia last year. The train's data recorder showed it was speeding at the time of the crash, but the engineer's actions remained a question mark because there was no camera or other independent means to confirm them.
+
+Ultimately, the board concluded that the derailment was caused when the engineer became distracted by radio transmissions and lost situational awareness.
+
+Last year, Congress ordered the Federal Railroad Administration to issue regulations requiring railroads to install the cameras. However, the agency is still drafting the regulations.
+
+Investigators will also examine any smartphone or personal electronic device the engineer may have had in the cab at the time of the crash. The NTSB has investigated numerous crashes where operators were distracted by text messages and phone calls.
+
+___
+
+POSITIVE TRAIN CONTROL
+
+PTC is a high priority for the NTSB and investigators will want to know whether it could have prevented the crash, said board member Bella Dinh-Zarr.
+
+The technology uses digital radio communications, GPS and signals alongside tracks to monitor train positions. It can automatically stop or slow trains to prevent them from disobeying signals, derailing due to excessive speed, colliding with another train or entering track that is off-limits.
+
+The NTSB has said PTC could have prevented the Amtrak crash in Philadelphia. The train was traveling at more than 100 mph shortly before it entered a curve and derailed. Eight people were killed and over 200 injured.
+
+Last month, the Federal Railroad Administration said in a progress report that PTC is only in operation on 9 percent of freight route miles and 22 percent of passenger train miles so far.
+
+New Jersey Transit had yet to finish equipping any locomotives with the technology and had not installed any of the radio towers necessary to make the system work or completed installation on any track segments, the report said.
+
+Since the NTSB started urging railroads to adopt some form of train control system in the 1970s, the board says it has investigated at least 145 PTC-preventable accidents in which about 300 people were killed and 6,700 injured.
+
+___
+
+WHY IS PTC TAKING SO LONG?
+
+There were repeated attempts in Congress over many years to mandate the technology, but they were opposed by the railroad industry.
+
+After a Metrolink commuter train and a Union Pacific freight train collided head-on near Los Angeles on Sept. 12, 2008, the industry dropped its opposition, clearing the way for passage of a rail safety bill mandating the technology.
+
+The Metrolink engineer was later found to have been texting. Twenty-five people were killed and more than 100 injured. The NTSB said the crash could have been prevented or mitigated had PTC been in place.
+
+The Rail Safety Improvement Act gave railroads seven years to implement PTC, setting a deadline of Dec. 31, 2015. Last year, when it became clear that nearly all railroads would miss the deadline, Congress extended it for another three years.
+
+Railroads say the technology is more complicated and expensive to implement than was initially understood. Major freight railroads, which frequently use each other's tracks, took years to settle on systems that worked no matter which company's tracks the train was on, a key requirement of the law.
+
+Some railroads ran into difficulties acquiring the rights to radio spectrum, which is necessary for its wireless transmissions. Some commuter railroads have complained that they lack the funds and have other pressing safety needs that should come first.
+
+___
+
+Associated Press writers Michael Sisak in Philadelphia and David Porter in Hoboken, New Jersey, contributed to this report.
+
+___
+
+Follow Joan Lowy at http://twitter.com/AP_Joan_Lowy. Her work can be found at http://bigstory.ap.org/content/joan-lowy
+
+.

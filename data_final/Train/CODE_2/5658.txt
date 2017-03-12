@@ -1,0 +1,40 @@
+http://indiatoday.intoday.in/story/isi-intelligence-agencies-army-honey-pot-app/1/785017.html
+90
+9
+Highlights 1 Security agencies have placed a Karachi-based cyber unit scanner.
+
+2 They are promoting a spyware as a chatting-interface and luring their Indian soldiers to download it.
+
+3 The app targeted all branches of the armed forces including the BSF and CISF.
+
+Indian security agencies have placed under scanner a Karachi-based cyber unit for snaring defence personnel into honey traps on social media to siphon off valuable security-related data and communication. The 300-member unit, headed by hackers Sajid Rana and Abid Rana, has the backing of Pakistani spy agency Inter Services Intelligence (ISI), and is believed to have targeted thousands of Indian officers through Trojan malware disguised as a chatting app, over last one year.
+
+DATA STEALING APP
+
+The app was used by Pakistani handlers to access Indian troop movement after the terror attack on the IAF base in Pathankot in January 2016, intelligence sources told Mail Today. "We found Rana brothers promoting a popular app which was basically a datastealing software to take control over the user's phone," said Rajshekhar Murthy, director of the National Security Database. Murthy was part of the team which tracked the Karachi snooping unit. It is feared that the spy centre was successful in stealing loads of data and telephonic conversation through software 'installed' in their victims' phone.
+
+The two brothers came on Indian radar last year when they were operating Smeshapp, which contained spyware that could be deployed on not just smartphones but even on desktop computers, enabling a third party to access personal information such as phone logs, text messages, even photographs stores on the compromised device. This was blocked by Google play and removed from their store.
+
+
+
+LURING INDIAN SOLDIERS
+
+However, Indian experts said Rana brother are still promoting the spyware as a chatting-interface on social media and luring their victims to download it. "Their unit members create Facebook account using fake pictures. In the first phase of their operation, a cyber team dedicated to track Indian defence personnel on social media connects them with several potential victims," Murthy said. "Once they become friend with the targeted officer, they exchange obscene pictures and also make an internet call through voice over Internet Protocol (VoIP) to win confidence."
+
+Other sources in intelligence told Mail today that the spy unit also created news portal related to Indian defence forces promising credible data and information. But as soon as a user logged into the web site, their computer or smartphone would fall prey to Trojan malware. Security agency disclosed that with ISI funding, the Rana brothers teams of hackers has been working on mobile app development, creating fake profiles on social media, tracking Indian officers on the internet and keeping a log of their database.
+
+Security agency this year found the spyware-laden app in use by Pakistani intelligence to monitor movement of Indian troops. The app allegedly had access to smartphones used by armymen. The spyware was deployed by luring Facebook accounts via honey traps, with fake Facebook profiles. The said app targeted all branches of the armed forces, including the Border Security Force (BSF) and Central Industrial Security Force (CISF).
+
+The targets 'selected' for luring were apparently susceptible field-level officers, although the operation apparently even included retired members of the Indian military. The information collected by the app was reportedly stored on a server in Germany and hosted by a man based out of Karachi. Recently, Pakistani hackers were spotted at various international conferences where they presented themselves as app developers in search of international servers for hosting their app. However, intelligence source said, the motive was information gathering and cast the net wider.
+
+NEW GUIDELINES
+
+Post-Pathankot, army authorities issued fresh guidelines regarding use of instant messenger, WhatsApp, under which a personnel can use a WhatsApp account in their individual name without disclosing their actual identity. There should be no mention of rank and posting in the profile. Besides, they can only share personal messages. In December last year, Indian Air Force (IAF) official Ranjith KK was arrested by Delhi Police's Crime Branch from Punjab's Bathinda city as he allegedly passed on secret information to a honey trap set by ISI.
+
+ISI agents had created a fake profile in the name of Damini McNaught, who claimed to be an executive of a UK-based media firm. McNaught claimed that she required IAF-related information for an article she was writing for their news magazine. "The woman befriended the airman and started extracting information about the IAF. The officer never knew that he was passing on information to the Pakistani agency. She started taking details from him online on the pretext of an article on the IAF. Ranjith shared information on a number of fighter jets and also details of each and every building at his air force station," said a police officer investigating the case.
+
+ALSO READ:
+
+Surgical strike fallout: Pakistan's ISI chief likely to be replaced
+
+Over 300 terrorists flee from training camps in PoK following surgical strikes

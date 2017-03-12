@@ -1,0 +1,54 @@
+http://www.ibtimes.com/meet-windward-israeli-startup-using-algorithms-snare-pirates-human-traffickers-drug-2273717
+154
+15
+On April 28, 2015, the Jupiter, a 320-foot general cargo vessel sailing under the flag of the Cook Islands, left the Port of Tenes, Algeria, and began sailing toward the Atlantic Ocean. Days later, it took a suspicious U-turn close to shore and then sailed toward the Oran Bay, midway between Tangier, Morocco, and Algiers, the closest point in Algeria to Spain.
+
+Time is money and ships don't generally meander or change course — unless they have a good reason. In this case, there was one: When the Jupiter was intercepted by Italian authorities, it was found to be holding 40,000 pounds of hashish in its cargo hold. The odd hitch in its journey through the Mediterranean likely included a nighttime rendevous point to transfer contraband.
+
+Replace hashish with arms, refugees, slaves or terrorists and you get a sense of how international shipping represents one of the biggest global security threats, largely because it is so difficult to monitor. Under normal circumstances, the journey of the Jupiter would attract little notice, except that its route, when fed into an algorithm, triggered an alert that gave authorities reason to act.
+
+The data trail that betrayed Jupiter is the kind of information that Israel-based startup Windward is providing to governments to track suspicious maritime activity. Ami Daniel, the chief executive of Windward, said that the information provided about Jupiter is the type of early warning it provides its customers.
+
+“The oceans remain a wild west,” says Daniel, who previously served in Israel's navy. “In the wake of the [Paris] terrorist attacks, there’s been a push to tighten security and improve border control in Europe. But there are huge stakes at sea, and surprisingly, there’s no visibility. We’re trying to solve that.”
+
+Photo: Windward
+
+In some ways, Windward's core philosophy taps into a larger trend that terrorism is a problem to be solved by analyzing vast swaths of information. Other companies, like the French conglomerate CLS, now use satellites to monitor the security ships from the sky. And the U.S. Navy claims to have even built its own algorithm to predict where pirate ships might attack.
+
+Clearly, tracking ships in the midst of an unprecedented migrant crisis across Europe is becoming an ever more important enterprise.
+
+When European leaders clamp down on their country’s land borders — as they have been doing for the past several months in response growing fears over terrorism — the process has been fairly straightforward: Officials have increased the number of border patrol guards, razor wire fences have been erected, and, in some cases, migrants have been simply turned away.
+
+But with over 41,000 miles of coastline, the waters that surround Europe are notoriously more difficult to police.
+
+Windward's software is complex, but boils down to this: The algorithm pulls information from a ship’s self-reported “AIS” vessel data, which tracks the ship's location, size, coordinates and identity. One of the strongest identifiers of illicit activity, Daniel says, is ships that deviate from normal historical patterns, or vessels that intentionally turn off their tracking information when they enter ports around the Middle East.
+
+While this information alone doesn’t provide government officials with a direct link to smugglers, it gives them, essentially, a tip of where to look.
+
+In 2015, more than 1 million refugees and migrants reached Europe by sea, according to the United Nations refugee agency. While many, if not most, of the refugees seek a better, safer life in Europe, there is pervasive fear among European leaders that there are potential terrorists masquerading among the migrants.
+
+In November 2015, Daniel says 10,000 vessels entered Europe. Of those, he says, 650 ships originated from, crossed or entered the territorial waters of Libya, Syria and Lebanon. Further, among those ships 650 ships, 34 of them reported a fake identity, which would have triggered a red flag to authorities. Windward says they use multiple maritime data sources, not just AIS, including publicly available and open source information, which the company vets for accuracy.
+
+“Instead of looking manually at thousands of ships,” Daniel says, the algorithm can help “show all the vessels that behaved uneconomically, turned off their beacon and entered into south European countries.”
+
+Daniel argues that the data and tracking systems currently in use by governments are old and prone to error -- just look no further than the inactive Hellfire missile that was mistakenly shipped to Cuba recently.
+
+Windward, which has about 60 employees, raised $11 million from investors in 2015. Daniel says the business is growing 300 percent annually — a sign that the market for maritime security market is growing.
+
+One recent industry report, prepared by RNR Research, found maritime and border patrol government spending will increase from $15.6 billion in 2015 to over $23.7 billion by 2025. The increased spending, the report notes, will be “driven by internal security threats, such as terrorism, threats to sovereign integrity, illegal border infiltration, piracy, drug trafficking, and critical infrastructure security.”
+
+Photo: Windward
+
+To be sure, there are skeptics of the effectiveness of Windward’s algorithm. Ed Lorenzini, the chief executive of Analyze Corp, a big data analytics startup that also contracts with the government, is familiar with Windward’s approach, but says the fact that the company relies on self-reported vessel tracking information is a major setback.
+
+“Ultimately [Daniel] is going to need more sources than AIS,” says Lorenzini. “Governments don’t trust AIS.”
+
+Regardless, the algorithmic approach is gaining some traction, even in the United States, where, according to Lance Larson, the assistant director of San Diego State University’s Graduate Program in homeland security, the government wants to use algorithms to find drug smugglers.
+
+“It’s a lot of ocean and not a lot of people out there to look at it,” Larson says.
+
+Larson is working on his own maritime algorithm to predict trade routes for Mexican drug smugglers who carry contraband into the United States along the coast of California. He received a $50,000 grant from the Department of Homeland Security and says a report is forthcoming later this year. By collecting and sorting hundreds of data inputs — from tides to moon phases to historical patterns — Larson is hoping to help U.S. officials investigate drug smuggling all along the coast. .
+
+“We can’t necessarily predict exactly where an operation is going to occur, but we can give law enforcement a better time frame so they can focus their maritime efforts,” he says.
+
+Ultimately, Windward is trying to do the same, use data that exists for for free, and turn it into an actionable tip for law enforcement. “We’re taking all the data, and we’re making it accessible,” says Daniel.

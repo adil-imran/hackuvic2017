@@ -1,0 +1,34 @@
+http://www.straitstimes.com/singapore/ring-helps-people-see-thanks-to-grant
+20
+2
+Wear this ring on your finger, and it will recognise the words, object or colour that you point at.
+
+The FingerReader uses a small video camera to help those with visual disabilities identify objects and read small text fragments which are not in Braille - such as words on a menu, a name card or pamphlets.
+
+Now in its development stage, the device is one of 11 projects to receive grants from a $23 million fund under the Tote Board-Enabling Lives Initiative.
+
+SG Enable, an agency which serves people with disabilities, yesterday made its latest call for grant applicants looking for projects to improve accessibility and to support people's transition to work.
+
+Since the first call for grant applicants in January last year, $7 million has been committed to the 11 projects and, yesterday, the recipients were recognised at an award ceremony at the Enabling Village in Lengkok Bahru.
+
+Mr Fong Yong Kian, chief executive of the Tote Board which funds the initiative, said: "We are keen to support innovations which can potentially help persons with disabilities lead better-quality lives and integrate into the community."
+
+3 other recipients Techclusive: Aims to create a website which links up different assistive technology databases from countries in the Asia-Pacific, allowing users to compare product features and costs. Currently, such information tends to be on websites of individual product vendors. AWWA: Hopes to develop a support system for caregivers of people with disabilities. This will include an assessment tool to determine caregivers' needs. It also intends to offer other services such as respite programmes, caregiver education and skills training, and a network to strengthen support among caregivers. National Institute of Education: Currently, the process of assessing the needs of people with disabilities and determining a suitable assistive technology product depends largely on the knowledge and experience of a person who recommends the product. The NIE hopes to develop a toolkit to help people make more informed decisions when selecting such products. Priscilla Goy
+
+With the grant, the FingerReader developers from the Augmented Human Lab at the Singapore University of Technology and Design (SUTD) hope to move from prototype to production for a larger market.
+
+SUTD's Suranga Nanayakkara told The Straits Times: "Many research grants focus on research and publication of academic papers. But for this grant, the funder's expectation is that we produce a real product that goes into the hands of real people, which is what we want."
+
+The researchers have developed a working prototype and are refining it through user trials. They hope to bring it to a wider community of people with visual disabilities, as well as people with dyslexia, by next year.
+
+The device has had its design and functionality improved since it was first featured in the news in 2014, its third year of research and development.
+
+Previously, it was slightly bigger and it could recognise only text. Users also had to move their fingers across the text for it to be read, but this was a challenge for those who could not see where the line of text began in the first place.
+
+Dr Wong Meng Ee, an assistant professor at the National Institute of Education, said its text-recognition capabilities have improved.
+
+Dr Wong, who is blind, added: "The visually impaired can depend on sighted people to help them read on the go, but the device helps them to be more independent and gives them more privacy, such as when reading bank statements."
+
+Speaking at the award ceremony yesterday, Parliamentary Secretary for the Ministry of Social and Family Development Faishal Ibrahim said: "I hope we can move towards more evidence-based practices and develop more effective funding models that achieve greater impact."
+
+•Applications for the latest grant call close on Nov 30. To find out more, go to enablinglives.sg

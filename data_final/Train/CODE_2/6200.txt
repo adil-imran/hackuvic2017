@@ -1,0 +1,24 @@
+http://www.politico.com/story/2016/10/dhs-official-half-of-us-states-have-sought-federal-election-help-to-thwart-hackers-229215
+90
+9
+“We hope to see more,” DHS Secretary Jeh Johnson said of states seeking to thwart election hackers. | Getty DHS official: Half of U.S. states have sought help to thwart election hackers
+
+Hacking threats have prompted 25 states so far to seek out the Obama administration’s help in assessing vulnerabilities and fending off attacks to their voting systems headed into Election Day, a Department of Homeland Security official told POLITICO on Wednesday.
+
+DHS won’t name the specific states that have reached out for federal aid — that’s up to each individual state to confirm, the agency said. But DHS has been providing a running total on the overall number of states. Last Friday, a department official said that 21 states had expressed an interest in its vulnerability scanning services.
+
+Story Continued Below
+
+“We hope to see more,” DHS Secretary Jeh Johnson said in a statement on Saturday.
+
+Concerns about a cyberattack on the nation’s election system have grown in recent months, following a series of suspected Russian hacks targeting Democratic political offices, the Hillary Clinton campaign and state election networks. GOP nominee Donald Trump has also prompted concerns about the integrity of the election by repeatedly stating the outcome will be “rigged” and by calling for his supporters to volunteer in “certain areas” as poll watchers.
+
+Federal and state election officials insist the country’s balloting is secure from a widespread hacking attack — they note the diverse nature of 50 different state jurisdictions, plus thousands more at the county and local level. In addition, voting itself doesn’t involve any connections to the internet, officials insist.
+
+But weaknesses do exist across the system, too. A DHS official last week confirmed that hackers had been detected seriously probing into state voter registration systems in more than 20 states, and they actually had varying degrees of success getting into the rolls in Arizona and Illinois.
+
+In an interview last week, Colorado Secretary of State Wayne Williams confirmed he’s met with officials from DHS, the FBI and the U.S. attorney office in Colorado and availed his state of the federal government’s resources. “We do participate in that process,” he said.
+
+Georgia Secretary of State Brian Kemp also told POLITICO it was “great” that states had the opportunity to tap federal officials for help prepping for the election. But the Republican said he also wasn’t bowled over by what the federal government was providing in the way of detection services.
+
+“They’re not offering anything we’re not already doing in Georgia in regards to running penetration tests on our system,” Kemp said.

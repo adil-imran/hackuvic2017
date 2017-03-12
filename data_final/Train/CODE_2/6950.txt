@@ -1,0 +1,26 @@
+http://asianews.network/content/japan-us-create-international-internet-things-standards-29009
+100
+10
+The IoT Acceleration Consortium and the two U.S. consortiums — the Industrial Internet Consortium (IIC) and the OpenFog Consortium — are expected to reach a basic agreement on collaboration as early as Monday.
+
+The three consortiums, in which more than 2,600 major Japanese and U.S. companies are participating, will aim at jointly creating international standards for IoT data communication and formats as well as safety standards to protect IoT devices from cyber-attacks.
+
+Established in October last year, the IoT Acceleration Consortium currently includes about 2,400 domestic companies, such as Toyota Motor Corp., Hitachi, Ltd. and NTT Corp., as well as government bodies such as the Economy, Trade and Industry Ministry and the Internal Affairs and Communications Ministry.
+
+The IIC has about 240 companies, including General Electric Co. and IBM Corp., while OpenFog Consortium has about 30 companies, including Microsoft Corp. and Dell Inc., as members.
+
+The three consortiums are expected to cooperate in four areas: drawing up IoT-related international standards, working in research and development, sharing methods to efficiently develop IoT devices and holding joint conferences.
+
+The IoT is expected to become widespread in a variety of fields, including automated driving systems and health management using artificial intelligence. It is a system that connects various devices, including automobiles, smartphones and home electronics, to enhance their convenience.
+
+By closely cooperating with U.S. companies that are leading IoT research, Japanese companies can expect to make the planned international standards favourable to them and thus expedite research and development.
+
+If Japan and the United States collaborate in drawing up international standards for the IoT, companies will be able to focus their investments on such devices.
+
+The U.S. side, meanwhile, appears to be taking the initiative in discussions over international standards for the IoT by having Japanese companies involved.
+
+■ Internet of things
+
+The IoT is a system in which all kinds of devices, including factory machines, automobiles, home electronics and sensors, are connected to the internet, making it possible to remotely operate them and collect various kinds of information from them. According to one prediction, the global IoT market will expand from about 70 trillion yen in 2015 to about 130 trillion yen in 2019.
+
+(US$1 = 100 Yen)
