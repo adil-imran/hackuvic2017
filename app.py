@@ -22,7 +22,7 @@ def get_news_articles(url):
 		article.download()
 		article.parse()
 		authors = ",".join(article.authors)
-		articles.append([article.url, authors, article.title, article.article_html])
+		articles.append([article.url, authors, article.title, article.article_html, article.top_image])
 
 	return articles
 
