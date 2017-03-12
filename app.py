@@ -1,5 +1,6 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, g
 import newspaper
+import classifier
 
 app = Flask(__name__)
 
@@ -16,9 +17,17 @@ def get_news_articles(url):
 
 	return articles
 
+@app.before_first_request
+def initialize():
+	g.c = classifier.ArticleClassifier()
+
 @app.route("/")
 def hello():
 	articles = get_news_articles('http://cnn.com') # each article is ['url', [authors], 'headline', 'text']
+	article_text = [a[3] for a in articles]
+	article_classified = g.c.classify(articles)
+	for a, b in zip(articles, article_classified):
+		a.append(b)
 	return render_template('home.html', articles=articles)
 
 if __name__ == "__main__":

@@ -16,10 +16,10 @@ from sklearn.externals import joblib
 # Code_1 for violent Categories      -  0
 # Code_2 for non-violent Categories  -  1
 
-class ArticleClassifer(object):
+class ArticleClassifier(object):
     """docstring for ArticleClassifer"""
     def __init__(self):
-        super(ArticleClassifer, self).__init__()
+        super(ArticleClassifier, self).__init__()
         self.train_file_loc = './data_final/Train/CODE_'
         self.test_file_loc = './data_final/Test/CODE_'
 
@@ -92,9 +92,9 @@ class ArticleClassifer(object):
 
     # expect list of articles
     # returns - list 0 or 1; 0=Non-safe and 1=safe
-    def classify(articleText):
-        X = cv.transform(articleText)
-        out = clf.predict(X)
+    def classify(self, articleText):
+        X = self.cv.transform(articleText)
+        out = self.clf.predict(X)
 
         return out
 
