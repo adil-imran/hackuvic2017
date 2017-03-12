@@ -1,0 +1,54 @@
+http://www.dailymail.co.uk/sciencetech/article-3797363/This-device-wants-make-sweat-Disposable-patches-monitor-health-analyzing-sweat-biomarkers.html
+90
+9
+Wearers can see health status on a smartphone or tablet in real-time
+
+Sweat isn't just made of water - it contains vital information about your health and can even reveal cancer risks or when you're ovulating.
+
+And a Cincinnati startup has discovered a method to harvest this data in order to monitor an individual's health before illness or injury occur.
+
+Using disposable patches, Eccrine Systems is able to analyze sweat biomarkers and transmits the wearer's biochemical status to a smartphone or tablet where the data can be read in real-time.
+
+Scroll down for video
+
+Sweat isn't just made of water, minerals and compounds, it contains vital information. Using disposable patches, Eccrine Systems is able to analyze sweat biomarkers and transmits the wearer's biochemical status to a smartphone or tablet where the data can be read in real-time
+
+HOW DOES IT WORK? Eccerine Systems has designed a method that extracts health data from sweat. The firm offers a Sweatronics platform, which is a system that measures and transmits real-time data about human sweat. This system shares the data wirelessly via a transceiver to a smartphone or tablet. Eccerine is about 18 months from producing its first wearable, but has not clarified where it will be located. One application is a headband that sits under a hard hat and measures chemical and environmental toxins.
+
+Eccrine is working on a line of wristbands, headbands and skin patches that they hope will transform wearables into mini-laboratories, reports The Washington Post.
+
+Sweat comes from eccrine glands in the skin, which researchers say contains valuable information about physiological performance and dysfunction.
+
+And what makes Eccrine's method so attractive is that sweat can be captured discreetly and non-invasively.
+
+'Sweat holds great promise as the best non-invasive source for real-time trending and analysis of molecular biomarkers that can be directly correlated with blood biomarkers, and other gold standard references, and translated into meaningful results and actionable information,' Eccrine Systems explains on their website.
+
+This cutting edge methods consists of a Sweatronics platform, which is the complete system that measures and transmits real-time data about human sweat.
+
+This system shares the data wirelessly via a transceiver to a smartphone or tablet.
+
+'The whole goal is non-invasive measure of bio-molecules that can inform us about physical functions and dysfunctions and medical conditions,' said Robert Beech, chairman and co-founder of Eccrine Systems, told The Washington Post.
+
+Video courtesy of Tech Ohio
+
+This cutting edge methods consists of a Sweatronics platform, which is the complete system that measures and transmits real-time data about human sweat. This system shares the data wirelessly via a transceiver to a smartphone or tablet
+
+'The goal is not to have to stick needles and catheters into people.'
+
+'In the context of daily life, work, sleep, play, the goal is to be to have a window into the current physiological status of the wearer.'
+
+The firm is about 18 months from producing its first wearable, but has not clarified whether it will be fitted on the arm, wrist or head.
+
+what makes Eccrine's method so attractive is that sweat can be captured discreetly and non-invasively. Pictured is the patch attached to the transceiver that sends the wearer's health status to a smartphone or tablet
+
+NEW PATCHES CONVERT BODY HEAT INTO ELECTRICTY Researchers are currently developing a new design that harvests body heat and converts it into electricity that can power wearables and smartphones. The system uses a body-conforming patch with a conductive layer that forces body heat through a centrally-located wearable thermoelectric generator, where it is converted into electricity. This innovation derives from North Carolina State University, who states their prototype can generate far more electricity than previous lightweight heat harvesting technologies - 20 μW per centimeter squared, compared to 1 microwatt or less. Other researchers are developing patches (pictured) that harvests body heat and converts it into electricity to power wearables. The system uses a body-conforming patch with a conductive layer that forces body heat through a thermoelectric generator The team began with a layer of thermally conductive material that rests on the skin and spreads out the heat. A polymer layer was then placed on top to prevent heat from escaping from the body. This components also forces the body heat to pass through a centrally-located TEG that is one cm2. Heat that is not converted into electricity passes through the TEG into an outer layer of thermally conductive material, which rapidly dissipates outside the body. This new system is just 2 millimeters thick and the team says it is also very flexible.
+
+However, the team has discussed one possible application: a headband, which sits under a hard hat and measures chemical and environmental toxins.
+
+Eccrine is also working with the military as a way to help the agency monitor pilots.
+
+The U.S. Air Force Researcher Lab awarded the firm a $3.69 million contract last month to continue a five-year effort to make real-time 'monitoring and augmentation' of ground troops and pilots a reality, reports Bloomberg.
+
+The firm is about 18 months from producing its first wearable, but has not clarified whether it will be fitted on the arm, wrist or head. However, the team has discussed one application that a headband, which sits under a hard hat and measures chemical and environmental toxins
+
+Air Force researchers want a dependable way 'to get down to that molecular level and being able to quantify what's going on in the body, but not having to draw blood to do it,' Joshua Hagen, a civilian chemist and engineer with the 711th Human Performance Wing at Wright-Patterson Air Force Base near Dayton, Ohio, told Bloomberg.

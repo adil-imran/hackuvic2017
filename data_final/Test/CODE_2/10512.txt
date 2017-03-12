@@ -1,0 +1,38 @@
+http://www.bloomberg.com/news/articles/2016-04-10/heta-s-creditors-forced-to-share-losses-by-austrian-regulator-imuocris
+120
+12
+Investors in Heta Asset Resolution AG will meet lawyers for the province of Carinthia to find a way out of the Austrian bad bank’s debt stalemate after it became a test case for a new European Union law allowing losses to be shared with senior creditors.
+
+Legal teams for bondholders and Carinthia, which guaranteed 11 billion euros ($12.5 billion) of Heta’s debt, will meet in London on Tuesday, the province’s governor, Peter Kaiser, said on Monday. The talks come as the first cracks appear in the united front of Heta’s investors demanding full repayment.
+
+“We have announced talks of a technical nature because we want to signal that we’re interested in an out-of-court solution with the scope of what’s possible for Carinthia and for Austria,” Kaiser said in an interview broadcast on public radio station Oe1.
+
+Austrian banking regulator Finanzmarktaufsicht on April 10 cut Heta’s senior liabilities by 54 percent and extended the maturities of all eligible debt to Dec. 31, 2023, to help cover an 8 billion-euro hole in Heta’s balance sheet. FMA took control of Heta last year in the first application of EU rules designed to end taxpayer-funded bank rescues.
+
+“Yesterday’s debt cut was mostly an expected formality,” Berenberg Bank analysts led by Philipp Jaeger wrote in a note to clients. “How it goes on with Heta and its creditors will be decided on the negotiating table or in the courts.”
+
+Full Payback
+
+Some creditors are planning to make an offer to Austria that would result in a payout of 92 cents on the euro, a person familiar with the bid said on April 9. It’s unclear how many creditors support the offer, and a deal is likely to take some time to negotiate. German insurers, which hold about 820 million euros of Heta debt, reiterated on April 10 that they insist on a full payback and said they are only prepared to discuss an extension of maturities.
+
+It’s “logical” that creditors will try to submit a new bid, which will need a majority and the backing of “those who fund it,” Kaiser said at a press conference that was webcast by the Kleine Zeitung newspaper. “This is the path that’s starting to become apparent.”
+
+Creditors allied in a lock-up agreement, who jointly own more than 5 billion euros of Heta’s bonds, said in a statement they’re ready to enter negotiations in order to present an offer structure that’s “acceptable for all stakeholders.” The FMA’s debt cut isn’t a disadvantage because, in their opinion, it allows creditors to assert their claims against Carinthia, they said.
+
+Varying Interests
+
+Heta’s creditors, which include German banks, insurers and bad banks as well as a number of hedge funds and mutual funds, have varying economic interests. Most banks have already written down the value of their senior holdings to about 50 percent of face value and could now book a gain if they accept a deal. Insurers say they fear setting a precedent for the market in state-guaranteed debt if they accept an offer below par. Many hedge funds bought last year, when Heta’s bonds traded at 55 percent to 60 percent of face value, and have most to gain in a settlement.
+
+Austria’s Finance Ministry also considers an out-of-court settlement the best solution, ministry said in an e-mailed statement.
+
+Dealing with failing banks remains a thorny issue in the EU more than seven years after the collapse of Lehman Brothers Holdings Inc. Rescues in Portugal, Greece and Italy carried out before new rules came into force in those countries prompted protests over unequal or arbitrary creditor treatment. The untested Bank Recovery and Resolution Directive, now in force across the 28-nation bloc, provides rules and tools, including so-called bail-in, to make sure creditors share the burden.
+
+‘Uncharted Territory’
+
+The regulator also wiped out Heta’s equity and junior liabilities as well as supplementary capital. Interest payments were canceled from March 1, 2015, when the FMA first put Heta into resolution.
+
+“While the application of the new European recovery and resolution framework for banks is uncharted territory in both legal and practical terms, we are on target with the resolution of Heta,” said the FMA’s co-chiefs, Helmut Ettl and Klaus Kumpfmueller. “Orderly resolution is more advantageous than insolvency proceedings.”
+
+Exclusive insights in your inbox, from our technology reporters around the world. Get Fully Charged, from Bloomberg Technology. Business Your daily dose of the news that’s moving markets around the world. You will now receive the Business newsletter Politics The latest political news, analysis, charts, and dispatches from the campaign trail. You will now receive the Politics newsletter Markets Your daily must-read for the most important news in markets. You will now receive the Markets newsletter Pursuits What to eat, drink, wear and drive – in real life and your dreams. You will now receive the Pursuits newsletter Game Plan The school, work and life hacks you need to get ahead. You will now receive the Game Plan newsletter That hasn’t stopped Heta from becoming a battleground. At the heart of the issue is the debt guaranteed by Carinthia, which owned Heta’s predecessor until 2007. Those guarantees blunt the intent of the new rules because they mean the losses imposed on bondholders become a claim on the province, which says it can’t pay them. The April 10 haircut means the province faces claims of about 6.4 billion euros, the FMA said.
+
+Carinthia’s attempt to neutralize the guarantees by buying up the bonds at 75 percent of face value was rejected by bondholders led by Commerzbank AG and Pacific Investment Management Co. last month. The creditors, who say that Austria should pay up if Carinthia can’t, also sued in a German court, arguing the BRRD rules don’t apply to Heta.

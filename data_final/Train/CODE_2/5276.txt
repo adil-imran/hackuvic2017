@@ -1,0 +1,42 @@
+http://www.bloomberg.com/news/articles/2016-10-11/google-s-plan-to-spread-its-ai-assistant-hits-samsung-roadblock
+80
+8
+Google just debuted a digital assistant, which it hopes to place inside smartphones, watches, cars and every other imaginable internet-connected device. It’s already hit a snag.
+
+The Alphabet Inc. division launched new smartphones last week with the artificially intelligent assistant deeply embedded. It also rolled out a speaker with the feature at its core and announced plans to let other companies tie their apps and services to the assistant.
+
+A day later, Samsung Electronics Co., one of the largest manufacturers of smartphones and other consumer devices, said it was acquiring Viv Labs, a startup building its own AI voice-based assistant.
+
+At first, the deal looked like a counter-punch to Samsung rival Apple Inc. -- Viv is run by the creators of Apple’s Siri assistant. But buying Viv may be more of a problem for Google, because Samsung is the biggest maker of phones running Google’s Android mobile operating system.
+
+Google strategy is now centered on the assistant, rather than its search engine, because it’s a more natural way for people to interact with smartphones and other connected devices. Getting all Android phone makers to put the Google assistant on their devices would get the technology into millions of hands quickly. But Samsung’s Viv deal suggests assistants are too important for phone makers to let other companies supply this feature.
+
+Last week, Samsung executive Injong Rhee said the company plans to put Viv’s technology in its smartphones next year and then embed it into other electronics and home appliances. A Samsung representative and a Google spokeswoman declined to comment.
+
+That’s a necessity for Samsung, according to some analysts and industry insiders.
+
+"As AI is becoming more sophisticated and valuable to the consumer, there’s no question it will be important for hardware companies," said Kirt McMaster, executive chairman of Cyanogen Inc., a startup that makes Android software. McMaster, a frequent Google critic, said other Android handset makers will likely follow Samsung’s move.
+
+"If you don’t have an AI asset, you’re not going to have a brain," he added.
+
+Google may already have known that some Android phone makers -- known as original equipment manufacturers, or OEMs -- were reluctant to embrace its assistant.
+
+"Other OEMs may want to differentiate" Google’s Android chief Hiroshi Lockheimer told Bloomberg before it released its own smartphones. "They may want to do their own thing -- their own assistant, for example."
+
+Samsung and Google have sparred in the past over distribution. Google requires Android handset makers to pre-install 11 apps, yet Samsung often puts its own services on its phones. And the South Korean company has released devices that run on its own operating system, called Tizen, not Android.
+
+Keeping Up
+
+Viv was frequently on the short-list of startups that could help larger tech companies build assistant technology. Founded four-years ago by Dag Kittlaus, Adam Cheyer and Chris Brigham, the startup was working on voice technology to handle more complex queries than existing offerings.
+
+While it drummed up considerable attention and investment, Viv has not yet released its product to the public. And some analysts are skeptical of Samsung’s ability to convert the technology into a credible service, given its mixed record with software applications.
+
+"It will be very hard to compete with Google’s strength in data and their AI acquisitions,” said Jitendra Waral, senior analyst with Bloomberg Intelligence. "Samsung would need to prove that its AI solutions are superior to that of Google’s. They are handicapped in this race.”
+
+Samsung is also focused on handling the fallout from its exploding Galaxy Note 7 phones, potentially taking management time away from its Viv integration.
+
+But it’s a race Samsung has to join. In recent years, Samsung acquired mobile-payments and connected-device startups to keep up with Apple, Google and Amazon.com Inc. Digital voice-based assistants may be more important, if they become the main way people interact with devices.
+
+Silicon Valley titans are rushing into the space because of this potential. Amazon is trying to sign up developers for its Alexa voice technology. Apple has recently touted more Siri capabilities and opened the technology to other developers. And now Google, considered the leader in artificial intelligence, is making its own push.
+
+"I don’t ever remember a time when every single major consumer tech company -- and even enterprise companies -- have been singularly focused on an identical strategy," said Tim Tuttle, chief executive officer of MindMeld Inc., a startup working on voice interaction software. "They’re all following the exact same playbook.”

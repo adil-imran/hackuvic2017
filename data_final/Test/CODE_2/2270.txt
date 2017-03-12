@@ -1,0 +1,22 @@
+http://www.thehindu.com/todays-paper/tp-national/tp-mumbai/whatsapp-out-of-polices-reach/article9001477.ece
+46
+4
+Privacy policy denies Mumbai police’s cyber labs access to info on app
+
+The 34 cyber laboratories set up by Maharashtra police this week will cover an entire gamut of social media applications, but will leave WhatsApp out of the ambit of its probe. Senior officials of the Home Department said the representatives from WhatsApp Inc. informed the government that their private policy does not allow sharing of information or giving surveillance rights to a third party.
+
+Additional Chief Secretary (Home) K.P. Bakshi said, “The new labs will probe cases related to bank frauds, debit-card frauds, image morphing, cyber attacks, etc. For now, we will have to remain satisfied with blocking messages going viral on WhatsApp. They have conveyed the inability to share information with us due to a privacy policy.”
+
+The app is a cross-platform and encrypted instant messaging service for smartphones that allows users to send images, videos and documents. Based out of California and acquired by Facebook Inc., it has a user base of over one billion as of 2016.
+
+Officials however said that tracing messages on the app was not impossible. Senior Home Ministry officials said police had recently traced the source of the leak of a university examination paper by scanning over 40 mobile phones using indigenous software. The police say the only difficultly is in blocking information. “So far, we are relying on Internet Service Providers to control information on WhatsApp, but that, too, has its limitations,” said a senior official.
+
+The cyber labs are being set up as part of the State government’s ambitious plan to have its own Indian Computer Emergency Response Team at a cost of Rs. 838 crore. Chief Minister Devendra Fadnavis headed a high-power committee on cyber security last month appointed a consortium of M/s C-DAC (Centre for Development of Advanced Computing) and Railtel Corporation of India to set up the CERT.
+
+The growing menace of WhatsApp, officials said, cannot be ignored. A recent trend officials said is the use of WhatsApp to con people into visiting a website and infecting mobile devices.
+
+Recently, a message was circulating, officials said, claiming to offer gifts on behalf of popular e-commerce firms Amazon and Flipkart on a website.
+
+The link to a website in the message, experts said, was a Trojan (programme with a benign purpose), hiding an executable malicious file with the intent of launching a cyber attack.
+
+Officials say tracing messages not impossible, only difficultly is in blocking information

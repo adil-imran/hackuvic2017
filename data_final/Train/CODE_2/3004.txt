@@ -1,0 +1,32 @@
+http://www.4-traders.com/MICROSOFT-CORPORATION-4835/news/Microsoft-Watchdog-Group-Knocks-Microsoft-over-Windows-10-Privacy-22929268/
+60
+6
+The Electronic Frontier Foundation (EFF) has taken Microsoft to task over potential privacy issues in Windows 10, saying that the company "blatantly disregards user choice and privacy."
+
+The nonprofit organization, which advocates for "civil liberties in the digital world," published an announcement this week asking Microsoft "to come clean with its user community" and to acknowledge its privacy "missteps." It also asked Microsoft to separate "security updates from operating system upgrades going forward."
+
+There are some signs of a legal backlash against Windows 10 already, the EFF`s announcement noted. Moreover, the EFF is starting to get requests to take action, it added.
+
+Last month, a French privacy agency gave Microsoft three months to address a list of privacy issues, including Windows 10`s handling of advertising IDs, cookies, PIN security, data transfers and telemetry reporting. The word "telemetry" typically implies data collection for service improvement purposes or problem-solving purposes, but it`s a somewhat ambiguous term. The agency warned that Microsoft could face sanctions if it didn`t comply with its change requests.
+
+U.S. regulatory agencies haven`t been too vocal about Windows 10 and potential privacy issues. But, in general, privacy doesn`t appear to be a top-of-mind consideration for those agencies, nor regulation, for that matter.
+
+Telemetry Controls
+
+Organizations do have the ability to manage Windows 10 telemetry connections, as described in this TechNet article. They can control 31 separate Group Policy settings. However, only Windows 10 version 1607 Enterprise and Education editions offer full control over those settings. Here`s how the article described it:
+
+Some of the network connections discussed in this article can be managed in Windows 10 Mobile, Windows 10 Mobile Enterprise, Windows 10, version 1507, and Windows 10, version 1511. However, you must use Windows 10 Enterprise, version 1607 or Windows 10 Education, version 1607 to manage them all.
+
+Last month, Microsoft published an Enterprise Products section in its privacy policy, which apparently is new. It`s a little more complicated to track such nuances with Windows 10 because even individual features, such as the Cortana personal search assistant, have their own separate privacy policies to read. An organization`s overall agreement with Microsoft , though, could supplant all of those individual privacy policies, according to the Enterprise Products segment.
+
+Microsoft describes how to use the Windows 10 user interface to remove Cortana at this page, which involves turning off its use with e-mail, calendar, contacts and the Edge browser, among other applications. Cortana is also integrated with Office 365 applications. Group Policy can be used to turn off Cortana more programmatically, which is the option that organizations likely would use. However, a manual registry edit is required with the Windows 10 Home edition, according to this ZDNet article, making that an unlikely option for consumers wanting to turn off Cortana.
+
+Trust
+
+In terms of security, Microsoft announced in February that U.S. Department of Defense agencies were advised to "standardize on Windows 10." And presumably the DoD is assured about Windows 10`s privacy protections, too -- that is, privacy for governmental agencies. Microsoft reportedly was an early collaborator with the U.S. National Security Agency`s PRISM program, which secretly harvested people`s communications data from around the globe, which, if true, renders Windows 10 privacy assurances kind of moot.
+
+In the end, it`s all about trust, in a world of mass spying (or marketing) by government and industry. Last year, Terry Myerson , Microsoft`s executive vice president for the Windows and Devices Group , said that Microsoft was committed to transparency with regard to Windows 10 and privacy:
+
+Trust is a core pillar of our More Personal Computing vision, and we know we have to earn it. We`ve taken time to expand the documentation on our approach today with this blog, and new content we`re posting today for consumers and IT Pros, designed to complement our One Microsoft Privacy Policy. We look forward to the next round of questions and feedback on these new posts. I assure you that no other company is more committed, more transparent and listening harder to customers on this important topic than we are.
+
+It`s a strong statement of assurance. But at least two organizations now aren`t seeing Microsoft`s Windows 10 privacy assurances in that way.

@@ -1,0 +1,32 @@
+http://www.businessinsider.com.au/apple-dash-bogdan-popescu-response-2016-10
+124
+12
+Getty Images/Justin Sullivan Apple CEO Tim Cook
+
+Last week a firestorm erupted when Apple booted from its App Store a popular app for coders called Dash, and deleted the developer’s account.
+
+And now Apple is publicly explaining itself. Apple App Store spokesperson Tom Neumayr first told Jim Dalrymple at The Loop (and sent the same statement to Business Insider):
+
+“Almost 1,000 fraudulent reviews were detected across two accounts and 25 apps for this developer so we removed their apps and accounts from the App Store. Warning was given in advance of the termination and attempts were made to resolve the issue with the developer but they were unsuccessful. We will terminate developer accounts for ratings and review fraud, including actions designed to hurt other developers. This is a responsibility that we take very seriously, on behalf of all of our customers and developers.”
+
+This statement that “warning was given in advance” and “attempts were made to resolve the issue with the developer” makes it sound like Apple had found the problem a while ago and was trying to work with the app’s developer, Bogdan Popescu.
+
+Only that doesn’t match Popescu’s account of what happened.
+
+Popescu’s blog post said he had been booted by surprise, receiving a termination email a day after he had asked Apple to migrate his account from an individual one to a company one. (Dash has been around for many years.) He later updated the blog post saying that Apple banned him for evidence of review manipulation and he denied having done it. “This is something I’ve never done.”
+
+Both stories can’t be right. Developers seemed to believe Popescu at first and are now just baffled by it all.
+
+As one wrote on Hacker News, a site where programmers comment on news stories of interest to them:
+
+“Well that’s definitely strange. Why would the developer do such a thing when Dash is basically the best app of its kind out there? To other commenters, why would Apple accuse the dev of faking reviews if it wasn’t true? I don’t see Apple getting anything out of it.”
+
+Popescu has not yet responded to requests for comment on Apple’s statement.
+
+We asked Apple how long it usually works with a developer when it discovers fraudulent reviews and how it determines if a review is fraudulent, but Apple did not respond.
+
+NOW WATCH: Former Navy SEAL Jesse Ventura says ‘American Sniper’ Chris Kyle shouldn’t be remembered as a hero
+
+
+
+Follow Business Insider Australia on Facebook, Twitter, and LinkedIn

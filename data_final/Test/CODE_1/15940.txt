@@ -1,0 +1,40 @@
+http://www.counterpunch.org/2016/02/01/can-the-demands-of-history-resolve-the-kent-state-massacre-controversy/
+202
+20
+by
+
+Bums, vigilantes, Brown Shirts and getting what they deserved, were the varying ways, all incendiary and untrue, that the protesters at Kent State (and those like them in the peace movement at that time) were categorized by top officials of both the US government and the State of Ohio before the massacre there on May 4, 1970. The top law enforcement officer in the U.S. government, J. Edgar Hoover, told White House lawyer Egil Krogh that, “the students invited (the shootings) and got what they deserved.”
+
+May 4, 1970 stands out as a defining moment in the minds of those who worked for peace in those years. It shaped much of the politics of the generation born following World War II who had come of age.
+
+May 4, 1970 was the day the Vietnam War came home to the campus of Kent State University and just days later to the campus of Jackson State in Mississippi. But an issue gnaws at the truth of that day in May of so many years ago and has left the idea of justice as an unsettled question.
+
+The issue is whether or not the National Guard that had been called out to Kent, Ohio, and later to the campus of Kent State University, acted in unison and upon an order or orders to shoot powerful rifles at demonstrators who posed no real threat to them while protesting the Vietnam War.
+
+In 2010, forensic audio experts Stuart Allen and Tom Owen, equipped with state-of-the-art computer hardware and software, made a startling discovery about the shots fired at Kent State University. From an enhanced forensic sound analysis of a digitized copy of the cassette copy of the Strubbe tape provided by The Plain Dealer , the sound experts determined that the Guard was given orders that resulted in the deaths of four students, two of whom were protesting the expansion of the Vietnam War into Cambodia, and the wounding of nine additional students. One of the wounded students was paralyzed for life.
+
+The original Strubbe tape was a recording taken from a student’s dorm room on a reel-to-reel tape recorder, while the scenes that would live on into history unfolded below.
+
+The digitized copy of the tape was made from a cassette copy of the original tape that was found in 2007 in a Yale University archive by Alan Canfora, one of the students wounded at Kent State on May 4, 1970.
+
+The FBI subsequently conducted their own sound analysis of the Strubbe tape. The FBI also used a digital version of the cassette tape. Unfortunately, the FBI analysis did not use the most advanced techniques in sound analysis. William A. Gordon notes in the 2015 e-book edition of Four Dead In Ohio that the FBI and the Allen and Owen analysis was an apples to oranges comparison. Here are two examples of the differences between the Allen-Owen analysis and the FBI analysis of the copy of the Strubbe tape: Sounds that Allen and Owen concluded were four pistol shots fired about 70 seconds before the lethal volley of Guard rifle fire were analyzed by the FBI as the sound of the closing of a door in the dormitory room where the tape was being recorded. Those pistol shots are a curious addition to the events of that day, but ultimately did not factor into the Guard’s actions. The FBI also could not hear the words “Prepare to fire,” which Allen and Owen insist are on the tape.
+
+Author William A. Gordon compares information from Freedom of Information requests about the forensic sound tools that the FBI used and compared those tools to the Allen and Owen analysis of the Strubbe tape. He learned that the Bureau used RAP-R2, Sound Forge 3. AvidPrTools, Adobe Audition 3, and ES-4. Allen and Owen used the Russian S.I.S. Sound Cleaner and Sony’s SoundForge 10. Stuart Allen responded to William A. Gordon’s request for a comparison of the FBI’s sound tools and the sound tools that Allen and Owen used. Allen called the FBI’s tools as “beyond antiquated” and “off-the-shelf vendor stuff.” In other words, the FBI’s tools were not state-of-the-art sound technology.
+
+Sound technology advances have enabled sound experts to listen to a recording and remove sounds so that the experts can hear parts of the recording that may contain crucial information. An example would be removing background noise from a recording such as general sounds coming from a crowd and focusing on specific words spoken that may be of importance to the forensic sound scientists.
+
+To clarify any questions about the Strubbe tape, I interviewed Stuart Allen in October 2015. Allen discussed the two sound tools that he used to analyze the Strubbe tape. SIS is a sound tool that “gets the job done,” according to Allen. He said that SIS “analyzes and creates a real-time inverse filter,” which means that it “filters out background noise and enhances what you do want to hear.” The SIS software sound tool is so sensitive that it can pick up a conversation between people during a fireworks display according to Allen.
+
+The second tool that Allen and Owen used to analyze the cassette of the Strubbe tape was Sound Forge 10. Sound Forge 10 “has filters and allows the sound expert to actually see the sound waves that are being analyzed.” SIS and Sound Forge 10 work synergistically within one another according to Allen. These tools are what sound experts have at their disposal, much like the tools of an expert carpenter.
+
+Allen said that he would provide FBI sound experts at Quantico, Virginia with the results of his analysis of the Strubbe tape for their own use. The cassette copy of the original Strubbe tape was a copy of the reel-to-reel tape and was accepted as bona fide evidence in federal court. The cassette copy of the Strubbe tape was used at both the 1974 criminal case against National Guardsmen, which was held in Cleveland and in the 1975 civil trial against Guardsmen, their commanding officers, and the late governor of Ohio, James Rhodes.
+
+The FBI claims that it cannot examine the Allen-Owen analysis of the cassette tape since it was “apparently destroyed,” as reported by The Plain Dealer, at the FBI’s Cleveland office in 1979, but that is not the case since a copy of the tape is the evidence that the federal court accepted.
+
+Stuart Allen sometimes works for the FBI, which is one indication of the esteem that the professional community holds this certified forensic sound and video consultant. Allen is both a sound and video engineer.
+
+In light of all that has been discovered since the tragic events of that day in May 1970, I ask that the National Academy of Sciences conduct an in-depth and independent analysis of the tape to forever answer the question of whether or not the Guard acted in concert on that day so many years ago. It is not individual culpability that is being sought so many decades after the Kent State massacre, but rather, a scientific analysis of a key piece of evidence by an esteemed national body of scientists to give an answer available for history and the greater understanding of that day in 1970.
+
+Neither is this a criticism of the FBI’s analysis of the tape, but rather, I ask that the most advanced scientific tools be used to learn the precise words that were uttered in Ohio on that day and give those who seek the truth a sense of finality.
+
+There are many tragedies both of a national and a personal kind that remain unsolved and perhaps unsolvable. The tragedy of Kent State University is one for which I believe an answer exists. William A. Gordon and I have asked Kent State University President Beverly Warren and U.S. Senator Elizabeth Warren to assist in the pursuit of truth since a private citizen cannot ask The National Academy of Sciences to analyze the Strubbe tape.

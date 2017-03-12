@@ -1,0 +1,28 @@
+http://gulfnews.com/business/sectors/technology/google-duo-works-in-uae-for-now-1.1882838
+130
+13
+App Duo represents Google’s response to other popular video calling options, including Apple’s FaceTime, Microsoft’s Skype and Facebook’s Messenger app.
+
+Dubai: Google has rolled out its person-to-person video calling app — Duo — in the UAE app stores, but many people think it is only a matter of days before it is blocked.
+
+“As per the policy in UAE, video calling over mobile network is blocked. So, any new app is likely to get blocked eventually,” Sukhdev Singh, vice-president at market research and analysis services provider AMRB, told Gulf News.
+
+The UAE’s Telecommunications Regulatory Authority (TRA) has already blocked video and voice calling features from BlackBerry, WhatsApp, Viber, Skype and Snapchat. Apple’s FaceTime is not installed by default on the company’s smartphones shipped into the Middle East, but FaceTime works in the UAE with devices bought from Europe or in the US.
+
+The Duo app, which works on Android and Apple operating systems, was released in the US last week. The app comes with end-to-end encryption and also has a feature called “Knock Knock” which lets the caller know who is calling.
+
+Like FaceTime, Duo only requires a person’s phone number to connect. Many other services require both participants to have accounts to use the video calling options.
+
+Many residents have told Gulf News they were using overseas accounts to download Duo, which was launched on Tuesday, assuming it was going to be blocked by the Telecommunications Regulatory Authority (TRA).
+
+According to TRA rules, only licensed telecom operators can offer VoIP (voice over internet protocol) in the UAE.
+
+Permission
+
+Even though VoIP calls by anyone other than a local telecom are officially banned, the use of VoIP to make cheap voice calls over the internet is rampant in the Gulf.
+
+Some residents are speculating that Google would not have released Duo without seeking permission from the TRA. If the TRA is now allowing these apps, players such as Apple and Facebook may also seek to unblock their own FaceTime and WhatsApp calling apps respectively. Neither the TRA nor Google could be reach for comment before deadline.
+
+“This is obviously something that consumers, in particular the expat residents, would love to have as it will bring down their international calling expense substantially,” Singh said.
+
+“It is high time for TRA to look into this when rest of the world is open to video and voice calling apps. One good option is to offer residents a monthly fee to access these apps and, at the same time, telecom operators can also benefit from the data usage,” he said.

@@ -1,0 +1,44 @@
+http://www.thestar.com.my/tech/tech-news/2016/10/06/yahoo-email-scanning-prompts-european-ire/
+10
+1
+LONDON: Yahoo's decision to scan clients' e-mail accounts at the behest of the US authorities has prompted questions in Europe as to whether EU citizens' data had been compromised, and could help derail a new trans-Atlantic data sharing deal.
+
+Reuters reported on Oct 4 that Yahoo complied with a classified US government demand to search customers' incoming e-mails for specific information provided by US intelligence officials.
+
+Ireland's Data Protection Commissioner, the lead European regulator on privacy issues for Yahoo, said on Oct 5 it was making enquiries about the matter.
+
+European politicians called on the European Commission, the European Union’s executive body, to look into the issue and lawyers said a legal challenge to the new EU-US data sharing deal agreed earlier this year was now more likely in Europe.
+
+"Any form of mass surveillance infringing on the fundamental privacy rights of EU citizens would be viewed as a matter of considerable concern," the regulator in Dublin, where Yahoo's European headquarters is based, said in a statement.
+
+Yahoo said in response to the original Reuters story that it was "a law abiding company, and complies with the laws of the United States".
+
+It declined to confirm whether it scanned users' e-mails or to say whether Europeans' emails were intercepted as part of the programme.
+
+Johannes Kleis a spokesman with BEUC, an umbrella group for European consumer organisations, called on other EU data protection authorities to investigate Yahoo.
+
+Fabio de Masi, a German member of the European Parliament with the leftist Die Linke party, said he had submitted a formal request to EU High Representative for External Affairs Federica Mogherini asking her to seek clarification from US authorities about the treatment of EU data.
+
+Privacy shield
+
+Ashley Winton, a data protection and privacy lawyer with Paul Hastings, said the revelations that Yahoo had helped the authorities scan user emails could prompt clients to ditch Yahoo.
+
+In addition to retail users in Europe, Yahoo also provides email services for other companies, including UK-listed groups Sky Plc and BT Plc.
+
+Sky did not respond to a request for comment. When asked about the matter, BT referred to Yahoo’s comment about being a law abiding group.
+
+In February, the United States and Europe published a new deal – the so-called 'Privacy Shield' – to allow U.S. companies to move data on EU clients to the United States.
+
+The full list of all companies which have applied to benefit from the Privacy Shield has not yet been published as a deadline for early applications passed just last week.
+
+Yahoo declined to say whether it hoped to be able to participate in the new arrangement, which has been criticised by some European politicians as not offering enough protection to consumers against mass surveillance by US intelligence agencies.
+
+Winton said EU data regulators would probably deem the kind of scanning the sources told Reuters that Yahoo had engaged in last year – sifting through millions of emails for those with specific characteristics – as being not consistent with the terms of the Privacy Shield.
+
+As part of the Privacy Shield, the United States has ruled out indiscriminate mass surveillance, a European Commission spokesman said.
+
+"The US will be held accountable to these commitments both through review mechanisms and through redress possibilities," he added.
+
+Yahoo could use other legal mechanisms to transfer data to the United States from Europe but these are more complicated and involve additional expense, lawyers said.
+
+Winton added that the Yahoo news increased the chances of a legal challenge in Europe against the agreement. — Reuters

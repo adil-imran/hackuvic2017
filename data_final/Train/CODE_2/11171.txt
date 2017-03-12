@@ -1,0 +1,36 @@
+http://www.4-traders.com/YAHOO-INC-4918/news/Yahoo-Hackers-Were-Criminals-Rather-Than-State-Sponsored-Security-Firm-Says-23129552/
+127
+12
+By Robert McMillan
+
+An information-security firm says the hackers who stole at least 500 million records from Yahoo Inc. two years ago are criminals who are selling access to the database, and not a state-sponsored group as Yahoo contends.
+
+The firm, InfoArmor Inc., appears to have access to portions of the Yahoo database. It successfully decrypted the passwords for eight Yahoo accounts provided by The Wall Street Journal, and provided the date of birth, phone number and ZIP Code information associated with the accounts.
+
+InfoArmor said the hackers, whom it calls "Group E," have sold the entire Yahoo database at least three times, including one sale to a state-sponsored actor. But the hackers are engaged in a moneymaking enterprise and have "a significant criminal track record," selling data to other criminals for spam or to affiliate marketers who aren't acting on behalf of any government, said Andrew Komarov, chief intelligence officer with InfoArmor Inc.
+
+That is not the profile of a state-sponsored hacker, Mr. Komarov said. "We don't see any reason to say that it's state sponsored," he said. "Their clients are state sponsored, but not the actual hackers."
+
+Mr. Komarov's assessment conflicts with Yahoo's statement last week that its users' account information was stolen by "what it believes is a state-sponsored actor."
+
+Yahoo didn't immediately respond to requests for comment.
+
+Mr. Komarov said InfoArmor has been tracking Group E for three years. It believes the hackers are Eastern European, but declined to specify why. InfoArmor has linked the group to hacks that stole more than two billion records from about a dozen websites, including LinkedIn Corp., Dropbox Inc. and Myspace.
+
+In a report published Wednesday, InfoArmor offered some new details on the Yahoo breach and Group E. The analysis still leaves many questions unanswered, including how InfoArmor obtained access to the database and why Yahoo didn't uncover the magnitude of the breach for nearly two years. InfoArmor declined to say whether it has a copy of the database or accessed it through a third party.
+
+Yahoo has said it began its investigation in July, around the time the company was finalizing plans to sell its core assets to Verizon Communications Inc. for $4.8 billion. In a Sept. 9 securities filing, Yahoo said it wasn't aware of any "security breaches" or "loss, theft, unauthorized access or acquisition" of user data.
+
+The Wall Street Journal reported last week that Yahoo in fall 2014 detected what it believed was a small breach involving 30 to 40 accounts, carried out by hackers working on behalf of the Russian government. Yahoo reported the incident to the Federal Bureau of Investigation in late 2014 and notified affected users.
+
+InfoArmor began tracking Group E in 2013, not long after hackers broke into servers at LinkedIn and stole more than 100 million records.
+
+After selling the Yahoo database three times, starting in early 2015, the hackers have shifted tactics, Mr. Komarov said. He said the hackers are no longer offering to sell the full database, but are seeking "to extract something from the dump for significant amounts of money." Prices vary based on the value of the target, Mr. Komarov said.
+
+Yahoo has said that the stolen data include cryptographically protected passwords. After The Wall Street Journal provided InfoArmor with 10 Yahoo account names, the company was able to crack the cryptographic password protection on eight of them within a day and produce the passwords and other user information for these accounts. The two account passwords that it couldn't read likely had complex passwords, meaning they would take more time to crack, Mr. Komarov said. Based on the passwords recovered by InfoArmor, the database was taken from Yahoo sometime before Dec. 4, 2014.
+
+According to InfoArmor's investigation, Group E was the source of some databases sold by two other hackers, named Tessa88 and Peace of Mind. They offered a smorgasbord of data dumps -- some of them legitimate data, others not, but ultimately parted ways with Group E, InfoArmor said.
+
+Earlier this year, both Tessa88 and Peace of Mind offered for sale what they said were Yahoo account credentials. Those offers prompted Yahoo's investigation. But neither Peace of Mind nor Tessa88 ever produced data that was taken from Yahoo.
+
+Write to Robert McMillan at Robert.Mcmillan@wsj.com

@@ -1,0 +1,44 @@
+http://finance.yahoo.com/news/ariad-otsuka-submit-drug-application-123500681.html
+141
+14
+CAMBRIDGE, Mass.--(BUSINESS WIRE)--
+
+ARIAD Pharmaceuticals, Inc. (ARIA) today announced that its partner Otsuka Pharmaceutical Co., Ltd. (Otsuka) has submitted a new drug application (NDA) to the Japanese Pharmaceuticals and Medical Devices Agency (PMDA) seeking approval for Iclusig® (ponatinib) for the treatment of resistant or intolerant chronic myeloid leukemia (CML) and Philadelphia-chromosome positive acute lymphoblastic leukemia (Ph+ALL).
+
+“The collaborative work to file this new drug application in Japan marks a significant milestone in expanding patient access to Iclusig in major geographies around the world,” said Timothy P. Clackson, Ph.D., president of research and development and chief scientific officer of ARIAD. “If approved, Iclusig will provide an important new treatment option for Japanese patients with refractory Philadelphia-positive leukemia.”
+
+ARIAD expects Otsuka to receive a decision on the new drug application in Japan in the second half of 2016.
+
+The NDA for ponatinib is supported by the Phase 1/2 study in Japanese patients, as well as the global pivotal PACE and Phase 1 trials of ponatinib. The Japanese study included 35 Japanese patients with CML or Ph+ALL who experienced failure of prior tyrosine kinase inhibitor (TKI) therapy. With a median follow-up of 14.9 months at the time of analysis, the Phase 1/2 study results confirm that Iclusig demonstrates anti-leukemic activity in this patient population. Among chronic-phase patients, 65% achieved the primary efficacy endpoint of major cytogenetic response, and 35% had a major molecular response. Thirteen patients remained on therapy including 12 in chronic phase. The median duration of response had not been reached. The most common treatment-emergent adverse events in the trial of any grade were decreased platelet and neutrophil counts, pyrexia, hypertension, dry skin, rash and increased lipase. Treatment-emergent arterial thrombotic events were reported in four patients, or 11%.
+
+According to a 2011 survey by the Ministry of Health Labor and Welfare in Japan, CML occurs in approximately 1 out of 100,000 people among all age groups and it is estimated that there are approximately 11,000 patients living with CML in Japan.
+
+About Iclusig® (ponatinib) tablets
+
+Iclusig is a kinase inhibitor. The primary target for Iclusig is BCR-ABL, an abnormal tyrosine kinase that is expressed in chronic myeloid leukemia (CML) and Philadelphia-chromosome positive acute lymphoblastic leukemia (Ph+ ALL). Iclusig was designed using ARIAD’s computational and structure-based drug-design platform specifically to inhibit the activity of BCR-ABL. Iclusig targets not only native BCR-ABL but also its isoforms that carry mutations that confer resistance to treatment, including the T315I mutation, which has been associated with resistance to other approved TKIs.
+
+Iclusig is approved in the U.S., EU, Australia, Switzerland, Israel and Canada.
+
+In the U.S., Iclusig is a kinase inhibitor indicated for the:
+
+Treatment of adult patients with T315I-positive chronic myeloid leukemia (chronic phase, accelerated phase, or blast phase) or T315I-positive Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL).
+
+Treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia or Ph+ ALL for whom no other tyrosine kinase inhibitor (TKI) therapy is indicated.
+
+These indications are based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with Iclusig.
+
+IMPORTANT SAFETY INFORMATION, INCLUDING THE BOXED WARNING
+
+WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY
+
+See full prescribing information for complete boxed warning
+
+Vascular Occlusion: Arterial and venous thrombosis and occlusions have occurred in at least 27% of Iclusig treated patients, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures. Patients with and without cardiovascular risk factors, including patients less than 50 years old, experienced these events. Monitor for evidence of thromboembolism and vascular occlusion. Interrupt or stop Iclusig immediately for vascular occlusion. A benefit risk consideration should guide a decision to restart Iclusig therapy.
+
+Heart Failure, including fatalities, occurred in 8% of Iclusig-treated patients. Monitor cardiac function. Interrupt or stop Iclusig for new or worsening heart failure.
+
+Hepatotoxicity, liver failure and death have occurred in Iclusig-treated patients. Monitor hepatic function. Interrupt Iclusig if hepatotoxicity is suspected.
+
+Vascular Occlusion: Arterial and venous thrombosis and occlusions, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures have occurred in at least 27% of Iclusig-treated patients from the phase 1 and phase 2 trials. Iclusig can also cause recurrent or multi-site vascular occlusion. Overall, 20% of Iclusig-treated patients experienced an arterial occlusion and thrombosis event of any grade. Fatal and life-threatening vascular occlusion has occurred within 2 weeks of starting Iclusig treatment and in patients treated with average daily dose intensities as low as 15 mg per day. The median time to onset of the first vascular occlusion event was 5 months. Patients with and without cardiovascular risk factors have experienced vascular occlusion although these events were more frequent with increasing age and in patients with prior history of ischemia, hypertension, diabetes, or hyperlipidemia. Interrupt or stop Iclusig immediately in patients who develop vascular occlusion events.
+
+Read More

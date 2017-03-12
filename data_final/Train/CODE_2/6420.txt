@@ -1,0 +1,44 @@
+http://www.wsj.com/articles/tighter-french-emissions-probe-is-urged-1471980455
+90
+9
+ENLARGE French Environment Minister Ségolène Royal, shown in Paris last month, faces a call to expand an investigation into whether car makers are cheating during emissions tests. Photo: stephane de sakutin/Agence France-Presse/Getty Images
+
+PARIS—A member of a French commission set up to test cars after the Volkswagen AG scandal is pressing the French government for a deeper inquiry to establish whether car makers are illegally using software to mask their emissions during tests.
+
+Pierre Perbos, president of Réseau Action Climat France, an association specializing in climate change, last week sent a letter to French Environment Minister Ségolène Royal urging her to expand the investigation.
+
+The commission didn’t examine the precise conditions that trigger software to shut down antipollution systems. It is legal for cars to turn off antipollution devices for safety or to protect the engine, but not to deliberately trick emissions tests.
+
+“We’re asking Ms. Royal to have the experts examine the software to determine if there is a fraud,” Mr. Perbos said.
+
+In the report, published July 29, the commission said it hadn’t proven the presence of illegal so-called defeat devices but couldn’t rule them out. It concluded that many of the cars it tested from manufacturers including Renault SA and Ford Motor Co. exceeded European Union limits for both nitrous-oxide and carbon-dioxide emissions many times over when tested under real driving conditions.
+
+“We clearly identified the systematic use of devices to turn off antipollution systems, but we haven’t got the means to investigate further,” Mr. Perbos said.
+
+Only Volkswagen has so far admitted to fitting some cars with devices to cheat emissions tests, while both Renault and Ford have denied using them.
+
+Europe’s auto makers have plowed billions of euros into developing so-called clean diesel technology—fuel-sipping cars fitted with updated emissions systems to reduce the amount of particulate matter and nitrous oxide discharged in the air.
+
+But many of these cars include the devices to turn off the antipollution systems. The report says it “remains to be proven” whether manufacturers are right to say that the devices are necessary for safety and reliability reasons. Turning off antipollution systems can happen automatically in response to engine temperature, outside air temperature or the speed at which the engine is turning.
+
+The results of the report have reignited a debate on the difference between laboratory testing and road testing.
+
+“It’s very easy for car manufacturers to cheat laboratory tests because their conditions are known and very precise,” Mr. Perbos said.
+
+Last September, Volkswagen admitted that some of its cars had engines programmed to recognize when they were being tested, leading to billions of dollars in fines and sparking a backlash against diesel-powered vehicles in Europe.
+
+The following month, Ms. Royal formed a commission to test 86 cars across the country’s auto industry to determine whether the problem was more widespread. Auto makers appeared before the special commission to explain why their cars failed the recent road tests and how they would improve their performance.
+
+“If we want to go further, the logical next step is to look at the software used by the all of the manufacturers, to make sure that there’s no fraud,” said Éric Horlait, an executive at research body Inria and one of 17 members of the commission.
+
+French car maker Renault has been among the worst offenders, with the report saying that some of its models emitted nitrous oxide many times over the EU legal limit.
+
+In April, the French car maker announced measures to reduce its emissions of nitrous oxide. Its so-called Nox trap had previously activated only between 17 and 35 degrees Celsius, or between 63 and 95 degrees Fahrenheit. Cars are typically tested at temperatures within that range, but temperatures in France are often lower. In Paris, the average monthly temperature is 17 degrees Celsius or below for seven months of the year.
+
+“Renault was not the best student in the class, that’s true, but I didn’t hear anything about Renault cheating,” said Daniel Quéro, president of a car-drivers’ association and a member of the commission. “If you change the nature of the test, it’s normal that the results will come out differently.”
+
+A spokesman for Renault reiterated that its cars don’t have devices to cheat emissions tests and that the company provided the French commission all required technical explanations. Officials in Ms. Royal’s office declined to comment on the next steps for the committee after the publication of its report.
+
+—Inti Landauro contributed to this article.
+
+Write to Nick Kostov at Nick.Kostov@wsj.com

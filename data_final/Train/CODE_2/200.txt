@@ -1,0 +1,46 @@
+http://finance.yahoo.com/news/yahoo-scan-u-fell-under-foreign-spy-law-040236357--finance.html
+12
+1
+Yahoo Mail logo is displayed on a smartphone's screen in front of a code in this illustration taken in October 6, 2016. REUTERS/Dado Ruvic
+
+By Mark Hosenball and Dustin Volz
+
+WASHINGTON (Reuters) - A Yahoo operation in 2015 to scan the incoming email of its customers for specific information requested by the U.S. government was authorized under a foreign intelligence law, parts of which will expire next year, two U.S. government officials familiar with the matter said.
+
+Reuters on Tuesday reported that the Yahoo program was in response to a classified U.S. government request to scan emails belonging to hundreds of millions of Yahoo users.
+
+The revelation rekindled a long-running debate in the United States over the proper balance between digital privacy and national security.
+
+The collection in question was specifically authorized by a warrant issued by the secret Foreign Intelligence Surveillance Court, said the two government sources, who requested anonymity to speak freely.
+
+Yahoo's request came under the Foreign Intelligence Surveillance Act, the sources said. The two sources said the request was issued under a provision of the law known as Section 702, which will expire on Dec. 31, 2017, unless lawmakers act to renew it.
+
+The FISA Court warrant related specifically to Yahoo, but it is possible similar such orders have been issued to other telecom and internet companies, the sources said.
+
+In a statement on Wednesday, Yahoo said the Reuters report was "misleading" and that the "mail scanning described in the article does not exist on our systems."
+
+When asked to identify any specific way in which the story was misleading, or whether the operation described by Reuters had previously existed, Yahoo declined to comment.
+
+Former Yahoo employees told Reuters that security staff disabled the scan program after they discovered it, and that it had not been reinstalled before Alex Stamos, the company's former top security officer, left the company for Facebook last year.
+
+The intelligence committees of both houses of Congress, which are given oversight of U.S. spy agencies, are now investigating the exact nature of the Yahoo order, sources said.
+
+Section 702 of the FISA governs a program exposed by former National Security Agency contractor Edward Snowden known as Prism, which gathers messaging data from Alphabet Inc's Google, Facebook Inc, Microsoft Corp, Apple Inc and other major tech companies that involves a foreign target under surveillance.
+
+Another type of spying the authority allowed under Section 702 is known as "upstream," and allows the NSA to copy web traffic flowing along the internet backbone located inside the United States and search for certain terms associated with a target.
+
+Privacy advocates expressed alarm at the reported Yahoo program, saying it amounted to an unprecedented use of the authorities granted to the NSA by Congress.
+
+"The NSA has said that it only targets individuals under Section 702 by searching for email addresses and similar identifiers," Senator Ron Wyden, an Oregon Democrat, said in a statement to Reuters on Monday. "If that has changed, the executive branch has an obligation to notify the public."
+
+Speaking to students at Georgetown University on Tuesday, Snowden, who leaked a trove of classified documents to journalists in 2013 exposing NSA surveillance programs, said the Yahoo report renewed questions about whether government surveillance programs are subject to sufficient congressional oversight and public scrutiny.
+
+"That's not to say that this Yahoo program is sinister," Snowden said via satellite: "It could be related to cyber security, where it is related to known malware actors."
+
+Government officials on Wednesday sought to defend U.S. surveillance operations as appropriately balanced and transparent, though they did not deny the Reuters report.
+
+"The United States only uses signals intelligence for national security purposes, and not for the purpose of indiscriminately reviewing the emails or phone calls of ordinary people," Richard Kolko, a spokesman for the U.S. Office of the Director of National Intelligence, said in a statement.
+
+White House spokesman Josh Earnest told reporters Tuesday that he could not confirm the existence of specific intelligence programs or intelligence tools, but defended the checks and balances placed on what information or methods the intelligence community can seek.
+
+(Reporting by Mark Hosenball and Dustin Volz in Washington Additional reporting by Joseph Menn in San Francisco; Editing by Jonathan Weber and Grant McCool)

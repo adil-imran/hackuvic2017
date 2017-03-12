@@ -1,0 +1,65 @@
+https://www.theguardian.com/environment/2016/jun/23/lead-copper-rule-drinking-water-epa-flint-crisis
+100
+10
+Changes to laws that protect Americans’ drinking water are still at least six months away, the US Environmental Protection Agency has said, despite the ongoing lead crisis in Flint and calls for reform from lawmakers and public health groups.
+
+
+
+The EPA has been reviewing the lead and copper rule, part of the Safe Drinking Water Act, since roughly 2010. The rule is supposed to ensure high levels of lead don’t seep into drinking water, but has been the subject of criticism for years by scientists who feel it has not adequately protected the public.
+
+In response to questions from the Guardian, the agency reiterated it would be 2017 before Americans could expect changes.
+
+“It is shameful EPA has delayed updating the lead and copper rule,” Jason Chaffetz, the Republican chair of the House oversight committee, told the Guardian.
+
+
+
+“EPA’s priorities are backwards. They have prioritized ideologically driven regulations, such as Waters of the United States and the Clean Power Plan, instead of updating regulations that ensure Americans’ access to safe drinking water,” said Chaffetz, referring to two EPA rule changes that Republicans have argued are overreaches of authority.
+
+In memos and emails, EPA scientists claimed that loopholes in the lead and copper rule allowed Flint’s toxic water to go undetected. Physicians’ groups have also piled on pressure, calling last week for the complete removal of lead from America’s plumbing infrastructure.
+
+Earlier this month, the Guardian revealed that 33 cities in 17 states used the same testing methods that the EPA scientists warned had initially diminished lead found in Flint. Even when the law is updated, the EPA has not said whether it will outlaw the testing methods it has repeatedly warned against.
+
+The vast majority of lead corrosion occurs after water reaches private property, from lead service lines that connect homes to mains, lead solder in houses’ plumbing, and even from brass faucets, which contained up to 8% lead by weight until 2014.
+
+That makes the lead and copper rule unique compared with other testing schemes required of water departments, because samples are taken from residents’ homes.
+
+Almost since its inception, the regulation endured criticism. In emails and memos, EPA scientists said that loopholes in the law allowed high lead levels in Flint to go undetected. As of May, the city’s water was still not safe to drink unfiltered.
+
+“We know that there is no safe level of lead consumption, yet 20% of the lead that is ingested comes from the drinking water that flows through lead plumbing in communities across the nation,” Dr Andrew W Gurman, incoming president of the American Medical Association, said in June. The group called for a complete removal of all lead service lines and lead plumbing, ongoing testing of water and prompt community notification.
+
+“We must do everything in our power to ensure that another Flint-like water crisis never happens again,” said Gurman.
+
+One of the most controversial parts of the lead and copper rule is actually only implied.
+
+Because water samples for lead come from people’s homes, most water departments ask residents to collect them. Instructions sent by those departments describe how to collect samples. These directions may ask residents to “pre-flush” their taps, run water for a few minutes before a six-hour federally mandated test period, remove small faucet filters called “aerators”, or use small-mouthed bottles to reduce the flow of water from taps.
+
+All of these methods, the EPA said, can diminish the amount of lead found in tests. The EPA has warned against them and a water scientist in the agency has called their use a “serious concern”. But none are prohibited by the lead and copper rule.
+
+“The practice of pre-flushing before collecting compliance samples has been shown to result in the minimization of lead capture and significant underestimate of lead levels in drinking water,” wrote Miguel Del Toral, an EPA drinking water scientist, in a memo during the Flint crisis. “Although this practice is not specifically prohibited by the [lead and copper rule], it negates the intent of the rule to collect compliance samples under ‘worst-case’ conditions.
+
+“This is a serious concern,” Del Toral continued, “as the compliance sampling results which are reported by the City of Flint to residents could provide a false sense of security to the residents of Flint regarding lead levels in the water.”
+
+Two state officials in Michigan and one Flint official were criminally charged in the lead crisis there, in a warrant that accused the men of tampering with lead tests “by directing residents to ‘pre-flush’ their taps by running the water for five minutes the night before drawing a water sample and/or [failing] to collect required samples” from homes with risky lead service lines.
+
+The EPA has warned against pre-flushing since 2008, when activists discovered the water department in Washington DC added a 10-minute pre-flush to testing instructions four years after its own lead contamination crisis.
+
+“It removes all traces of lead that would come from the lead service line,” Marc Edwards, the Virginia Tech scientist who uncovered lead contamination in Flint and Washington DC, told the Washington Post in 2008. “If they had used this instruction in 2004, they would have missed the problem,” Edwards said.
+
+Activists wrote to the EPA’s office of ground water and drinking water. The then head of the department, Cynthia C Dougherty, responded that while pre-flushing “may fall within the strict legal interpretation of the regulations, we believe that it goes against the intent of the monitoring protocol”. The EPA then forced DC’s water department to stop the practice.
+
+Since then, multiple EPA documents, advisory committee white papers and peer-reviewed research by EPA scientists and others have said the practice could diminish lead levels.
+
+Roughly one-quarter of all the water departments that responded to the Guardian’s requests for information said they did not pre-flush, and some water departments abandoned the practice years ago.
+
+Chicago, for instance, stopped telling residents to pre-flush taps and remove aerators by 2012. Michigan initially refused to abandon pre-flushing in June 2015, according to an EPA document, but stopped soon after Flint became national news.
+
+However some water departments, such as Philadelphia’s, remain opposed to the idea of abandoning pre-flushing.
+
+The EPA has said it does not collect information on how many water departments might use this practice because states are required to regulate water departments, so there is no national data on how many cities and towns across the US might be affected by such tests. In a statement obtained by the Guardian after the newspaper revealed practices were widespread, the EPA backtracked.
+
+“A 2008 letter on pre-stagnation flushing was directed to an individual water utility and was not framed as national guidance,” the EPA said following the Guardian’s reporting. “The Lead and Copper Rule does not prohibit practices of pre-stagnation flushing and removal of aerators, but EPA’s February 2016 memorandum reflects the agency’s recommendations on these practices.”
+
+The guidance the agency referenced said pre-flushing may “lead to samples that erroneously reflect lower levels of lead concentrations”.
+
+“In December 2015, the agency received extensive recommendations from the National Drinking Water Advisory Council and other concerned stakeholders,” an EPA spokeswoman said about an outside group of advisers that includes activists and water departments. “EPA will carefully evaluate these recommendations, national experience in implementing the rule, and the experience in Flint to develop a proposed revision to the rule. EPA currently expects this proposal to be published for comment in 2017.”
+

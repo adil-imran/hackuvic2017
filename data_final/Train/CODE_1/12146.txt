@@ -1,0 +1,76 @@
+http://www.nbcnews.com/news/us-news/mother-s-murder-among-cases-hampered-locked-iphones-n526916
+202
+20
+Late one night last April, someone with a gun came to the door of the Baton Rouge apartment where Brittney Mills lived with her 10-year-old daughter.
+
+Mills, 29 and nearly nine months pregnant, was a cautious person, her family says — she would not have answered that knock for someone she didn't know.
+
+No one is sure what happened next, except that Mills was shot dead. The answer of who killed the at-home health attendant and industrial safety technician may lie in her iPhone, which lies useless amid an escalating battle between Apple and law enforcement over access to consumers' encrypted data.
+
+Related: Apple Asks Judge to Vacate Order in San Bernardino iPhone Case
+
+Play Facebook
+
+Twitter
+
+Google Plus
+
+Embed FEB. 25: Is Apple Developing Unhackable iPhone Technology? 2:03 autoplay autoplay Copy this code to your website or blog
+
+A witness reported hearing Mills refuse the visitor's request to borrow her car. Then gunshots rang out. Mills was dead by the time police arrived; her baby, delivered that night, lived for a week.
+
+Detectives had little go on. They had no suspects. The man Mills had identified as the baby's father, a former LSU offensive lineman, turned out not to share DNA with the boy, and gave a voluntary statement to police that seemed to rule him out.
+
+A search for DNA matches in criminal databases came up empty, East Baton Rouge District Attorney HIllar Moore said.
+
+Investigators turned to the victim's iPhone, where they hoped phone records, text messages and a rumored diary would contain clues.
+
+Related: Is It Legal to Force Apple to Unlock San Bernardino Shooter's Phone?
+
+Brittney Mills with her mother, Barbara Johnson Mills, two weeks before the young woman was murdered. Courtesy Barbara Mills
+
+The incoming and outgoing calls revealed nothing, Moore said. With help from friends and family, detectives tried guessing her password.
+
+When that failed, they obtained a search warrant for Mills' iCloud data. But she hadn't backed up her phone for months. So they got warrant for the phone itself.
+
+Moore said Apple replied that because the phone's iOS 8 operating system encrypts users' data, the company could not break in.
+
+Apple did not respond to requests for comment, but has said that it has turned over all the information it could without reneging on its commitment to keep customers' data private.
+
+That was in September. Since then, the case has gone cold.
+
+"Everything has been exhausted," Moore said. "Right now, we have no more to go on."
+
+Apple is using a similar argument in a high-profile dispute over the contents of San Bernardino mass shooter Syed Farook, which the FBI wants to access in its search for other potential terrorists.
+
+Apple claims that assisting the FBI would require it to create a "back door" that could put the security of others at risk, and set a dangerous precedent.
+
+The FBI's fight over the San Bernardino phone had brought national attention to the privacy debate. But the MIlls case illustrates how the dilemma tangles up local authorities as well.
+
+Manhattan District Attorney Cyrus Vance said last week investigators there been unable to access data on more than 175 Apple devices taken in criminal investigations, including murder cases.
+
+Related: Apple CEO Says Helping Unlock iPhone Would Be 'Bad for America'
+
+Play Facebook
+
+Twitter
+
+Google Plus
+
+Embed FEB. 25: Comey on Apple Battle: 'Different World' if FBI Can't Read Terrorists' Communications 0:20 autoplay autoplay Copy this code to your website or blog
+
+"Apple doesn't realize they're looking the other way," said Mills' mother, Barbara Johnson Mills. "A lot of these victims have Apple products. They say they want to protect the consumers. But what about the victims?"
+
+"I'm frustrated for the family," Moore said. "I understand privacy rights and concerns, but all we ask is a judge to have the authority to tell Apple to unlock the phone, please."
+
+Moore said he fears criminals would now start hiding behind Apple's privacy protections.
+
+Brittney Mills, 29, was shot to death at her home in Baton Rouge, Louisiana last April. Authorities have been unable to access her iPhone for clues. Courtesy Barbara Mills
+
+Barbara Mills said her family has had little peace since they laid her daughter and newborn grandson, Brenton, to rest. When Brenton died a week after his mother, the family had her crypt at Heavenly Gates Mausoleum opened up.
+
+"We put the baby in her arms with his little casket," Barbara Johnson Mills said. "So they are buried together."
+
+Right now, about all they can do is pray.
+
+"I trust God," she said. "This is going to come full circle in His own time. He's going to be the one to get all of this straightened out."

@@ -20,8 +20,8 @@ class ArticleClassifer(object):
     """docstring for ArticleClassifer"""
     def __init__(self):
         super(ArticleClassifer, self).__init__()
-        self.train_file_loc = '/Users/abhi/Documents/data_m/Data_Final/Train/CODE_'
-        self.test_file_loc = '/Users/abhi/Documents/data_m/Data_Final/Test/CODE_'
+        self.train_file_loc = './data_final/Train/CODE_'
+        self.test_file_loc = './data_final/Test/CODE_'
 
         self.train_data_X = []
         self.train_data_Y = []
@@ -93,22 +93,10 @@ class ArticleClassifer(object):
     # expect list of articles
     # returns - list 0 or 1; 0=Non-safe and 1=safe
     def classify(articleText):
-        # violent1 = '/Users/abhi/Documents/hack2017/hackuvic2017/violent1.txt'
-        # f1 = readFileFromLine(violentFile,0)
-        # f2 = readFileFromLine(nonviolentFile,0)
-        # f3 = readFileFromLine(nv1,0)
-        # f4 = readFileFromLine(violent1,0)
-        # f5 = readFileFromLine(nv2,0)
-
-        X = cv.transform(Reddit_articles)
-        out =clf.predict(X)
+        X = cv.transform(articleText)
+        out = clf.predict(X)
 
         return out
-
-
-
-
-articleClassifier = ArticleClassifer()
 
 
 

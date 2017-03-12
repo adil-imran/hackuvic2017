@@ -1,0 +1,30 @@
+http://www.4-traders.com/INTERPUBLIC-GROUP-OF-COMP-13096/news/Interpublic-of-Probe-of-Ashley-Madison-Website-Breach-Faults-Safeguards-22944664/
+90
+9
+OTTAWA-The parent company of infidelity website Ashley Madison failed to build a privacy and security framework to protect its customers, according to a joint probe by Canadian and Australian privacy authorities.
+
+The investigation, which identified a number of privacy-law violations in both Canada and Australia, was undertaken after the Ashley Madison website was hacked roughly a year ago, and results were released Tuesday.
+
+The privacy watchdogs said some information about the site's security practices that might have influenced a decision by the public to use the site was "either absent, difficult to understand or deceptive," their report said.
+
+Canada-based Ashley Madison-which bills itself as "the online personals & dating destination for casual encounters, married dating, discreet encounters and extramarital affairs"-was thrust in the spotlight last year when cybercriminals posted online stolen customer information, including customers' credit-card details, addresses and sexual preferences.
+
+Toronto police described the hack as one of the largest data breaches in the world.
+
+Ashley Madison's parent, formerly Avid Life Media Inc. but since rebranded as Ruby Corp., is under investigation by the U.S. Federal Trade Commission for its business practices, the company disclosed last month.
+
+The Canada-Australia probe focused on whether at the time of the data breach Avid Life had proper safeguards to protect clients. The findings of the Canada-Australia report offer no conclusions with respect to the cause of the data breach itself. Further, law-enforcement officials haven't identified anyone associated with committing the hack.
+
+According to a statement from Canada's Privacy Commissioner, the joint probe found Avid Life's information security safeguards "insufficient or absent." The probe also found the company placed "phony" icons on its home page to reassure users regarding privacy worries, such as a medal labeled "trusted security award;" and a lock indicating the website was "SSL secure."
+
+"Handling huge amounts of this kind of personal information without a comprehensive information security plan is unacceptable," said Daniel Therrien, Canada's privacy watchdog.
+
+Ruby said in a statement it has voluntarily entered into compliance agreements with Canadian and Australian privacy authorities that would implement new security measures and other recommendations to protect against future hacks and the disclosure of its customers' personal information.
+
+"The company has cooperated with the commissioners throughout their investigation and will continue to share information with them as we honour the terms of the compliance agreement and enforceable undertaking," said Rob Segal, the company's chief executive.
+
+Mr. Segal, who previously ran a communications firm that was later acquired by Interpublic Group of Cos., was named Ruby's new CEO in July as the company attempts to rebrand itself beyond the infidelity moniker.
+
+The data breach led to several cases of extortion of Ashley Madison clients in which the clients were threatened with exposure unless they paid 300 Canadian dollars (about US$240) to the hackers, according to Toronto police.
+
+Write to Paul Vieira at paul.vieira@wsj.com and David George-Cosh at david.george-cosh@wsj.com

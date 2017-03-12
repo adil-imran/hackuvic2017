@@ -1,0 +1,22 @@
+http://www.sfgate.com/business/article/What-should-your-virtual-assistant-sound-like-9960984.php
+90
+9
+What should your virtual assistant sound like?
+
+Jason Mars is an African American professor of computer science who also runs a tech startup. When his company’s artificially intelligent smartphone app talks, he said, it sounds “like a helpful, young Caucasian female.”
+
+“There’s a kind of pressure to conform to the prejudices of the world” when you are trying to make a consumer hit, he said. “It would be interesting to have a black guy talk, but we don’t want to create friction, either. First we need to sell products.”
+
+Mars’ startup is part of a growing field called conversational computing. This technology is found in programs like Siri in Apple’s iPhone, and Alexa, which is built into the Echo, Amazon’s home computing device.
+
+Conversational computing is holding a mirror to many of society’s biggest preconceptions around race and gender. Listening and talking are the new input and output devices of computers. But they have social and emotional dimensions never seen with keyboards and screens.
+
+Do we, for example, associate the stereotypical voice of an English butler — think of Jarvis the computer in “Iron Man” — with a helpful and intelligent person? And why do so many people want to hear a voice that sounds like it came from a younger woman with no discernible accent?
+
+Choosing a voice has implications for design and interacting with machines. A voice can influence how we see each other. Where commerce is concerned, that creates a problem: Is it better to succeed by complying with a stereotype, or risk failure by going against type?
+
+For many, the answer is initially clear. Microsoft’s artificially intelligent voice system is Cortana, for example, and it was originally the voice of a female character in the video game “Halo.”
+
+“In our research for Cortana, both men and women prefer a woman, younger, for their personal assistant, by a country mile,” said Derek Connell, senior vice president for search at Microsoft. In other words, a secretary — a job that is traditionally seen as female.
+
+Last week, Google introduced a number of voice-based products, including Google Home, its version of Echo. All of them use Google Assistant, which also speaks in tones associated with a young, educated woman.

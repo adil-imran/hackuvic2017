@@ -1,0 +1,44 @@
+https://www.thestar.com/business/2016/09/12/spacex-crowd-sources-clues-to-launchpad-explosion.html
+110
+11
+The closely held company wants to quickly find the cause of the blast that engulfed its Falcon 9 rocket minutes before a scheduled pre-launch engine test on Sept. 1. As is typical after a mishap, all rocket flights for Musk’s Space Exploration Technologies Corp. have been grounded, halting operations just as the company was accelerating to its fastest-ever launch tempo to capitalize on a $10 billion backlog of scheduled missions.
+
+The ignition source for the fireball wasn’t readily apparent and the spacecraft was idle at the time of the incident, Musk wrote in a tweet Friday. He also asked for any recordings of the event to be e-mailed to the Hawthorne, Calif.-based rocket maker.
+
+SpaceX has asked witnesses to share video, photos and audio of a launchpad explosion that destroyed a satellite-bearing rocket last week, a mystery that billionaire founder Elon Musk called the most “difficult and complex failure” in the company’s 14 years.
+
+“Turning out to be the most difficult and complex failure we have ever had in 14 years,” Musk wrote on his verified Twitter account. “Important to note that this happened during a routine filling operation. Engines were not on and there was no apparent heat source.”
+
+While no one was injured in the SpaceX blast, the Internet is already buzzing with theories from a failure of the rocket’s liquid oxygen tank to a drone strike.
+
+There’s little precedent for the accident or its aftermath, with Musk turning to crowd-sourcing in an attempt to gather additional clues. The Space Foundation, a nonprofit advocate of space flight, pointed to a handful of potentially similar accidents over a half century, including a launch pad failure that consumed a Titan D rocket in 1960 and an accident 20 years later at Russia’s Plesetsk Cosmodrome that destroyed an R-7 rocket and killed 48 people.
+
+“The situation opens one’s mind up to wild speculation,” said Hans Weber, an aerospace consultant. “That’s another reason why it’s so important to find out what happened.”
+
+About 20 people from SpaceX, the Federal Aviation Administration, the National Aeronautics and Space Administration and the U.S. Air Force, as well as other industry experts, are part of a core team that’s evaluating data to determine the cause of the anomaly, according to a person familiar with the investigation. Hans Koenigsmann, SpaceX’s vice president of flight reliability, is leading the probe on behalf of SpaceX. The FAA has oversight authority.
+
+The group will be conducting a thorough “fault tree analysis” to try to determine what went wrong. It’s unlikely that SpaceX will return to flight until the investigators reach a consensus, said the the person, who asked not to be named due to the continuing investigation. Commercial spacecraft operators need a license from the FAA to fly, plus U.S. Air Force approval.
+
+Investigators will try to determine if the root cause stemmed from design, manufacturing or operational flaws — or subtle errors that rippled across multiple facets of the rocket and launchpad, said Scott Pace, director of the Space Policy Institute at George Washington University’s Elliott School of International Affairs. SpaceX’s practice of rapid innovation may also be under the microscope given the company’s practice of frequently redesigning components on its vehicles, he said.
+
+“These things typically do take several months to untangle,” Pace said. “The most difficult situation is when things remain vague. I hope they find the root cause fairly quickly. Even if it’s serious, it’s better to know than not know.”
+
+Musk’s public musings on Twitter about the mysterious blast are a far cry from the secretive commissions that traditionally investigated NASA’s rocket failures.
+
+“With private industry now in the launch business, it’s a bit different, it’s more open,” said Weber, who heads Tecop International, a San Diego-based consultant.
+
+SpaceX has won contracts across government and commercial sectors by undercutting rivals with its $60 million U.S. Falcon 9 rides. The company had launched successfully eight times this year and was gearing up to a twice-monthly launch tempo. It’s goal was to reach 18 flights this year and at least 24 launches in 2017.
+
+The spacecraft had been filled with a common rocket fuel that explodes when mixed with liquid oxygen. While there are many potential scenarios, a spark, static discharge, or metal on metal collision may have been enough to set off that mixture, said Josh Barker of the National Space Centre in Leicester, England. Explosions on the pad are less common than accidents after launch, because with the engines turned off, staffers have more control over the process, he said.
+
+“The request for more footage and assistance that Musk has called for shows that this investigation could still have a long way to go,” Barker said. “Accidents such as these can put operations on hold for up to 12 months.”
+
+The accident occurred eight minutes before a scheduled test firing of the rocket’s engines. SpaceX said it began searching for the root cause of the accident immediately after the loss, reviewing about 3,000 channels of telemetry and video data covering 35 to 55 milliseconds.
+
+“Particularly trying to understand the quieter bang sound a few seconds before the fireball goes off. May come from rocket or something else,” Musk tweeted Friday. Asked on Twitter whether it was possible that a foreign object had struck the rocket, Musk replied: “We have not ruled that out.”
+
+Data showed the anomaly started around the upper stage liquid oxygen tank, the company said. After a Twitter user suggested that a noise sounded like a metal joint popping under stress, perhaps a “weld failing on a strut” or seam bursting, Musk responded, “Most likely true, but we can’t yet find it on any vehicle sensors.”
+
+Last week’s dramatic blast, photos of which were splashed across world media, was the second major mishap for SpaceX in little more than a year. On June 28, 2015, a Falcon 9 rocket carrying a Dragon spacecraft with cargo destined for the International Space Station blew apart 2 minutes and 19 seconds after launch. The cause was determined to be a two-foot-long, inch-thick strut in a liquid oxygen tank that snapped.
+
+The company returned to flight less than six months later, when it launched and landed a Falcon 9 rocket for the first time. In April, SpaceX landed its Falcon 9 rocket upright on a drone ship bobbing in the Atlantic Ocean for the first time ever, a key milestone toward the company’s goal of reusing rockets and sending humans to Mars. Musk is expected to provide further detail his plans for Mars when he delivers a Sept. 27 speech at the International Astronautical Congress in Guadalajara, Mexico.

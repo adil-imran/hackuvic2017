@@ -1,0 +1,14 @@
+http://www.ibtimes.com/anaheim-police-may-have-used-aerial-dirtbox-surveillance-over-disneylands-16-million-2283863
+154
+15
+Police in Anaheim, California, admit using aerial surveillance to track mobile phone activity in the city that's home to Disneyland. The acknowledgement came Wednesday in a cache of documents obtained by the American Civil Liberties Union of California, which found that Anaheim police have owned the surveillance technology since 2009.
+
+The device, widely known as a Dirtbox, emits the same kind of signal that typically comes from legitimate cell phone towers. The tactic tricks cell phones to connect with a Dirtbox instead of the nearest cell tower, giving police location data, unique identification code and other information from thousands of phones without a warrant. Dirtboxes comb over an area in small police planes, though stingray surveillance is used for the same purpose and transported in a police ground vehicle.
+
+“This cell phone spying program – which potentially affects the privacy of everyone from Orange County's 3 million residents to the 16 million people who visit Disneyland every year – shows the dangers of allowing law enforcement to secretly acquire surveillance technology,” wrote Matt Cagle, technology and civil liberties policy attorney for the ACLU, in a blog post announcing the discovery Wednesday.
+
+Only police in Chicago and Los Angeles have previously revealed their use of Dirtboxes. Stingrays have been more widely adopted, thanks in part to large grants from the Department of Homeland Security. The surveillance was initially meant to help major national security investigations, though police have since admitted using stingrays to solve crimes like a stolen cell phone.
+
+Police and the FBI have been reluctant to reveal how many agencies use this kind of surveillance, or how often. Last year, though, an FBI official made it clear that some intelligence-gathering methods may disrupt cell networks.
+
+“Its use has the potential to intermittently disrupt cellular service to a small fraction of Sprint's wireless customers within its immediate vicinity,” Special Agent Michael Scimeca wrote in an explanation to a judge of a stingray. “Any potential service disruption will be brief and minimized by reasonably limiting the scope and duration of the use of the mobile equipment.”

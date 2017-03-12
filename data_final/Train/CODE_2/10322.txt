@@ -1,0 +1,56 @@
+https://www.washingtonpost.com/news/the-switch/wp/2016/10/10/its-been-a-terrible-few-weeks-for-yahoo-is-it-marissa-mayers-fault/
+120
+12
+
+
+Yahoo chief executive Marissa Mayer is seen in 2014. (Robyn Beck/AFP/Getty Images)
+
+Marissa Mayer has faced plenty of scrutiny since becoming Yahoo's chief executive in mid-2012. But two recent incidents at Yahoo have some industry analysts again questioning Mayer’s judgment.
+
+First, Yahoo submitted a filing to financial regulators last month that stated it did not know of any significant security breaches, even as the company was investigating what would turn out to be an unprecedented hack of 500 million accounts. Then last week, Reuters reported that Mayer intentionally hid an initiative from her own security team to scan the incoming emails of all of Yahoo users on behalf of the U.S. intelligence community — a decision that led to the resignation last year of Yahoo's top security guru.
+
+Ailing tech giant Yahoo confirmed a data breach affecting hundreds of millions of accounts. The breach is among the largest on record. (Jhaan Elker/The Washington Post)
+
+Mayer’s leadership in those situations, some critics say, show disarray and a disregard for user security that may have helped fuel dysfunction inside Yahoo.
+
+Of course, it’s hard to know exactly who made these decisions. Some such as Forrester Research principal security analyst Jeff Pollard, say Mayer is ultimately responsible for what happens on her watch.
+
+“If you get credit for the successes, you have to take credit for the failures,” he said.
+
+The pessimism about Mayer is a far cry from how she was viewed when she joined Yahoo four years ago. If anyone could make Yahoo relevant again, some thought, it would be Mayer. The executive from Google, where she was the company’s 20th employee and its first female engineer, almost instantly became an icon for women in an industry dominated by male leaders.
+
+But Mayer, who had never led a company, inherited an ailing tech giant struggling to redefine itself in an era dominated by Google and Facebook. And her boldest strategies — such as an acquisition spree during which Yahoo picked up some 50 companies and brought on Katie Couric as the company’s “global anchor” — failed to attract a younger, mobile audience at the rate Yahoo needed to stage a comeback.
+
+Recent reports about how she approached user security is making her tenure look even bleaker as the company is closing a $4.8 billion deal to sell its core business to Verizon. Industry analysts have speculated that Verizon could renegotiate for a better price — or kill the deal altogether.
+
+Some raised concerns about the timeline of the company’s investigation when Yahoo announced its massive security breach last month. Yahoo said it began investigating the incident in late August, but a Sept. 9 proxy filing with the Securities and Exchange Commission about the Verizon deal said Yahoo didn't know of “any incidents of, or third party claims alleging” security breaches that could significantly affect its business.
+
+Scott Galloway, a professor at New York University’s Stern School of Business, said Mayer probably relied on her legal counsel to vet the document rather than reviewing it herself.
+
+“However, CEOs are ultimately accountable for what’s in the proxy,” he said, “if it comes out that their lack of transparency was a function of them not wanting to hamstring the Verizon deal, then they've held material information back from an acquirer.”
+
+But according to Kim Phan, a lawyer specializing in data security at Ballard Spahr, Yahoo technically may have been on the right side of the law because its investigation was still ongoing when the filing was submitted. Still, the breach revelation could give Verizon a chance to get out of the deal or press for better terms, she said.
+
+Yahoo has long been criticized for lagging behind its peers on security — and the two years it took Yahoo to find the breach is a sign that Mayer wasn’t committing enough resources to security, according to Pollard. The security team was often denied funding, added a former Yahoo employee who spoke on the condition of anonymity because of the confidential nature of the issue.
+
+The company disagreed with that assessment. “Throughout its long history, and particularly in the last 4 years, Yahoo's executive management and entire team have invested deeply in security initiatives to protect our users, " Yahoo said in a statement, adding that it increased its “security investment by 60 percent in the last year alone."
+
+One key step Mayer took to rehabilitate Yahoo's security reputation was hiring a new chief information security officer in early 2014: widely respected industry veteran Alex Stamos.
+
+But when the government approached Yahoo with a classified order to scan all of its users' incoming emails, Mayer and Yahoo's general counsel kept Stamos in the dark, Reuters reported last week. Stamos resigned when he discovered Mayer bypassed the security team when it deployed custom software to comply with the order, Reuters said.
+
+Reuters reported that Yahoo secretly built custom software to search through their users' incoming emails for a particular set of characters for the FBI and NSA. (Jhaan Elker/The Washington Post)
+
+Stamos found out about the issue only after his team noticed the software — which they initially thought was a cyberattack, according to the former Yahoo employee. The way the software was set up also could have let hackers intercept users' messages, the person said.
+
+The decision to exclude her security team puzzled some industry analysts. “It seems to be so dysfunctional that I can’t even understand it,” said Scott Vernick, who heads the data security and privacy practice at law firm Fox Rothschild.
+
+But Mayer’s options may have been limited if the government wanted to cap how many people could know about the order, according to some experts.
+
+Still, negative perceptions about Yahoo fueled by the breach and email scanning issues “broadens the shadow” already looming over the Verizon sale, Vernick said.
+
+Verizon declined to comment on the email scanning revelation, but in a statement last month said it would evaluate Yahoo’s data breach investigation “through the lens of overall Verizon interests.”
+
+While Yahoo may face financial fallout from recent headlines, some analysts said Mayer — who could receive a substantial payout if she leaves after a Verizon deal is finalized — will probably see little personal fallout.
+
+“It won't damage her reputation that much because she's already damaged goods,” Galloway said.

@@ -1,0 +1,16 @@
+https://www.yahoo.com/news/baidu-launches-medical-assistant-chatbot-154137578.html
+90
+9
+In an attempt to make medical diagnoses easier and help both patients and doctors, Chinese search engine company Baidu has announced the launch of Melody, a medical assistant chatbot powered by artificial intelligence (AI).
+
+Reported on by VentureBeat, Melody can be found in Baidu's existing Baidu Doctor app for Android and iOS where she will collect medical information from patients before passing it on to doctors.
+
+The chatbot has been developed to ask questions on important health factors such as age and symptoms, before passing the answers on to doctors in an easy-to-use form. Doctors can then proceed with their diagnosis and respond to patients, reducing the amount of time that patients and medical professionals spend exchanging basic information.
+
+To make sure information is accurate, Melody only sends responses on behalf of doctors after the doctors have verified it, with Baidu chief scientist Andrew Ng commenting in an interview with VentureBeat that, "It's not our role to diagnose -- it's the doctors' role to diagnose. We try to assist the doctors."
+
+In an effort to make the channels of communication easier patients can also make appointments with their doctors using the Baidu app.
+
+Recognized as one of the experts in his field, Ng has developed Melody with a type of AI called deep learning, which involves training artificial neural networks on large amount of labeled data and then making inferences about new data. Deep learning is used for many different purposes, including speech recognition and object detection. Melody herself was taught how to interact with patients' chat messages using real online text conversations between doctors and patients, with Ng adding that "There's a ton of data," behind Melody's development.
+
+However at the moment Melody can only communicate in and understand Chinese and is only available to patients and doctors in China, with Ng commenting that "I don't think we have an announcement to make right now about English-language products, but I guess there are other possibilities."

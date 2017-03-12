@@ -1,0 +1,30 @@
+https://www.rt.com/news/361549-russia-decrypt-viber-whatsapp/
+10
+1
+Russian cybersecurity companies have a greenlight to decrypt traffic of such popular communication tools as Viber, WhatsApp, Skype and Facebook Messenger, a popular business daily reports. The measure is connected to a recently-adopted anti-terrorism law.
+
+“We are going to look into the main messengers — WhatsApp, Viber, Facebook Messenger, Telegram, Skype both for iOS and Android,” Kommersant cites a letter from an employee of Con Certeza, a company dealing with the development of tools necessary for enforcing law in the telecommunications field.
+
+The employee wrote that the company aims to make conclusions about the possibility of accessing sensitive data – which includes identifying the parties, their passwords and the content of the messages, including using the Man-In-The-Middle (MITM) attacks – and to come up with a working prototype for a system, if such a possibility exists.
+
+Con Certeza is reportedly planning to hire a contractor to research the messengers, each of them for two months. It is reported that it plans to start with Viber.
+
+If accessing and decrypting end-to-end messenger traffic appears not to be possible in mobile operator systems in line with the existing regulatory requirements, the contractor would have to give its reasons.
+
+The controversial package of anti-terrorism laws recently passed in Russia was prepared by a group of lawmakers headed by the chair of the State Duma Committee for Security, Irina Yarovaya, and is known as the ‘Yarovaya Law’ in Russia.
+
+Read more
+
+The document was first drafted as a response to the bombing of a Russian passenger plane in Egypt last year, and the terrorist attacks in Paris. Among other anti-terrorism measures, it obliges all communications companies, including internet providers, to retain information about data traffic on their servers for three years (one year for messengers and social networks). Actual records and messages must also be kept for six months.
+
+The law also requires social media and communications companies to assist state security agencies in reading encrypted data by handing over encryption keys. Non-compliance could result in fines.
+
+The amendments concerning data storage and security should come into force in 2018, giving data companies time to restructure and prepare the necessary hardware. The remainder of the anti-terrorist package came into force as of July 20 this year.
+
+READ MORE: FSB mulls total real-time decoding of Russian web traffic - report
+
+
+
+About two weeks ago, Kommersant reported that Russia’s Federal Security Service (FSB) intends to implement a technical system that would allow decoding all Russian internet traffic in real time, scanning it for keywords indicating potential threats.
+
+The daily added that the FSB is currently holding consultations with the Communications Ministry and the Industry and Trade Ministry in order to develop a technical system to back the Yarovaya Law.

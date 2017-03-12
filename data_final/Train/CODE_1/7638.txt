@@ -1,0 +1,64 @@
+http://www.france24.com/en/20160111-focus-france-communities-charlie-hebdo-attacks-paris-building-bridges
+202
+20
+IN THE PAPERS
+
+IN THE PAPERS
+
+Our Focus programme brings you exclusive reports from around the world. From Monday to Friday at 7.45 am Paris time.
+
+© 2016 Copyright France 24 – All rights reserved France 24 is not responsible for the content of external websites
+
+Beyond the news
+
+Sign Up / Sign In With your existing account from... {* loginWidget *}
+
+With a traditional account... {* #signInForm *} {* signInEmailAddress *} {* currentPassword *} Forgot your password? Sign In Create Account {* #signInForm *} {* signInEmailAddress *} {* currentPassword *}{* /signInForm *}
+
+Sign In Welcome back, {* welcomeName *} {* loginWidget *} Use another account {* loginWidget *}
+
+Sign In Welcome back! Sign In {* /signInForm *} Use another account {* #signInForm *} {* signInEmailAddress *} {* currentPassword *}{* /signInForm *}
+
+Deactivated Account Your account has been deactivated.
+
+Email address Not Verified You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email. {* #resendVerificationForm *} {* signInEmailAddress *} {* /resendVerificationForm *} {* #resendVerificationForm *} {* signInEmailAddress *} {* /resendVerificationForm *}
+
+Almost Done! Please confirm the information below before signing in. {* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} By clicking "Create Account", you confirm that you accept our {* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} By clicking "Create Account", you confirm that you accept our terms of service and have read and understand privacy policy . {* /socialRegistrationForm *}
+
+Almost Done! Please confirm the information below before signing in. Sign In {* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} {* newPassword *} {* newPasswordConfirm *} By clicking "Create Account", you confirm that you accept our {* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} {* newPassword *} {* newPasswordConfirm *} By clicking "Create Account", you confirm that you accept our terms of service and have read and understand privacy policy . {* /registrationForm *}
+
+Thank you for registering! We have sent a confirmation email to {* emailAddressData *}. Please check your email and click on the link to activate your account.
+
+Create a new password We'll send you a link to create a new password. {* #forgotPasswordForm *} {* signInEmailAddress *} {* /forgotPasswordForm *} {* #forgotPasswordForm *} {* signInEmailAddress *} {* /forgotPasswordForm *}
+
+Create a new password We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+{| rendered_current_photo |} {| current_displayName |}
+
+{| current_emailAddress |} {| foundExistingAccountText |} {| current_emailAddress |}. {| moreInfoText |} {| existing_displayName |}
+
+{| existing_provider_emailAddress |} Created {| existing_createdDate |} at {| existing_siteName |} {| rendered_existing_provider_photo |} {| connectLegacyRadioText |} {| createRadioText |} {| current_provider |} Validating {* mergeAccounts {"custom": true} *}
+
+Sign in to complete account merge {* #signInForm *} {* signInEmailAddress *} {* currentPassword *} {* /signInForm *}
+
+Resend Email Verification Thank you for verifiying your email address. {* #resendVerificationForm *} {* signInEmailAddress *} {* /resendVerificationForm *} {* #resendVerificationForm *} {* signInEmailAddress *} {* /resendVerificationForm *}
+
+Your Verification Email Has Been Sent Check your email for a link to reset your password.
+
+You did it! Thank you for verifiying your email address.
+
+Change password {* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm *} {* /changePasswordFormNoAuth *} {* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm *} {* /changePasswordFormNoAuth *}
+
+Your password has been changed Password has been successfully updated.
+
+Close We didn't recognize that password reset code. Enter your email address to get a new one. {* #resetPasswordForm *} {* signInEmailAddress *} {* /resetPasswordForm *} {* #resetPasswordForm *} {* signInEmailAddress *} {* /resetPasswordForm *}
+
+Create a new password We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+Edit Your Account Profile Photo {* photoManager *} Linked Accounts Link your accounts Allows you to sign in to your account using that provider in the future. {* loginWidget *} {* /linkAccountContainer *} {* linkedAccounts *} {* #linkAccountContainer *}{* /linkAccountContainer *} Password Change Password Deactivate Account Deactivate Account Account Info
+
+{* publicPrivate *} {* journalistContact *} Subscribe to newsletters {* newsMenu *} {* optinalert *} {* optinBestofWeek *} {* optinBestofWEnd *} {* optinBestofObs *} {* newsMenuEn *} {* optinalertEn *} {* optinBestofWeekEn *} {* optinBestofWEndEn *} {* optinBestofObsEn *} {* newsMenuAr *} {* optinalertAr *} {* optinBestofWeekAr *} {* optinBestofWEndAr *} {* optinBestofObsAr *} {* optinAutopromo *} {* optinPartenaires *} {* optinActuMonde *} {* optinActuAfrique *} {* optinAlert *} {* optinRfiAfriqueFootFr *} {* optinMfi *} {* optinActuMusique *} {* optinOffreRfi *} {* optinOffrePartenaire *}
+
+{* savedProfileMessage *} {* /editProfileModalForm *} {* #editProfileModalForm *}{* /editProfileModalForm *}
+
+Change password {* #changePasswordForm *} {* currentPassword *} {* newPassword *} {* newPasswordConfirm *} {* /changePasswordForm *} {* #changePasswordForm *} {* currentPassword *} {* newPassword *} {* newPasswordConfirm *} {* /changePasswordForm *}

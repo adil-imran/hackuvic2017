@@ -1,0 +1,30 @@
+http://www.firstpost.com/politics/debit-card-scare-by-demanding-sbi-chiefs-resignation-congress-is-politicising-a-big-problem-3068748.html
+120
+12
+As the scare of bigger debit card frauds is spreading fast after last week's ATM security breach, the Congress has released a statement demanding the resignation of State Bank of India (SBI) chief Arundhati Bhattacharya. One of the worst hit, the country's largest bank has blocked or is in the process of replacing about six lakh debit cards that it suspects may have been compromised.
+
+Congress party spokesman Tom Vadakkan has expressed concern as about 70 lakh cards have been affected in the "massive data breach", which he feels is "one of the biggest scams". Alleging that SBI was the "mothership" of the scam, he has sought the resignation of Bhattacharya.
+
+The party, however, seems to have jumped the gun with the demand for more reasons than one.
+
+First and foremost, the ATM security breach is only unfolding. There is a probe ordered by the government. National Payments Corporation of India, an umbrella organisation for all retail payments system in India, has been told to investigate and find out how the breach happened. A report along with steps to be taken to prevent any future occurrence will be submitted. As the probe is on, it is too early to lay the blame on any one bank.
+
+Secondly, SBI is not the only bank that is hit. According to NPCI, 19 banks are at the receiving end. As many as 641 customers have been affected and Rs 1.3 crore has been siphoned off. The SBI will definitely be the most impacted because it has the largest customer base in the industry.
+
+Thirdly, the reason for the breach is not SBI. According to media reports, the breach happened due to a malware infestation of the systems of Hitachi Payment Services. This possibly impacted YES Bank ATMs, which witnessed a lot of third-party transactions. This is likely to have exposed cards of other banks. YES Bank has consistently maintained that it "has proactively undertaken a comprehensive review of its ATMs", and that "there is no evidence of a breach or compromise on YES BANK ATMs".
+
+"It was suspected that a compromise was at the switch level which is PCI-DSS certified. Hence, subsequently PCI Council (the international body which sets standards on for PCI–DSS) was persuaded to conduct a forensic audit of the switch of one bank which is likely to be the point of compromise. The forensic study is in progress and NPCI is in touch with relevant stakeholders," NPCI too said in a statement.
+
+Clearly, there is nothing here to blame, leave alone SBI or Bhattacharya, yet.
+
+Fourthly, experts aver that cyber theft is a global issue. As more and more banking transactions go digital, the threat increases too.
+
+In India too, digitisation is catching up big time in keeping with the government's thrust on moving to a cashless economy. As of now, there are many experts who believe that the RBI is on top of security measures. The one-time password (OTP) system put in place by the central bank is a tight security measure, they say.
+
+Indian banks are following the RBI guideline on cyber security. SBI is no different. So why single out SBI and Bhattacharya?
+
+This is not to say that the banks are not at fault. They definitely are. As cyber security expert Sanjay Pandey argues in this Firstpost column, "negligence in safekeeping of citizen’s money surely is criminal and needs to be investigated". The criminality needs to fixed to prevent any repetition in the future.
+
+But the Congress's demand for Bhattacharya's head is misplaced. It will at the most politicise a major problem that the cyber world is facing.
+
+By making such a demand, the Congress is blindly replicating the BJP's pre-election strategy - of politicising anything and everything. Such a strategy is not the right way to deal with a looming danger like cyber security threat.

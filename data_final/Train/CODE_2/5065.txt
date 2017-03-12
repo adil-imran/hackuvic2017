@@ -1,0 +1,28 @@
+http://www.businessinsider.com/police-may-soon-be-able-to-use-twitter-to-predict-hate-crimes-2016-9
+84
+8
+We're about to find out if tweets can be used to predict actual hate crimes.
+
+There's no shortage of hate speech on the internet.
+
+But for police analysts trying to predict who will actually commit a hate crime, using algorithms to sort through the firehose of bile that flows through a site like Twitter can benearly useless.
+
+Because Twitter is home to thousands of vile throwaway accounts with names like @RedPillKiller and @Goebbels_Pepe_69, identifying the next Dylann Roof or Elliot Rodger is like finding a needle in a haystack of trolls.
+
+Researchers from the Rand Corporation will determine exactly how hard it is. They plan to spend three years mapping out hate crimes in Los Angeles and evaluating them against the Twitter activity in the same area.
+
+The project begins in January, and project lead Meagan Cahill hopes that they can develop a model that determines what kind of social media activity can point to potential hate crimes before they happen.
+
+The other possible outcome of the experiment is the realization that social media is useless for predicting hate crimes.
+
+"If there's strength in the model, we'll take the next step toward the predictive element," Cahill said. "But if there's no correlation, the conclusion may be that there's no correlation between Twitter and what's happening on the ground."
+
+Rand will work with a model built by researchers at Cardiff University, who have already had marginal successes using Twitter to map crime patterns. Matthew Williams, a Cardiff University researcher on computational criminology, told Mic last year that without relying on existing police models to inform them, machines alone will often make flawed deliberations.
+
+"When you add more and more data into these models, you'll have correlation in the dataset where none actually exist," Williams said. "Or you get correlations between sets of words that mean very little."
+
+Then again, existing surveillance programs are filled with the traditional biases that plague the American policing process. Privacy advocates warn that the slow creep of online expression into police surveillance tools is a violation of personal rights.
+
+"People of color have long been the targets of government surveillance — but today's technology makes it more concerning than ever," Georgetown University Law Center's Alvaro Bedoya said in an ACLU release last week. "Communities are being confronted with the very real possibility that law enforcement is tracking them wherever they go — at work, school, places of worship and political gatherings."
+
+The funding for the study is a $600,000 grant by the U.S. Department of Justice, which has spent over $23 million on tools like predictive crime mapping since 2003. High-tech policing programs at local departments are often funded through federal money.

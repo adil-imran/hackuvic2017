@@ -1,0 +1,40 @@
+http://www.irishtimes.com/business/personal-finance/proinsias-o-mahony-bubble-phobia-will-cost-investors-1.2801939
+133
+13
+Market bubbles can be dangerous, but the fear of market bubbles may be even more detrimental to long-term investors than the bubbles themselves.
+
+“Bubbles are booms that went bad,” says Yale finance professor William Goetzmann. “Not all booms are bad.” In fact, his rcent study, ‘Bubble Investing: Learning from History’, indicates the odds that a market boom will be followed by a serious bust are quite slim – in only 10 per cent of cases were prior gains wiped out.
+
+Goetzmann’s paper looks at data covering a broad panel of global equity markets since 1900, looking for “large, sudden increases” in market value. He found 72 instances where markets doubled in a single year. A market crash in the following year – defined as a fall of at least 50 per cent – occurred on just three occasions. In fact, markets were more likely to double again over the following year, with six such instances recorded.
+
+Of course, bubbles may take some time to deflate, prompting Goetzmann to look for examples where soaring markets subsequently halved over a five-year period. In 15 per cent of cases, markets had indeed crashed to less than half their prior peak. However, 27 per cent of the time, markets went on to at least double again.
+
+In other words, a boom increases the odds of a crash, but the crash probability remains low – much lower than the odds of sustained gains. “A rapid boom is not a strong indicator of a bust”, says Goetzmann. “Probabilities move from 2 per cent to 4 per cent at the one-year horizon and from 6 per cent to 15 per cent at the five-year horizon.”
+
+Dotcom bubble
+
+Doubling in a single year is a very restrictive definition of a boom. The infamous dotcom bubble of the 1990s, for example, evolved over several years; so did the 1920s boom that eventually culminated in the crash of 1929. To ensure those aforementioned examples were included, Goetzmann loosened his definition of market booms, looking for cases where markets doubled over a three-year period.
+
+He found 460 instances where stocks doubled in price over a three-year period. A year later, stocks had halved in just 4.5 per cent of cases. Five years later, stocks had halved in 10 per cent of cases. Again, the odds of a crash are greater following market booms – in so-called ‘normal’ markets, stocks halved over five-year periods just 6 per cent of the time – but the difference is a relatively undramatic one. Furthermore, stocks are much more likely to continue appreciating, going on to double in 22 per cent of cases.
+
+“The fact that probabilities of a decline increase from 6 per cent to 10 per cent following a three-year boom may not be as relevant to investor choice”, says Goetzmann, “as the fact that the chance of doubling in value is twice the chance of halving in value over that same horizon.”
+
+Different definitions
+
+Sceptics might counter that there are different ways of defining a bubble. Iconic value investor and GMO founder Jeremy Grantham, who famously predicted the global financial crisis of 2008-09, the dotcom implosion of 2000-02 and the Japanese equity crash that began in 1989, defines major bubbles as occasions where prices exceed their long-term trend by two standard deviations. Such bubbles almost invariably burst; in 2013, Grantham said that 33 of 36 major historical bubbles tracked by GMO had eventually reverted to their prior trend.
+
+However, most commentators use the word “bubble” in a much looser fashion than Grantham. Headline writers are particularly culpable. “US stocks surge back toward bubble territory”, headlined the widely-read Business Insider website in January 2010, prior to six years of consecutive market gains. “Five signs that Apple is a bubble”, headlined Forbes in 2012, only for Apple to remain the world’s most valuable company by market capitalisation for almost all of the following four years. The same publisher wrote off Facebook in 2014: “Facebook stock is classic example of bubble” (Facebook has almost doubled since then).
+
+Similarly, it is all too common for commentators to point to a handful of daft-looking valuations as evidence of a broader market bubble. In May, the New York Times suggested the “sudden surge in hyperprice homes” – the handful of luxury houses on sale for $100 million or more – was the “ultimate bubble signal”. There have been endless warnings of another technology bubble in recent years, mainly on the basis that certain social media stocks were attracting eye-catching valuations, even though the overall technology sector has mainly traded at levels comparable to historical norms.
+
+Shiller’s checklist
+
+Nobel economist Robert Shiller, who famously diagnosed the technology bubble of the late 1990s as well as the housing bubble of the mid-noughties, has attempted to define bubbles in more rigorous terms. Shiller says bubbles resemble mental illnesses that can be diagnosed by a list of symptoms, including rapidly increasing prices; the spread of stories used to justify the price increases; people boasting about how much money they’re making; widespread feelings of regret and envy among those not participating in the bubble; and the involvement of the news media. Irish readers will recognise those descriptions, which perfectly describe the Irish property bubble at its height, as will investors who bought into the dotcom bubble during the late 1990s.
+
+However, Eugene Fama, who shared the Nobel prize with Shiller in 2013 and who has little time for talk of market bubbles (“the word ‘bubble’ drives me nuts”), has pointed out that Shiller’s checklist could also have been used to describe high-flying Google in the years following its 2004 initial public offering (IPO). Today, Google is vying with Apple for the status of the world’s most valuable company. Similarly, Shiller’s checklist also captures the mood towards Microsoft shares in the early 1990s, Amazon in the late 1990s, and Facebook and Apple in more recent years. All proved to be spectacular investments.
+
+Assessing the odds
+
+Press coverage tends to focus on past bubbles that were followed by crashes, giving the impression that what goes up invariably comes down. That was not the case for the above-mentioned companies, however. Nor was it true, says Professor Goetzmann, of the broad market advances seen in the three-year periods leading up to 1935, 1945, 1956 and 1997, all of which resembled the booms of 1928 and 1999. Focusing on a handful of terrible market crashes ignores the base rate for market booms, he says, most of which tend to be buying opportunities rather than precursors to inevitable doom.
+
+Rational investing in uncertain climes demands a cold assessment of the odds. “The bubbles that did not burst are just as important for investors to know about as bubbles that did burst”, cautions Goetzmann. Placing too much weight on avoiding a bubble, or overestimating the frequency of crashes following market booms, “is dangerous for the long-term investor”.

@@ -1,0 +1,18 @@
+http://www.bloomberg.com/news/articles/2016-04-05/whatsapp-bolsters-encryption-to-avoid-government-hacker-eyes
+202
+20
+Only senders and recipients can see or hear messages on app
+
+In the face of increasing government requests for digital information and the rising threat posed by hackers, WhatsApp is taking steps to make sure its users’ chats are kept secret.
+
+The mobile-messaging application with 1 billion users, which Facebook Inc. acquired for $22 billion in 2014, updated its service to provide full end-to-end encryption. That means that only senders and recipients can see or hear the content sent through WhatsApp, including photos, videos, group chats and voice calls.
+
+“When you send a message, the only person who can read it is the person or group chat that you send that message to,” WhatsApp co-founders Jan Koum and Brian Acton wrote in a blog post Tuesday. “No one can see inside that message. Not cybercriminals. Not hackers. Not oppressive regimes. Not even us.”
+
+The boost to security coincides with an intensifying debate around the world on data encryption, customer privacy and security. WhatsApp itself has run into increasing conflict with governments in various countries that want greater access to users’ messages. The application was temporarily blocked in Brazil, for example, during a December dispute after the company refused to turn over the content of communications between alleged drug dealers involved in a criminal case.
+
+Exclusive insights in your inbox, from our technology reporters around the world. Get Fully Charged, from Bloomberg Technology. Business Your daily briefing on the most important business stories of the day. You will now receive the Business newsletter Politics The latest political news, analysis, charts, and dispatches from the campaign trail. You will now receive the Politics newsletter Markets Your daily must-read for the most important news in markets. You will now receive the Markets newsletter Pursuits The best from Bloomberg on style, food and travel. Without opening 50 tabs. You will now receive the Pursuits newsletter Game Plan Advice nobody tells you about getting ahead at work, school and life. You will now receive the Game Plan newsletter WhatsApp was a strong supporter of Apple Inc. in its dispute with the FBI over an order that the company help unlock an iPhone that belonged to one of the shooters in a December massacre in San Bernardino, California. Koum, who is also WhatsApp’s chief executive officer, argued that asking a company to undermine the security of its product for an investigation would weaken the security of everyone in the long term.
+
+In the blog post, Ukranian-born Koum said his reasons for supporting stronger data protection are personal, citing his childhood in the USSR during communist rule.
+
+“The fact that people couldn’t speak freely is one of the reasons my family moved to the United States,” he wrote. “While we recognize the important work of law enforcement in keeping people safe, efforts to weaken encryption risk exposing people’s information to abuse from cybercriminals, hackers, and rogue states.”

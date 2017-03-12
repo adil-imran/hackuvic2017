@@ -1,0 +1,62 @@
+http://www.asianews.network/content/cyberattacks-targeted-japans-nuclear-lab-30126
+100
+10
+The possibility of cyberattacks was discovered in June this year, and there are fears that information may have been stolen from the computer terminal of a researcher at the university’s Hydrogen Isotope Research Center.
+
+An expert on cybersecurity said: “Pieces of information vital to national security were among the data targeted. It is urgent to improve the level of security at universities that store information assets.”
+
+Targeted cyberattacks aim at stealing information from specific individuals and organisations. In this incident, a personal computer (PC) used by a researcher, specialising in science and engineering studies on tritium, was found to have been attacked.
+
+The PC was infected with a computer virus in November last year and had been subject to remote control until late December. During the period, more than 1,000 compressed files were produced by the malware.
+
+The attacker is believed to have produced the compressed files to more easily transmit the information outside. Huge volumes of data were transmitted during the time.
+
+Additionally, in March this year, more compressed files were produced, and the data they contained was transmitted outside.
+
+
+
+The problem came to light in June when an outside entity notified the research centre of the suspicious transmissions.
+
+An examination revealed that the compressed files leaked in March this year contained the results of research into how to remove contaminated water discharged from the Fukushima No. 1 nuclear power plant.
+
+However, the attacker coded the files, preventing the authorities from confirming the specific data contained in the large number of compressed files suspected to have been stolen until late last year.
+
+Traces indicate that the attacker searched for the word “IAEA,” an acronym for the International Atomic Energy Agency, and documents related to the word.
+
+Emails containing malware used to facilitate targeted cyberattacks were sent to other researchers at the centre around the same time the researcher’s PC was infected.
+
+The university has admitted that the cyberattacks had occurred.
+
+An official of the education, culture, sports, science and technology ministry said: “As far as we currently know, no confidential information was contained in the files suspected to have been stolen. However, we have requested the university to examine the impact in detail, including what types of information were included in the parts of the files that cannot be decoded.”
+
+However, the authorities have determined that other personal information may also have been stolen from the researcher’s PC targeted in the cyberattack. The personal information of 1,493 people belonging to other universities and research institutes with which the University of Toyama has conducted joint studies may have been leaked.
+
+Despite the possibility that the attacker would use the personal information to target a wider range of people, as of the start of this month, the University of Toyama’s research centre had yet to notify the people concerned of the potential leak.
+
+The research centre conducts basic and applied studies on tritium, which can be a primary fuel source for nuclear fusion reactors. The centre has established a reputation for technologies capable of handling highly concentrated tritium.
+
+It conducts studies in collaboration with other research institutes at home and abroad, including the National Institute for Fusion Science and the Osaka University.
+
+Itsuro Nishimoto, chief engineering officer of LAC Co., a security service firm, said: “Leaks of personal information due to cyberattacks are often viewed as problematic. However, in reality, damage to research achievements and corporate secrets are much more serious partly because such incidents do not surface in many cases, as awareness in society on the issue is weak. People should have a sense of urgency when intellectual properties that are also important for national security are targeted.”
+
+Unnatural Japanese in email
+
+An email sent to a researcher at the University of Toyama’s Hydrogen Isotope Research Center, which was the subject of cyberattacks, contained awkward Japanese sentences, according to sources.
+
+The research centre is famous for its studies on tritium, which can be the main fuel for nuclear fusion reactors.
+
+“It’s possible it (the email) was written by a foreigner,” an official of the university said.
+
+The university’s internal probe also found that about 59,000 data files, which accounted for most of those in a personal computer that was infected with a computer virus, may have been stolen.
+
+According to the university’s probe, a researcher at the centre specialising in science and engineering studies on tritium received the email in question on November 24 last year.
+
+The sender posed as a student of a famous private university in Tokyo and had met the researcher previously at an academic gathering.
+
+The student asked the researcher to answer some questions related to his/her ongoing studies.
+
+The email said the questions were in an attached file, which the researcher had opened.
+
+Tritium
+
+The nuclei of the element comprise one proton and two neutrons. However, tritium is heavier than ordinary hydrogen and is also called tritiated hydrogen. Highly concentrated liquid tritium can cause nuclear fusion reactions, making it an essential fuel for nuclear fusion reactors and a raw material for hydrogen bombs.

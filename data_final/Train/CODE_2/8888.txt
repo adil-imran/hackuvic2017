@@ -1,0 +1,22 @@
+https://www.yahoo.com/tech/samsung-gear-virtual-reality-app-165353890.html
+110
+11
+Alibaba, often referred to as the Amazon.com of China, is working on a new payment method that will allow shoppers wearing virtual reality headsets to make payments without removing the devices.
+
+In perhaps the only unsurprising moment during the saga of Samsung’s exploding Galaxy Note 7 smartphone, Oculus has pulled support for the one-time flagship device from its Gear VR headset. Although a big selling point of the new version of the Gear VR was that it added support for the Note 7, with Samsung officially halting sales of the phone for good, the phone has been stripped of any association with virtual reality.
+
+The last thing Samsung or Oculus needs is having a phone catch fire while only an inch away from someone’s eyeballs.
+
+To that end, Oculus has not just halted official support for it, but it has actively blocked the handset from working with the Gear VR. If you boot up the app on a Galaxy Note 7, Redditor Bahaman23 (via AndroidCentral) has it that the following message appears:
+
+“Customer safety is Oculus’ top priority. Oculus is removing support for all Note 7 devices on the Oculus platform. Until further notice, Note 7 devices will not be compatible with the Gear VR.”
+
+It then asks those who want to know more to contact Samsung directly.
+
+Related: All the PlayStation VR games we’ve played so far, ranked
+
+This will be a bummer for the many Galaxy Note 7 owners who have not had any problems with their new device. For safety reasons however, it seems likely that almost all of them will be recalled in short order.
+
+If you were planning to use your Note 7 for virtual reality and now have a Gear VR sat idle, you could always use Samsung’s recall and replacement system to get yourself a similarly compatible handset. While the new Gear VR may have added support for the Note 7, it also supports the Galaxy S7, S7 Edge, S6, S6 Edge and the Note 5, so there are plenty of choices for VR solutions.
+
+Of course really if you want to try VR, there are far better options we would recommend anyway. If you have a decent gaming PC, the Vive is the way to go, but there is also a solid console solution not far away now.

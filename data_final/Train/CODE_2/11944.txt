@@ -1,0 +1,30 @@
+http://www.srilankasource.com/index.php/sid/248134049
+142
+14
+LinkedIn-Microsoft deal being disrupted by Salesforce
+
+Sri Lanka Source Saturday 1st October, 2016
+
+• Microsoft and Salesforce were in a bidding battle for LinkedIn
+
+• EU will take a sterner look at the deal
+
+• Microsoft and Salesforce have been sharing a lot of rough patches
+
+CALIFORNIA, U.S. - Earlier this year, Microsoft made headlines by declaring its largest acquisition till date, sealing the deal to purchase LinkedIn for $26.2 billion.
+
+However, the agreement seems to be facing a problem now as Salesforce has reportedly tried to convince the European Union to put an end to this deal.
+
+Salesforce Chief Legal Officer Burke Norton will reportedly argue that Microsoft would dominate LinkedIn's dataset followed by the acquisition, to sway the EU's competition authority.
+
+On Thursday, in a statement, Norton stated, “Microsoft’s proposed acquisition of LinkedIn threatens the future of innovation and competition. By gaining ownership of LinkedIn’s unique dataset of over 450 million professionals in more than 200 countries, Microsoft will be able to deny competitors access to that data, and in doing so obtain an unfair competitive advantage.”
+
+Both companies, Microsoft and Salesforce, were involved in a fierce bidding battle for LinkedIn earlier this year. Microsoft, however, outbid Salesforce to win over LinkedIn.
+
+Unapologetic in his response, Microsoft President Brad Smith addressed the dominance allegations with respect to the CRM market.
+
+He stated, “The deal has already been cleared to close in the United States, Canada, and Brazil. We’re committed to continue working to bring price competition to a CRM market in which Salesforce is the dominant participant charging customers higher prices today.”
+
+Even if EU doesn’t decide to block the deal, it will reportedly take a sterner look at the deal and therefore increasing the possibility of delaying the acquisition process by several months. Microsoft and LinkedIn had anticipated that the deal would be closed by the end of the year.
+
+Microsoft and Salesforce have been at loggerheads recently. Even though Salesforce had partnered with Microsoft, the firm had said that it would be getting most work done in Amazon’s cloud. This hostility led to Microsoft getting Hewlett-Packard Enterprise to shift from Salesforce to Dynamics 365.

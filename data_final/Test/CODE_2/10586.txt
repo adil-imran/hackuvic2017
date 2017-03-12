@@ -1,0 +1,40 @@
+http://blogs.economictimes.indiatimes.com/et-commentary/cybersecurity-play-the-forward-defence/
+1246
+12
+By Vidya S Sharma
+
+Last week, The Australian newspaper published a report regarding a massive cybersecurity breach. It related to the specifications of the Scorpène-class submarine that India is buying from the French defence manufacturing company, DCNS.
+
+The leaked documents, going up to 4,457 pages, deal with sensitive operational and technical aspects of the Scorpène, such as its stealth capabilities, frequencies used to collect intelligence, technical specifications of its torpedo launch and combat systems, how deep it can dive and for how long, etc. This leak means that the effectiveness of the Scorpène as a weapon system has been severely compromised.
+
+New Delhi is blaming DCNS for the security breach. But its denials must not be accepted at face value. The Indian government has, in the past, not levelled with its people on such hackings of their ‘secure’ computer systems. In March 2010, Union communications minister Sachin Pilot told reporters that government networks had been attacked by China, but “not one attempt has been successful”. This was despite the fact that for nearly a year prior to Pilot’s assertion, a US-Canadian team of cyber spy-hunters had been tracking the activities of a cyber-espionage network based in the Sichuan province of China. Its main target was India. Cyber spy-hunters, most from Toronto University, informed New Delhi of this theft. They were also able to re-pilfer some of these documents from computers of Sichuan-based cybercriminals. Later, in June 2010, these academics published their findings in a report, ‘Shadows in the Cloud’ (goo.gl/zPuySD).
+
+This report again reinforced that weak security at one group can result in the theft of confidential information from another organisation. This is why experts find it so hard to determine the original source of the cyberspying.
+
+In the context of the 2010 data theft, this means that either Sachin Pilot was deliberately making misleading statements, or that the Internet security software or firewall used by the Indian defence ministry was inadequate or out of date, or possibly both. Hence, Indian cybersecurity experts could not detect the breach. In the context of the Scorpène leakage, it means that both India and France will be able to blame each other for the data theft without providing conclusive proof. It is because of this fact that China, widely believed to be the most-prominent player in the field of cyberhacking, is able to strongly refute such accusations.
+
+India Lags
+
+Symantec, the manufacturer of the Norton antivirus and firewall software, ranked India in its 2015 Internet Security Threat Report second on a list of countries targeted the most by cybercriminals. The reason: inadequate Internet security.
+
+Last year, the Australian Strategic Policy Institute (ASPI) published a report, eCyber Maturity in the Asia.Pacific Region 2015f (goo.gl/H5g09r).
+
+The report attempts to assess the various facets of cyber capabilities of 20 countries: 19 countries in the Asia-Pacific region and the United States (used as a benchmark).
+
+In the ASPI report, India scores 4 out of 10 on each of the following four critical aspects of cybersecurity: ¡ Does it have an organisational structure for cyber matters, including policy, security, critical infrastructure protection?
+
+¡Does it have a publicly accessible cybersecurity assistance service, say, computer emergency response teams? ¡Does it have a cybercrime centre? Does it enforce financial cybercrime laws?
+
+¡ What is the militaryfs role in cyberspace, cyber-policy and cybersecurity? While China scored 8, 6, 5 and 8 respectively, for Japan and Singapore, the scores were 8, 10, 8, 7 and 9, 7, 7, 8. Indiafs overall weighted cyber-maturity ranking was 50, below that of Brunei (51), comparing poorly in weighted ranking with countries like Australia (79.9), New Zealand (72.8), Japan (85.1), China (64), Malaysia (68.3), Singapore (81.8) and South Korea (82.8).
+
+In fact, in data protection, China is light years ahead of India, as was evident by the fact that China launched the worldfs first quantum satellite early this month to build an eunhackablef system of encrypted digital communication.
+
+Poor Record
+
+India has a poor record in protecting its digital data. This is because Internet security is still seen by government and businesses as an expenditure and not investment in future prosperity.
+
+According to South Asian Association for Regional Cooperation, Internet security expenditure comprises 2-5% of India’s total IT budget. The same figure for developed countries is 8-10%. This means that India fails to attract the best people and innovation takes a backseat.
+
+India aspires to be a global power, a global force in computer software and hardware developments, a hub for advanced manufacturing systems. Sadly, these aspirations cannot be realised unless both the Indian government and India Inc. appreciate the significance of installing and maintaining an up-to-date and state-of-theart Internet security infrastructure.
+
+The writer is a Melbourne-based country risk management advisor
