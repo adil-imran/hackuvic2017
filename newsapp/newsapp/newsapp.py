@@ -1,9 +1,12 @@
-# all the imports 
+# all the imports
 import os 
 import sqlite3 
 from flask import Flask, request, session, g, redirect, url_for, abort, \
      render_template, flash
-
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.triggers.interval import IntervalTrigger
+import newspaper
+import atexit
 
 app = Flask(__name__) # create the application instance 
 app.config.from_object(__name__) # load config from this file
@@ -53,6 +56,54 @@ def close_db(error):
         g.sqlite_db.close()
 
 
+## Fetch article stuff:
+
+def get_news_articles():
+    print("Fetching new articles...")
+
+    # Get 10 aritcles from newspaper
+    url = "http://cnn.com"
+    paper = newspaper.build(url, memorize_articles=False,       
+            keep_article_html=True) # caching off
+    last_10 = paper.articles[-10:] # get 10 most recent articles
+
+
+    articles = []
+    for article in last_10:
+        article.download()
+        article.parse()
+        authors = ",".join(article.authors)
+        articles.append([article.url, authors, article.title, 
+                         article.text, article.top_image])
+
+    print(articles)
+
+    # Store them in the db
+    db = get_db()
+    for article in articles: 
+        db.execute('insert into articles(url, title, author, content, '
+                   'thumbnail) values (?, ?, ?, ?, ?)', 
+                   [article[0], article[2], article[1], article[3],
+                    article[4]])
+        db.commit()
+    flash('Updated the articles in the db (the real ones)')
+
+
+@app.before_first_request
+def initialize():
+    get_news_articles() # initial request
+    scheduler = BackgroundScheduler()
+    scheduler.start()
+    scheduler.add_job(
+        func=get_news_articles,
+        trigger=IntervalTrigger(hours=1),
+        id='get_news_articles_job',
+        name='Get news articles every hour', 
+        replace_existing=True)
+    atexit.register(lambda: scheduler.shutdown())
+    
+    
+
 ## Views stuff:
 
 @app.route('/')
@@ -65,12 +116,17 @@ def show_articles():
 @app.route('/get')
 def get_articles():
     db = get_db()
-    db.execute('insert into articles (url, title, author, content) values (?, ?, ?, ?)',
+    db.execute('insert into articles (url, title, author, content, ' 
+                'thumbnail) values (?, ?, ?, ?, ?)',
         ['http://www.example.com',
         'Example Title', 
         'Author Name 1, Author Name 2', 
-        '<p>This is the <strong>HTML</strong> content of an article</p>']
+        '<p>This is the <strong>HTML</strong> content of an article</p>',
+        'https://www.example.com']
     )
     db.commit() 
     flash('Updated the articles in the db')
-    return redirect(url_for('show_articles'))   
+    return redirect(url_for('show_articles'))
+
+
+

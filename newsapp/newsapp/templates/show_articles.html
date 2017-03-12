@@ -1,17 +1,37 @@
 {% extends "layout.html" %}
 {% block body %}
 
-<ul class="articles">
-    {% for article in articles %}
-        <li>
-            <h2>{{ article.title }}</h2>
-            <p>{{ article.author }}</p>
-            <p>{{ article.content|safe }}</p>
-            <p><a href="{{ article.url }}">source</a></p>
-        </li>  
-    {% else %}
-        <li><em>No articles here...</em><li>
-    {% endfor %}
-</ul>
+
+<div class="container">
+    <ul class="nav nav-tabs nav-justified">
+        <li class="active"><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+    </ul>
+    <h1>Non-Violent News</h1>
+    <div class="row">
+        <div class="col-md-7 col-lg-7">
+            <ul class="media-list main-list">
+                {% for article in articles %}
+                    <li class="media">
+                        <a class="pull-left" href={{article.url}}>
+                            <img class="media-object" style="width:120px" src="{{article.thumbnail}}" alt="...">
+                        </a>
+                        <div class="media-body">
+                            <h4 class="media-heading">
+                                <a href={{article.url}}>
+                                    {{article.title}}
+                                </a>
+                            </h4> 
+                            <p class="by-author">{{article.author}}</p>
+                        </div>
+                    </li>
+                    <!--<p>{{article.content|safe}}</p> -->
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
 
 {% endblock %}

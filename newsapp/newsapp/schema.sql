@@ -4,5 +4,6 @@ create table articles (
     url text not null,
     title text not null, 
     author text not null,
-    content text not null
+    content text not null,
+    thumbnail text not null
 );
