@@ -20,11 +20,11 @@
 			<div id="A" class="tab-pane fade in active">
 				<h1>Non-Violent News</h1>
 				<div class="row">
-					<div class="col-md-7 col-lg-7">
+					<div class="col-lg-12">
 						<ul class="media-list main-list">
 							{% for a in articles %}
-								<li class="media">
-									<div class="col-md-6 col-lg-6">
+								<li class="media" style="height:100%">
+									<div class="col-lg-10">
 										<a class="pull-left" href={{a[0]}}>
 											<img class="media-object" style="width:120px" src="{{a[4]}}" alt="...">
 										</a>
@@ -35,11 +35,11 @@
 											<p class="by-author">{{a[1]}}</p>
 										</div>
 									</div>
-									<div class="col-md-1 col-lg-1">
+									<div class="col-lg-2">
 									{% if a[5] == 0 %}
-										<span class="label label-danger">Violent!</span>
+										<span class="label label-danger" style="width:100%;display:inline-block;">Violent!</span>
 									{% else %}
-										<span class="label label-success">Non-Violent</span>
+										<span class="label label-success" style="width:100%;display:inline-block;">Non-Violent</span>
 									{% endif %}
 									</div>
 								</li>

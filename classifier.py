@@ -100,6 +100,6 @@ class ArticleClassifier(object):
 
     # expect list of articles
     # returns - list 0 or 1; 0=Non-safe and 1=safe
-    def classify(self,articleText):
+    def classify(self, articleText):
         clf = joblib.load('dft_clf.pkl')
-        return clf.predict(x)
+        return clf.predict(articleText)
