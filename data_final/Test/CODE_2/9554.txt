@@ -1,0 +1,40 @@
+http://blogs.reuters.com/financial-regulatory-forum/2016/10/11/ia-brief-if-your-program-is-a-wrap-be-prepared-2/
+115
+11
+A firm that is, or may be thinking about, participating in a wrap fee program must be conscious of the current regulatory environment and some of the increased compliance responsibilities that go along with such a program. A participating firm may have increased disclosure requirements and a need for amplified awareness of suitability for the program.A recent SEC case charged Raymond James & Associates and Robert W. Baird & Co. with failing to establish policies and procedures necessary to determine the amount of commissions their clients were being charged when sub-advisers traded with broker-dealers outside the wrap fee program. Both firms have subsequently settled with six-figure penalties.According to the SEC, both firms disclosed in brochures that wrap clients could incur additional costs from trades outside the program, but the firms didn’t collect information from sub-advisers about the costs of trading away, or how often they executed trades with other brokers.
+
+Therefore, the lack of trading data left clients unaware of how much they were paying in additional trading away costs, and the clients’ advisers were unable to consider the commission costs when determining whether a particular sub-adviser or the wrap fee program was suitable for their clients, according to the orders.
+
+Wrap fee programs have also been included in the SEC’s 2016 exam priorities. The SEC will be assessing whether advisers are fulfilling fiduciary and contractual obligations to clients and properly managing such aspects as disclosures, conflicts of interest, best execution, and trading away from the sponsor broker-dealer.
+
+Wrap fee program
+
+According to the SEC, a wrap fee program is one which any client is charged a specified fee or fees not based directly on transactions in a client’s account for investment advisory services (which may include portfolio management or advice concerning the selection of other advisers) and execution of client transactions.
+
+In a traditional wrap fee program, a client pays one fee based on a percentage of the assets under management, which also covers the transactional charges that would typically be a separate expense billed to the client.
+
+An adviser can be a sponsor of a wrap fee program, act as a manager for a wrap fee program or simply recommend wrap fee programs to their clients. A sponsor or manger will incur the most onerous disclosure requirements with all three retaining responsibility for the suitability of the program.
+
+Disclosure
+
+The Form ADV Part 1 and 2A include the disclosure of wrap fee accounts, among others. The level of disclosure depends on the level of participation.
+
+Item 5 of the Form ADV Part 1 will question whether a firm participates in a wrap fee program and what role it holds. If a firm’s involvement in a wrap fee program is limited to recommending wrap fee programs to clients, or advising a mutual fund that is offered through a wrap fee program, no disclosure is required. A firm that is a manager/portfolio manager, or a sponsor of a program, will be required to affirm the participation and list the names of the programs and their sponsors in Section 5.I.(2) of Schedule D.
+
+Appendix 1 of Form ADV 2A, also referred to as the wrap fee brochure, is usually prepared by the sponsor or administrator of a program, and is the main disclosure for wrap fee programs. Any registered adviser that is compensated under a wrap-fee program for sponsoring, organizing, or administering a wrap-fee program, or for providing advice to clients under the wrap-fee program, must provide clients the Appendix 1.
+
+The Appendix 1 contains a cover page and table of contents along with a description of the fees charged under the program, a description of the portion of fees provided to persons providing services under the program, and the services provided, among other requirements. Conflicts of interest and other material arrangements must also be disclosed in Appendix 1.
+
+The Appendix 1 must be provided prior to or at the time of entering into a written or oral agreement. The responsibility of providing the Appendix 1 is the sponsor, however, an adviser involved in the recommendation to the client may deliver the initial Appendix 1 as well. Keep in mind the Appendix 1 is not a substitute for an advisers Form ADV Part 2A, or brochure for accounts or services not affiliated with wrap fee programs.
+
+The Appendix 1 must be updated each year at the time of filing the firm’s annual updating amendment, and promptly whenever any information in the wrap fee program brochure becomes materially inaccurate.
+
+Suitability
+
+A wrap fee program allows for a less expensive option for clients whose investment objectives and risk tolerances call for active trading. However, it does present suitability considerations for any investment adviser participating in wrap fee programs.
+
+Most of the suitability review will be concentrated around fees and the comparison of clients in wrap fee programs to firm clients not in the program. In that case, a firm’s compliance program must be equipped to capture and review the fees, determine whether a client is being overcharged, and ultimately whether the program is suitable for that particular client on an ongoing basis.
+
+A common term in the brokerage space is “churning”, the practice involves excessive trading of a brokerage account to increase commission payments to the registered representative. Fortunately, a wrap fee program will protect a client from churning but could have the opposite effect, “reverse churning”.
+
+Reverse churning should be addressed during the suitability review, as the practice includes little or no trading activity, in turn not justifying the usually more expensive wrap fee program. In this case, a client would be better off in an account where the brokerage commissions are paid separately.

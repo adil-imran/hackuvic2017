@@ -1,0 +1,30 @@
+http://qz.com/808618/the-country-with-the-worlds-best-transparency-law-has-a-terrible-record-on-transparency/
+202
+20
+Mexico can boast having one of the world’s best right-to-information laws. But that means little in practice, journalists and activists say, because authorities regularly skirt the spirit of the well-regarded law—starting, it is alleged, with the government agency charged with upholding it.
+
+The National Institute for Transparency, Access of Information and Personal Data Protection, or INAI for its Spanish acronym, this week was accused of censoring data out of a new online archive it helped build to document massacres and other egregious acts of violence committed in Mexico over the past five decades.
+
+The archive, dubbed “Memory and Truth,” (link in Spanish) was co-produced with civil groups including Article 19, an international nonprofit that advocates for freedom of expression. The idea was to present all publicly available information about particularly flagrant human rights violations so that citizens could learn about them and hold authorities accountable. But less than two days before its Oct. 11 launch, INAI decided to strip out a big portion of the archive’s content in an attempt to water it down, Article 19 says.
+
+“The institute didn’t really measure the impact of the project and later got cold feet,” said David Mora, an Article 19 spokesman. “It has demonstrated to us that it is not politically independent.”
+
+INAI said that the information was removed to protect personal data, its other key responsibility. “This institute categorically denies that there’s any type of censorship,” it said in a press statement.
+
+Censored or not, the Memory and Truth project exposes the limits of Mexico’s freedom-of-information apparatus. Originally, the archive was supposed to include only the content of the government’s responses to petitions made under the access-to-information law. But after going through the 1,300 petitions involving the 15 cases of gross human violations the project focused on, Article 19 and its collaborators found that only 40% of the requests had resulted in the release of documents. Of those, many contained isolated and unrelated facts that were hard to piece together to reconstruct what happened.
+
+This is not the first time Mexico has been accused of ignoring its avowed commitment to openness. Despite a revamped 2015 transparency law that scored 136 points out of a possible 150 in the Centre for Law and Democracy’s rating system, which compares right-to-information laws around the world, journalists say it’s still incredibly difficult to obtain documents from the Mexican government.
+
+Indeed, out of the more than 16 million government records registered with INAI, more than 12 million (Spanish) have been determined to be classified and therefore withheld from the public. Meanwhile, observers including United Nations officials (Spanish) have raised serious questions about the quality of the data that is available.
+
+Such problems aren’t exclusive to Mexico. In many countries in Africa, for example, open-government advocates complain how hard it is to get information on public expenditures and government tender awards.
+
+The World Wide Web Foundation, which advocates for open data, found that even with freedom of information laws, government officials tend to be slow (pdf, p. 15) in handing over public information, and what they provide is often of poor quality. It also warns of “open washing,” or the practice of pretending to give full access to databases while only releasing relatively benign or useless portions.
+
+The laws also can give cover to uncooperative government officials who point to the mere existence of the promised access as evidence of their supposed openness.
+
+Article 19 proposed to broaden the Memory and Truth archive with data obtained from other sources, including journalists and academics. INAI agreed, went over the materials, and even said it would prepare a legal document stating that public interest in them superseded individual rights to privacy, according to Mora. But in the end, INAI said it couldn’t publish much of that information, which included pictures and video, unless Article 19 got consent from everyone involved. It’a an impossible task, Mora says, given the large number of people depicted and the fact that some of them have been forcibly disappeared and others likely have died by now. (The archive includes a well-known student massacre in 1968.)
+
+INAI also decided not to include any information at all on one of the 15 selected cases, a 2009 fire that killed 49 children at a government-sanctioned daycare. Although Mexico’s supreme court ruled that government officials were involved in serious violations of the children’s human rights in that case, INAI claimed it couldn’t include it, initially, because it was an accident, and later because the families of the dead children requested it not be published, according to Mora. INAI said in its statement that it stands by its decision, and that it will approach the parent groups to hear their concerns about releasing the information.
+
+INAI also is meeting with the civil groups involved in “Memoria y Verdad” next week to talk about how the suppressed material could be restored while protecting personal data. In the meantime, Mexicans can freely peruse through the level of transparency that authorities could muster.

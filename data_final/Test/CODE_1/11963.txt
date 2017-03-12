@@ -1,0 +1,58 @@
+http://www.enterprise-security-today.com/story.xhtml?story_id=023002KUNI2Q
+203
+20
+Kosovo Hacker Who Aided Islamic State Is Sentenced to 20 Years
+
+Ardit Ferizi wasn't your typical Islamic State soldier. He didn't travel to Syria or launch a "lone wolf" style attack. He contributed in his own way -- by hacking.
+
+The teenage computer prodigy last year broke into a well-known U.S. retailer's computers, swiped information on tens of thousands of its customers and provided a list to Islamic State of more than 1,300 names of those believed to be government and military personnel.
+
+Within weeks of the June 2015 hack, the group published the identities as part of a "kill list," urging homegrown extremists to hunt and murder the military and government officials. The publication sent chills through those on the list and represented a propaganda coup that allowed Islamic State to boast of being able to reach directly into Americans' computers, "watching your every move."
+
+In court papers and in interviews, U.S. officials say the case highlights how fast the terror threat is evolving in the age of computers and social media, especially for a terror group urging its followers to carry out "lone wolf" attacks when given the chance. It also revealed Islamic State's global reach -- Ferizi, a citizen of Kosovo, used a computer in Malaysia to hack the U.S. retailer and then forwarded the data to Islamic State operatives in Syria, who called on followers to strike the workers where they lived.
+
+"This is the blended threat," said John Carlin, the Justice Department's top national security prosecutor. "Terrorism is now occurring at the speed of cyber, and they are exploiting Western-made technology and social media platforms."
+
+Ferizi, who was arrested in Malaysia not long after the successful hack, was extradited to the United States. He was sentenced on Friday to 20 years in federal prison after having pleaded guilty to terrorism and hacking-related charges.
+
+Standing before a U.S. district judge in Alexandria, Va., on Friday, Ferizi wore a green jail jumpsuit and spoke in a quiet voice, saying he was "very sorry for what happened, making people scared."
+
+His lawyer, Elizabeth Mullin, portrayed him as a troubled, misguided drug user who did not subscribe to Islamic State's radical ideology and didn't understand the consequences of his actions.
+
+Federal prosecutors disagreed, pointing to excerpts of messages between Ferizi and well-known Islamic State recruiters that they said left little doubt he understood his work could be used in deadly ways.
+
+"This was a hit list," said Special Assistant U.S. Atty. Brandon L. Van Grack said. "This wasn't about stealing money from these people."
+
+Ferizi, 20, was born in Gjakova, Kosovo, and raised in a middle-class family who endured ethnic cleansing at the hands of the Serbs in the late 1990s, his lawyer wrote in court papers. As a 4-year-old, Ferizi and his family were forcibly removed from their uncle's home by Serbian police and watched helplessly as the uncle was executed, according to the papers.
+
+After NATO intervened in the war and stopped the fighting, Ferizi returned to a somewhat normal life and got interested in computers. By the age of 10, he was a hacking prodigy and eventually assumed the online persona of "Th3Dir3ctorY," the leader of an Albanian hacking collective responsible for breaking into government databases in Israel, Serbia, Ukraine and elsewhere, court papers show.
+
+Ferizi, who struggled with undisclosed mental health problems, kept getting into trouble and was caught hacking into a Kosovo government database, court papers show. Hoping to turn his life around and improve his computer skills so he could earn a legitimate living, he moved to Malaysia to attend college.
+
+While there, he communicated via Twitter's direct messaging system with two well-known members of Islamic State, Tariq Hamayun and Junaid Hussain, both British citizens who were fighting and acting as recruiters for the terror group in Syria. Both men had been in communication with jihadists linked to terror plots, federal officials say.
+
+The FBI found Twitter records, for example, showing that Hamayun had been communicating with one of the two men who were fatally shot by police while trying to attack a prophet Muhammad cartoon contest in Garland, Texas, in May 2015. Drawn to the Islamic State's rhetoric, Ferizi at first administered a website that published the group's violent videos and literature. He next passed along some stolen credit card data to Hamayun, who complimented the effort and said the credit card information was good enough to "do some damage."
+
+"U sound like a good person," Hamayun messaged Ferizi in April 2015, according to excerpts of their Twitter direct messages included in court filings. "Plz brother come and join us in the Islamic State."
+
+Two months later, Ferizi hacked into the U.S. retailer, which is not identified in court papers, and began stealing the identities of tens of thousands of customers.
+
+Proud of his work, he boldly emailed a representative of the company, demanding $500 in Bitcoin, an online currency, to relinquish his access to the company's computers and to explain how he had broken into them.
+
+The company's representatives reported the hack to the FBI, thinking they were the victims of an all-too-common cyberattack and extortion scheme. As the FBI traced the intrusion to Ferizi, the hacker was narrowing more than 100,000 identities down to 1,351 that had military and government email addresses.
+
+He next sent the information to Hussain, who was a member of Islamic State's cyber unit. Two months after that, Hussain and the Islamic State unit published the identities, bragging, "We are extracting confidential data and passing on your personal information to the soldiers ... who will strike at your necks in your own lands!"
+
+Clearly proud of Ferizi's work, Hussain told the hacker he was helping Islamic State to "hit them hard."
+
+"God willing," Ferizi replied in Arabic, punctuating the message with a smiley-face emoticon.
+
+Hussain then urged the young man to come to Syria to join his elite group of cyberterrorists.
+
+"We can work together here," the recruiter promised. "u will stay in the base. free food. free electric. free gas."
+
+Ferizi never got the chance. Not long after that exchange, Hussain was killed in a U.S. airstrike, and the hacker was captured.
+
+© 2016 Los Angeles Times under contract with NewsEdge. All rights reserved.
+
+Read more on: Hacker, Cybersecurity, Cybercrime, Terrorism, Data Breach

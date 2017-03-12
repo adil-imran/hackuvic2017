@@ -1,0 +1,20 @@
+http://www.4-traders.com/V-CUBE-INC-14821652/news/Cube-H3-Dynamics-and-V-Cube-Robotics-Join-Forces-to-Launch-DRONEBOX-Telerobotics-Base-Stations-acr-23198070/
+150
+15
+Japanese tele-robotics company V-Cube Robotics (VRJ) has entered a strategic partnership with Singapores H3 Dynamics to roll out the companys DRONEBOX drone deployment base station across Japan .
+
+The partnership with H3 Dynamics is part of VRJs plans to introduce fully autonomous drone deployment solutions across a number of applications including agriculture, asset inspection, security, disaster relief, and remote medical support.
+
+VRJ will initially deploy H3 Dynamics DRONEBOX in Several Prefectures and cities. Some of these have been designated as National Strategic Special Zones in an effort to implement experimental drone technology across the country.
+
+VRJ will also be delivering DRONEBOXES to a number of large Japanese corporations. These companies plan to use VRJ drone services for a variety of applications, including inspection of large solar power plants, railways, chemical plants, and road accidents.
+
+CEO of H3 Dynamics Taras Wankewycz said, This landmark partnership will see the first large-scale national roll-out of our DRONEBOX tele-robotics system. We will be working very closely with V-Cube Robotics in Japan over the next months as we continue to expand our operations globally from Singapore .
+
+Designed and built in Singapore , DRONEBOX - is a self-charging drone deployment system that connects Drones to the Industrial IoT, and brings together a large number of highly specialised data analytics services designed for end-users across several industry verticals.
+
+Key applications include enhanced resource allocation and resource optimization, predictive maintenance, safety and security. Besides connecting to the internet, the base station is grid-independent using solar and advanced fuel cell hybrid power technology, meaning it can be positioned anywhere, and operated on demand - including in very remote locations.
+
+Based in Tokyo , VRJ was founded in October 2015 as a subsidiary of V-Cube , Japans leading visual communications and tele-services company. VRJs mission is to be the lead tele-robotics service provider in Japan , building on V-cubes success in the market. CEO Taisin Demura said, We share a common vision with H3 Dynamics and are very excited to start implementing H3 Dynamics DRONEBOX solutions to customers across Japan . Through this partnership, VRJ can have great opportunity to be certain of faster realization of innovative and advanced drone platform and solutions in the market, especially to provide together advanced visual communication technology and autonomous drone deployment technology.
+
+H3 Dynamics will be presenting DRONEBOX at the upcoming CLOUD EXPO ASIA - booth O-32, October 11-12 at Marina Bay Sands Exhibition Hall in Singapore .

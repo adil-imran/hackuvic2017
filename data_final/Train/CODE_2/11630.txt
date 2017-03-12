@@ -1,0 +1,26 @@
+http://news.yahoo.com/inside-qualcomm-invisible-museum-future-164632962.html
+141
+14
+Chances are if you own an Android phone, you benefit from the power of Qualcomm’s processors every day of your life. The chip manufacturing giant is the unsung hero of the mobile industry, and its wide variety of processors power the most high-end phones on the market and a number of low-to-mid-range ones as well.
+
+Recently, Qualcomm showed off its Snapdragon 820 processor and built a convincing case as to why it should still be the chip of choice for smartphone makers. For several years now, the San Diego company has had a near monopoly on powering flagship Android phones. To showcase what its tech can do — and to help convince smartphone makers like Samsung to use Qualcomm silicon instead of its own — the company has built what it terms its Invisible Museum.
+
+The wide-ranging exhibit goes from the tech that’s coming to smartphones in 2016, to futuristic smart cities and 5G connectivity dreams. We received a guided tour through the pristine white halls of the makeshift museum Qualcomm erected in its giant CES booth.
+
+When you first walk up to it, you think it’s just a hallway with meeting rooms on either side, but if you glance at the pedestals in the center, you’re instantly reminded of MoMA and other fine art galleries. To make the invisible visible, you need Qualcomm’s tech. Our tour guide whipped out a special tablet that reads markers set on each of the six pedestals, and pulls up the corresponding demo via augmented reality technology.
+
+Related: Digital Trends Top Tech of CES 2016 award winners
+
+The first one we saw was a smart city scene, which pops up when you point the tablet at a skyscraper-like tower. Suddenly, the smart city of the future pops up with smart trash collection, smart buildings, the Internet of Medical Things, phone booths turned into Wi-Fi hubs, and more. Some of the ideas are already a reality, like the Wi-Fi booths, but others are still in the works. The main idea is to make cities more efficient and high-tech to improve quality of life, as well as assist city workers.
+
+Of course, you can’t have a smart city without smart homes, so the next demo included a high-tech house with wireless car-charging tech called Qualcomm Halo, smart lights, Vive Wi-Fi, and AllJoyn, which helps different smart home appliances talk to one another.
+
+To power all the smart devices and make sure their signals get out there, Qualcomm is also working on 5G and LTE Advanced. Both pieces of tech help ensure that no matter how many people and devices are trying to connect to the Internet, everyone can get a signal.
+
+Perhaps the cutest demo was robot chess, which is meant to demonstrate Qualcomm’s work in robotics and machine learning. We saw a virtual robot claw moving chess pieces about the board and calculating the risks and rewards of different moves.
+
+Related: Virtual Reality is big at CES 2016, but the future remains uncertain
+
+The last two exhibits in the Invisible Museum highlighted two very cool features that Qualcomm’s brought to the Snapdragon 820 mobile processor already: new audio features and a much improved photo gallery app for future smartphones. Both will be available in 2016 on Android smartphones from manufacturers who choose to add the new tech into their software.
+
+While most of the tech that ranges beyond your smartphone isn’t ready for primetime yet, Qualcomm says it will be one day soon.

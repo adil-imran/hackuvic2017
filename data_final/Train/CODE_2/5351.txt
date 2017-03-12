@@ -1,0 +1,28 @@
+http://indianexpress.com/article/lifestyle/health/how-people-type-on-computer-keyboard-may-help-treat-parkinsons-3068492/
+90
+9
+There is no cure for Parkinson’s disease, there are treatments that can reduce the severity of a patient’s symptoms. (Source: Pixabay) There is no cure for Parkinson’s disease, there are treatments that can reduce the severity of a patient’s symptoms. (Source: Pixabay)
+
+Performing ordinary tasks such as typing emails or updating Facebook status may help treat Parkinson’s disease, thanks to scientists who have developed a new monitoring technique to evaluate the patient’s symptoms as they interact with a computer keyboard at home.
+
+Although there is no cure for Parkinson’s disease, there are treatments that can reduce the severity of a patient’s symptoms. For these treatments to be effective, doctors need to regularly monitor the patient’s symptoms at home.
+
+Researchers, including those at Massachusetts Institute of Technology (MIT) in the US, have developed a technique to monitor Parkinson’s disease progression as patients interact with a computer keyboard.
+
+In this way the technique, which is based on technology originally developed to replace computer passwords, allows Parkinson’s signs to be monitored as people perform ordinary tasks such as typing emails or updating their Facebook status, according to Luca Giancardo, from MIT.
+
+“This approach uses something we do normally interacting with a digital device so it does not add any additional burden or take time away from daily activities,” he said. Existing methods to evaluate the severity of Parkinson’s signs are based on trained medical personnel assessing the patient’s ability to perform a number of movement activities.
+
+However, these assessments tend to be carried out in a clinical setting, limiting how often they can be undertaken. Researchers set out to study whether keystroke dynamics, a technique used to identify a computer user by the time they take to press down and release each key typically around 100 milliseconds could be used to monitor the motor effects of Parkinson’s disease in the home.
+
+Researchers asked 42 patients with early stage Parkinson’s disease and 43 healthy subjects to type out a text of their choosing for 10 to 15 minutes on a computer keyboard.
+
+The computer was installed with software designed to measure the timing of each press and release. When they analysed the typing data, they found a significant variation in the timing of each press and release in patients with early stage Parkinson’s disease, while in the healthy control group this was much more uniform.
+
+“By looking at the variation of this press and release, we were able to find a signature that allows us to detect Parkinson’s disease in our cohort,” said Giancardo.
+
+The system can be installed as software on a standard computer, or added to the hardware of a device, or even deployed on a webpage.
+
+Monitoring patients’ signs as they go about their daily activities could help doctors determine the most effective dosage of medication to prescribe at that time, and could ultimately help researchers to develop treatments to halt the disease, researchers said.
+
+The study was published in the journal Scientific Reports.

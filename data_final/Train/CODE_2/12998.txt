@@ -1,0 +1,46 @@
+http://www.philstar.com/technology/2016/04/01/1568289/augmented-reality-mapping-out-techs-next-mind-bending-trip
+160
+16
+SAN FRANCISCO — Virtual reality is a trip, but an even wilder ride could be around the corner as mind-bending startups and technology trendsetters try to emblazon the world with interactive holograms that enlighten, entertain and empower us.
+
+The concept, known as augmented reality, looks like something out of a science-fiction movie. Think Tony Stark, the comic-book character who scans information-filled holograms beamed in front of his "Iron Man" mask, or John Anderton, the character that Tom Cruise played while flipping through digital screens floating in the air in "Minority Report."
+
+It hasn't yet advanced as far as virtual reality, which is getting attention with this week's release of the much-hyped Oculus Rift headset from Facebook.
+
+But augmented reality has the potential to touch far more people because it's designed as a seamless supplement to everyday living instead of an escape into the artificial dimensions conjured by VR, which so far revolves around video games and 360-degree video clips.
+
+"Augmented reality is going to have a lot more practical applications simply because there are a lot more people out there who interact with things in the real world," says Greg Kipper, who studied the technology's potential in his book, "Augmented Reality: An Emerging Technologies Guide to AR."
+
+With augmented reality, the three-dimensional holograms seen through a headset are meant to be a helpful or amusing companion to the real world. When you walk through a grocery aisle, you might see a list of ingredients for making an Italian dish appear on a virtual screen before your eyes. Or an image of the solar system might start orbiting around you as you read an astronomy book.
+
+Homepage ( Article MRec ), pagematch: 1, sectionmatch: 1
+
+Don a VR headset, though, and you're surroundings are blocked off. You are cast into a different world, as a dinosaur charges through a jungle, or you're on the precipice of a 100-story skyscraper looking perilously at the street below. It has a lot in common with an amusement park ride, including the tendency to cause nausea or dizziness if you wear a VR headset too long.
+
+While startups like Meta, Magic Leap and Atheer have been making the most visible progress in augmented reality so far, technology heavyweights are also eyeing it.
+
+Microsoft has just started shipping a $3,000 version of its augmented reality headset, HoloLens, to a limited audience of computer programmers, while Alphabet Inc.'s Google has been a key investor in the $1.3 billion that Magic Leap has raised during the past two years. Apple Inc. signaled its interest last year when it bought a startup called Metaio, spurring speculation that the iPhone maker is exploring ways to infuse the project in its future products.
+
+Meta, a Silicon Valley startup with about 100 employees, is scheduled to ship its second-generation headset this summer. It's being sold as part of a $949 kit tailored for programmers to design more three-dimensional, interactive applications for the new headset.
+
+If Meta CEO Meron Gribetz realizes his vision, his company will spawn a new form of computing that will be just as revolutionary as the graphical interface that enabled personal computers to be controlled with a mouse and the touch-screen technology that helped turn smartphones into indispensable utilities. He describes Meta's technology as "an extension of your mind because it is built on the principles of your mind."
+
+Instead of staring at display screens while pecking at clunky keyboards, Gribetz foresees people navigating through an array of holographic screens suspended in front of their faces and controlled with the touch of their hands. Virtual keyboards will appear for data entry.
+
+People will be able to reach into their holographic screen, pull out a drawing of the human anatomy and remove the skeleton to study. Or they might look inside a shoe they are thinking of buying. Phone calls will become obsolete as everyone in a conversation appears as holograms that can exchange documents and data.
+
+"Virtual reality is cool, but it's just a stepping stone to augmented reality," says Gribetz, 30. "We are going to build something that is 100 times easier to use than the Macintosh and 100 times more powerful."
+
+Meta plans to use its own workers as lab rats. By next March, Gribetz plans to removes all computer screens from the company's offices in Redwood City, California. Instead, employees will use virtual screens that are seen and touched through Meta 2 headsets.
+
+Magic Leap, a startup based in Dania Beach, Florida, has created an even bigger buzz given its ties to Google, whose CEO Sundar Pichai sits on its board. In addition, Chinese e-commerce powerhouse Alibaba Group was among the investors in a $793.5 million round of fundraising completed in February.
+
+But Magic Leap has also raised intrigue with flashy videos providing brief glimpses at what it's working on. One clip shows a whale leaping out of a gymnasium floor and then splashing down before disappearing. In another scene, a pair of hands open to show a miniature elephant leaping into the air.
+
+The company has said little else about what its plans are other than its technology will make people feel like they are wizards starring in their own Harry Potter movie.
+
+"We are giving people a paintbrush to paint all the world," Magic Leap CEO Rony Abovitz said during a rare appearance at a technology conference last year.
+
+Kipper believes tantalizing images and promises like the ones coming from Meta and Magic Leap make it more likely that people will be disappointed when they first experience augmented reality. He predicts a major breakthrough is still five to 10 years away.
+
+"When you first see an augmented reality demonstration, you say, 'Hey, this is great," and then when you actually get it, you realize it's not quite what you saw in the video," Kipper says. "Everyone in the race pushing for augmented reality is sort of in a dead heat, taking millimeter steps forward."

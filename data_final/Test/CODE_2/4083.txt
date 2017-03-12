@@ -1,0 +1,18 @@
+https://www.yahoo.com/news/google-upcoming-chrome-release-fix-222137115.html
+84
+8
+The most unstable version of Google's Android browser, Chrome Canary, has finally come to mobile devices. It's publicly available, for souls with the courage to brave its unpredictable waters.
+
+Google Chrome is the browser that everyone loves to hate. It’s now the dominant browser in the market, having taken over the number one spot from Microsoft’s Internet Explorer. At the same time, Chrome has been known to drag down system performance, something that Google hopes to resolve in an update coming later this year.
+
+Specifically, Chrome 55 will represent the culmination of Google’s concerted effort to reduce memory usage, as Techspot reports. The primary culprit impacting Google’s memory footprint is the Javascript V8 engine, which is used on a variety of sites to provide for a more dynamic user experience.
+
+Updating Javascript V8 with reduced heap size and zone memory will enable the engine to use dramatically less RAM, particularly on more complex sites. In addition, Google is improving the performance of Chrome’s ‘garbage collector’ code, which cleans up RAM that’s no longer being used and releases it back to the system.
+
+Related: Google dramatically improved Chrome’s performance on the Mac
+
+Google plans to reduce the amount of RAM that Chrome uses by up to a whopping 50 percent. To date, the company has compared Chrome 55’s RAM usage compared to current versions on a variety of web sites and measured the impact of the latest updates. Sites like Imgur, The New York Times, Reddit, Twitter, and YouTube were all analyzed to confirm the overall improvements.
+
+Going forward, Google will be working toward supporting much less robust machines, including those with less than 1GB RAM. Hopefully, all of this work by the Chromium team will result in a browser that can perform well in systems with less memory as well as support more open tabs and extensions for heavier users with beefier devices.
+
+Google hopes to release Chrome 55 on December 6. You can install the Chrome beta version to be the first to receive the update, albeit with some potential bugs. If you’re looking for an alternative browser, then you’ll want to check out our head-to-head comparison of Chrome, Edge, Safari, Firefox, Opera, and Vivaldi.

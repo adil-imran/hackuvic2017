@@ -1,0 +1,72 @@
+http://www.businessinsider.com/history-antibiotic-resistance-and-superbugs-2016-9
+130
+13
+We may come to the end of antibiotics. We may run clean out of effective ammunition, and then how the bacteria and moulds will lord it.”
+
+If you had to guess where those words came from, you might well say a recent news segment on TV, or perhaps an op-ed published by a frantic doctor. After all, these days there’s a lot of talk about our antibiotic resistance crisis.
+
+Bacteria that have evolved to withstand antibiotics kill 700,000 people each year, and ever more powerful strains are spreading around the world. Researchers are worried that we will enter a post-antibiotic age, in which we are infected by bacteria that can defeat every drug medicine has to offer.
+
+Next week, the United Nations will convene a high-level meeting to coordinate the global fight against these invisible enemies.
+
+But perhaps you noticed something odd about those words above. They have a strangely old-fashioned sound. In fact, they were uttered back in 1954, by a British physician named Lindsey W. Batten.
+
+Although mostly forgotten today, Batten and other like-minded scientists were warning of a coming antibiotic crisis over 60 years ago. They were right, but they were ignored. Their failure offers some important lessons for today’s new crusaders.
+
+The danger of antibiotic resistance became clear soon after the drugs became widely available. During World War II, British and American researchers figured out how to to make enough penicillin to cure battlefield infections. Soon pharmaceutical companies were scaling up to industrial production to meet what they expected to be popular demand.
+
+Just a year after the war’s end, though, the discoverer of penicillin warned that it might become useless. Accepting his Nobel Prize in 1945, Alexander Fleming mapped out how the failure could happen. “There is the danger that the ignorant man may easily underdose himself,” Fleming said, “and by exposing his microbes to non-lethal quantities of the drug make them resistant.”
+
+Evolution might breed resistant bacteria, in other words. If people took low doses of penicillin, they’d kill off the most vulnerable microbes, but a few mutants that had partial resistance might survive. They would then multiply, and become more common. If doctors tried killing them with a higher dose, natural selection would favor even more resistant bacteria.
+
+Within a few years, doctors started encountering Fleming’s dreaded resistant strains. Batten and other scientists followed up on Fleming’s Nobel warning with calls of their own to stem the tide of evolution. But they were pretty much ignored.
+
+It’s not that other scientists denied the reality of evolution. It just didn’t seem to matter very much. Scientists at the time were discovering even more antibiotics. If bacteria became resistant to penicillin, they’d always be able to switch to a different weapon.
+
+“There was an optimism at the time that pharma was going to keep making new drugs,” said Dr. Scott Podolsky, a physician at Massachusetts General Hospital and an historian of medicine at Harvard Medical School. “It looked like an arms race, and we could stay one step ahead of the bugs.”
+
+In fact, antibiotic resistance wasn’t simply manageable: It was good for business, too.
+
+When pharmaceutical companies found a new antibiotic, they proudly advertised it as the latest solution to the growing problem of resistance. “When staphylococci resist, use a drug of choice,” Abbott declared in a 1954 ad for a new silver bullet, erythrocin.
+
+For a few years, the plan seemed to be working. Marketplace incentives could keep resistance down and patients healthy. Pharmaceutical companies didn’t just come out with individual drugs, but introduced entirely new kinds of treatments. They found compounds that could kill off a much wider range of species. They combined different antibiotics into a single pill, claiming they could kill bacteria more effectively together than they could separately.
+
+But the marketplace incentives drove companies to do more than just make new drugs. They also tried to grow their business by encouraging doctors to prescribe the pills more often.
+
+Pharmaceutical salesmen and advertisers urged a shoot-first-ask-questions-later approach to infections, starting patients on antibiotics before getting test results back. They pushed the drugs to treat colds, arguing that colds could give way to bacteria infections — never mind that antibiotics can’t actually kill viruses, the cause of colds.
+
+The rampant prescription of antibiotics finally triggered a reform campaign. But the reformers did not make antibiotic resistance their target. Instead, they spoke out against the poor quality of the new drugs.
+
+Some of the new antibiotics were turning out to be no better than existing drugs, while also having serious side effects. Chloramphenicol, widely prescribed for colds, created a small but significant risk of a deadly condition called aplastic anemia, for example. “It basically kills your bone marrow,” said Podolsky.
+
+In a struggle that lasted over a decade, reformers pushed the Food and Drug Administration to regulate antibiotics more strictly. And they succeeded, getting a number of the offending drugs off the market, with more rigorous rules for allowing new ones onto it.
+
+Meanwhile, the true threat of antibiotic resistance was growing even clearer. In the early 1960s, scientists discovered that once a resistance gene evolved in one strain of bacteria, the microbes could donate it to other strains. Microbes could load these donated genes together on a single piece of DNA, accelerating the spread of resistance even further.
+
+In 1966, an article in the magazine Look described this new vision of antibiotic resistance with near-apocalyptic rhetoric. “Are Germs Winning the War against People?” ran the headline. The article referred to these germs with a new nickname: superbug.
+
+“It’s pretty much as bad as anything we say today,” said Podolsky. “And it’s 50 years ago.”
+
+Yet organizing a fight against antibiotic resistance proved much harder than against ineffective or dangerous drugs. For one thing, the goal was fuzzier. The World Health Organization organized meetings about antibiotic resistance as early as the 1950s, but they fizzled out. The experts who came to the meetings got bogged down in arguments over how to measure resistance and what level to consider a threat to public health.
+
+It was also harder to figure out what to do to fight antibiotic resistance. To get bad drugs off the market, reformers had just one target: the FDA. To get good drugs used less often, reformers had to reach many different targets at once: doctors, hospital administrators, patients, governments, pharmaceutical companies — even to farmers who began feeding antibiotics to livestock to get them to grow bigger.
+
+Making matters worse, the campaign to regulate antibiotics had left doctors angry.
+
+“Clinicians were so PO’d about having these drugs taken away,” said Podolsky. “They were saying, ‘Who’s the FDA to be taking these drugs away? I’ve used these drugs for 30 years and my patients seem to be getting better.’”
+
+And now came more reformers, telling them that they were using too many of the drugs that were safe and effective. “That made the next generation of reformers a little more timid in the regulations that they proposed,” said Podolsky.
+
+Things really are different now, in Podolsky’s opinion. The world’s medical community has finally started to give antibiotic resistance the attention — and the money — it deserves.
+
+At the same time, we might repeat history’s mistakes.
+
+The pipeline that once seemed to keep us always ahead of the bacteria has dried up. In order to get the pipeline flowing again, some lawmakers are calling for cutting back on the tests to make sure new antibiotics are safe and effective.
+
+“There’s an irony there: That’s what these reformers in the 1960s were fighting against,” said Podolsky. “You end up with the potential for dangerous drugs ending up on the market.”
+
+History also shows that if we want to tame antibiotic resistance, we have to be ready to fight for a long time — perhaps forever. The problem is that we’re not really fighting against bacteria. We’re battling our own habits, which are deeply ingrained and hard to change.
+
+Podolsky sees this problem every time he treats a sick child whose parents plead for antibiotics, no matter what disease a child may have.
+
+“I get pressured to give antibiotics as much as anybody,” Poldosky said. “You had these wonder drugs promoted as wonder drugs. Patients received those wonder drugs, and then the next time they got a cold they asked for a wonder drug. And here I am, as a doc 50 years later, still enmeshed in that history.”

@@ -1,0 +1,26 @@
+http://www.standardmedia.co.ke/business/article/2000207235/more-depositors-vulnerable-to-malware-attacks
+130
+13
+
+
+Updated Sat, July 2nd 2016 at 00:00 GMT +3
+
+Depositors have every reason to worry after a new index showed increased frequency of malicious software that allows hackers to steal victims’ credentials.
+
+Cyber-security firm Check Point in its May Threat Index indicated that banking malware Tinba became the fourth most prevalent form of infection in Kenya. According to the technology firm this Trojan allows hackers to steal a victim’s credentials using web-injects activated when trying to log-in to their banking website. A man simulating hacking into a computer.
+
+Last month, the Central Bank of Kenya (CBK) warned its employees of an imminent cyber attack, advising them to be vigilant. “In light of this risk, we advise all staff to be cautious when opening e-mails and accessing the Internet. Do not open e-mails from unknown sources,” read at a notice at CBK’s office which also put other lenders on stand-by.
+
+According to the index, Kenya dropped a massive 46 places in Check Point’s to sit at position 37, signalling the country’s increased vulnerability to cyber-attacks.
+
+And with the country’s ubiquitous mobile internet uptake, the country also witnessed increased attacks on its android mobile devices phones. Android malware HummingBad persisted in the overall top 10 of malware attacks across all platforms during the period.
+
+In both Kenya and Nigeria, Hummingbad malware which attacks android systems ranked as the fifth most common malware.
+
+“As Bring Your Own Device (BYOD) continues to be a trend and smartphone penetration on the continent grows, companies are at an increased risk from Hummingbad in particular, and other malware,” Rick Rogers, the Area Manager for East and West Africa at Check Point Software Technologies said.
+
+“Combined with the growth in malware family numbers overall, this represents a significant business risk. Enterprises of all sizes must educate themselves on the security threats they face and invest in solid measures to protect their networks and corporate data.”
+
+The May Threat Index which also looked at other African countries found that banking or financial malware families increased generally across the continent. The index also revealed that the number of active global malware families increased by 15 per cent in May 2016.
+
+Globally, Check Point detected 2,300 unique and active malware families attacking business networks in May.

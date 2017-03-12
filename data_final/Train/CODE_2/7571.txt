@@ -1,0 +1,24 @@
+http://www.bloomberg.com/news/articles/2016-09-09/facebook-grilled-by-eu-s-vestager-over-whatsapp-merger-u-turn
+1014
+10
+Fresh from battles with Apple Inc. and Google, EU Competition Commissioner Margrethe Vestager is quizzing Facebook Inc. about a U-turn over its use of WhatsApp customer data just two years after EU watchdogs cleared the $19 billion takeover with no strings attached.
+
+Vestager said officials were now "asking some follow-up questions" about privacy-policy changes announced last month that will allow advertising on the Facebook social network and Instagram photo-sharing site draw on data from WhatsApp. The EU cleared Facebook’s WhatsApp acquisition in October 2014.
+
+"That they didn’t merge data wasn’t the decisive factor when the merger was approved, but it was still a part of the decision so therefore we’re asking some follow-ups to find out what’s going on," Vestager told Bloomberg News in Copenhagen. "What we’re going to do with the answers we get is still an open question. First things first."
+
+Vestager has focused EU antitrust scrutiny on how large technology companies use their market power. Last month, she ordered Apple to pay 13 billion euros ($14.6 billion) in back taxes to Ireland. She’s previously accused Google of abusing its role as the biggest search engine to muscle into mobile phone software, advertising and shopping search services.
+
+Apple Tax Bill
+
+“It will rankle a lot of people coming on the heels of the Apple tax bill,” said Keith Hylton, a law professor at Boston University. “The optics look kind of disturbing for Americans.”
+
+Facebook said in an e-mailed statement it was “cooperating with the commission and will continue to provide detailed information to address its questions.”
+
+EU approval for mergers can be revoked if companies provided incorrect information during the approval process. Facebook’s statement that it didn’t plan to combine WhatsApp’s data with its own wasn’t a binding pledge to regulators who approved the deal.
+
+Vestager has warned that personal data gathered by searches and online behavior helps pay for web services that people think of as free. Antitrust regulators might see problems if a company holds data that can’t be duplicated by anyone else, she said in a speech Friday.
+
+Microsoft Corp. will have to seek EU approval to buy LinkedIn Corp., a deal that might see regulators examine whether the data is long-lasting and might make it harder for new rivals to emerge, Vestager said in June.
+
+Germany’s antitrust arm is currently investigating whether Facebook unfairly compels users to accept privacy terms that aren’t in line with data protection regulation. Vestager said that "even if Facebook has broken those rules, that doesn’t automatically mean that it has also broken the competition rules as well."

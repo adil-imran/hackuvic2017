@@ -1,0 +1,52 @@
+https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/
+90
+9
+
+
+(Kacper Pempel/Reuters)
+
+A powerful surveillance program that police used for tracking racially charged protests in Baltimore and Ferguson, Mo., relied on special feeds of user data provided by Twitter, Facebook and Instagram, according to an ACLU report Tuesday.
+
+The companies provided the data — often including the locations, photos and other information posted publicly by users — to Geofeedia, a Chicago-based company that says it analyzes social media posts to deliver real-time surveillance information to help 500 law enforcement agencies track and respond to crime. The social media companies cut off Geofeedia’s access to the streams of user data in recent weeks after the ACLU discovered them and alerted the companies about looming public exposure.
+
+The popularity of Geofeedia and similar programs highlights how the rise of social media has given governments worldwide powerful new ways to monitor crime and civil unrest. Authorities often target such surveillance at minority groups or others seeking to publicly air political grievances, potentially chilling free speech, said the ACLU’s California affiliate, which unearthed Geofeedia’s relationship with social media companies through a public records request of dozens of law enforcement agencies.
+
+“These platforms need to be doing more to protect the free speech rights of activists of color and stop facilitating their surveillance by police,” said Nicole Ozer, technology and civil liberties policy director for the ACLU of California. “The ACLU shouldn’t have to tell Facebook or Twitter what their own developers are doing. The companies need to enact strong public policies and robust auditing procedures to ensure their platforms aren’t being used for discriminatory surveillance.”
+
+[A U.S. judge just disclosed how often law enforcement asked to secretly track electronic records]
+
+In a statement, Geofeedia chief executive Phil Harris said the company “is committed to the principles of personal privacy, transparency and both the letter and the spirit of the law when it comes to individual rights.”
+
+He added that the firm works to ensure “end-users do not seek to inappropriately identify individuals based on race, ethnicity, religious, sexual orientation or political beliefs, among other factors. That said, we understand. . . that we must continue to work to build on these critical protections of civil rights.”
+
+Twitter tweeted in a statement, “Based on information in the @ACLU’s report, we are immediately suspending @Geofeedia’s commercial access to Twitter data.”
+
+Facebook, which owns Instagram, said in a statement that Geofeedia was accessing its data improperly: “This developer only had access to data that people chose to make public. . .. If a developer uses our [user data] in a way that has not been authorized, we will take swift action to stop them and we will end our relationship altogether if necessary.”
+
+Most users of Twitter, Facebook and Instagram know the social media services as platforms for sharing thoughts or images with friends. But companies such as Geofeedia and others collect and analyze social media data to help their own customers track emerging online trends. Specialized data streams from social media companies can provide access to faster, more exhaustive collections of posts than otherwise are publicly available.
+
+Civil libertarians have grown increasingly concerned that the rising power of government surveillance technology is prompting a spike in the monitoring of African Americans and other minority groups through video surveillance, social media and the tracking of cellphone calls.
+
+[In Baltimore, the police and a private company are running surveillance flights like never before]
+
+“Police spying on social media has a disproportionate impact on black people,” said Malkia Cyril, the executive director of the Center for Media Justice, an Oakland-based activist group. “There’s a movement afoot to ensure that black lives matter. That is being spied upon. That is being surveilled.”
+
+Before the social media companies began blocking access in recent weeks, Geofeedia was using specialized data streams for police surveillance. In one email discovered by the ACLU, a company employee boasted that it had a “confidential legally binding agreement with Facebook” for data. Another email said users of Geofeedia could “pull private information for Instagram and Twitters.”
+
+Neither claim could be independently verified.
+
+Because social media posts increasingly provide location information from users’ smartphones, surveillance systems can map out areas of looming unrest or political activism. Geofeedia documents made public by the ACLU made references to tracking protests in Baltimore in 2015 after the death of a black man, Freddie Gray, while in police custody and also to protests in Ferguson, Mo., in 2014 after the police shooting of Michael Brown, an unarmed black man.
+
+Facebook, Twitter, and Instagram make most of their money selling advertising, but all have side businesses selling outsiders access to their rich data streams about users. For example, through software known as an API, developers have been able to use Facebook to get access to a person’s friend list, birthday, profile picture, education history, relationship status, and political affiliation - if a person’s Facebook profile and location are public. \
+
+Twitter also sells its own so-called data firehose, which includes the contents of tweets, and demographic information like gender and interests, the cellular network users and geolocation, by latitude and longitude coordinates, if the user tags it. Customers include financial firms that monitor business trends, retailers looking for product mentions, organizations like the Red Cross, which use the data to monitor crises, and law enforcement.
+
+According to the documents obtained by the ACLU, Facebook provided Geofeedia with access to a data feed that enabled the surveillance startup to monitor topics trending from public posts about events, such as riots or protests. Twitter did not provide access to the full firehose, but offered Geofeedia a database to search public tweets. Instagram provided access to the Instagram API, which included photos posted publicly as well as location information if the users tagged their pictures.
+
+News stories about Geofeedia, which was founded in 2011, first emerged last month, when the Daily Dot website reported that local police in Denver had spent $30,000 on online surveillance tools. Shortly after, the ACLU of California published public records showing that police departments across the state were rapidly acquiring social media monitoring software to monitor activists.
+
+The ACLU said the social media companies had sought to close Geofeedia’s access to the special data feeds. Facebook and Instagram closed off Geofeedia’s access on Sept. 19. Twitter imposed contractual limits in an attempt to block Geofeedia from using posts for surveillance. Twitter also sent a cease and desist letter on Monday to Geofeedia, the ACLU said. On Tuesday, Twitter announced it would block the feed to Geofeedia altogether.
+
+The civil liberties group said that social media companies should go farther in implementing public policies and other restrictions to keep their posts from being used for government surveillance. Without specialized data feeds, outside companies could still implement programs to “scrape” social media data as it becomes publicly available, but that approach would be less effective and also would violate the terms of service for some companies.
+
+In addition to Twitter, Facebook and Instagram, the Geofeedia documents found by the ACLU show that the company also analyzes data from Vine and Periscope, as well as VK and Weibo, popular social media services in Russia and China, respectively. It is not clear whether any of those companies provide special data feeds to Geofeedia.

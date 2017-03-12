@@ -1,0 +1,34 @@
+http://www.wsj.com/articles/salesforce-joins-race-for-artificially-intelligent-business-software-1474241982
+141
+14
+ENLARGE Alex Dayon, president and chief-product officer at Salesforce, said the company spent about $700 million in the past three years to buy ‘the best AI teams and data scientists in the industry.’ Photo: Eric Millette/Salesforce
+
+Salesforce.com Inc. said it would embed artificial intelligence technology into its software for salespeople, making it the latest in a gaggle of companies racing to enhance workplace tools with human-like abilities. The company will demonstrate the new software at its annual user conference next month in San Francisco.
+
+Called Einstein, the new offering is a set of online AI services designed to automate tasks, predict behavior and spotlight relevant information.
+
+Einstein is the latest in a long line of AI products branded with human-sounding names including Alexa from Amazon.com Inc., Cortana from Microsoft Corp. Siri from Apple Inc., and Watson from International Business Machines Corp. IBM and Microsoft, in particular, have spearheaded a push to offer AI services aimed at corporate users.
+
+Broadly speaking, AI is the ability of computers to execute tasks and solve problems in ways usually ascribed to humans. The group of technologies that go by this name has been credited with improving services such as photo recognition, individualized product recommendation and targeting online advertisements at particular customers.
+
+The software techniques aren't necessarily new. However, the technology has gained newfound power with the advent of large-scale cloud computing and the accumulation of large bodies of data, such as photos uploaded by users to social networks, which give computers enough material to make useful distinctions between one photo and another.
+
+Much of the recent activity has involved a technique known as deep learning, which enables computers to discern patterns in large sets of data without being told specifically what to look for. Einstein uses a combination of deep learning, predictive analytics, natural-language processing and data discovery, the process of using multiple data sources to uncover hidden trends.
+
+If Salesforce can integrate AI into its applications, the San Francisco, Calif., cloud-software provider may get a jump on competitors, said Tom Austin, vice president at research firm Gartner Inc. “There are no simple, easy applications today to buy that really work,” he said. “This is hard stuff still.”
+
+Beyond offering AI-equipped applications, Salesforce is joining companies such as IBM, Microsoft and Google in making AI services available for other companies to build into their own applications. Prior to their efforts, AI was limited to companies that could afford to hire data scientists and build large computing facilities. Providing access to AI software as a cloud-computing service over the internet lets companies tap the technology with a smaller investment.
+
+Salesforce said Einstein, which eventually will be built into a range of the company’s products, can better predict which customers are likely to buy products, and recommend which consumers a sales person should contact. It analyzes data stored on Salesforce’s servers such as customer information, email, calendar entries, and social-media posts to learn how specific consumers are likely to behave.
+
+The company said Einstein is based on technology and talent purchased in nine acquisitions. “We spent about $700 million in the past three years buying the best AI teams and data scientists in the industry,” said Alex Dayon, president and chief-product officer at Salesforce. The company employs about 175 data scientists.
+
+Salesforce acquired relationship-intelligence company RelateIQ for $390 million in July 2014, as well as sales-intelligence startup Implisit Insights, data discovery firm BeyondCore and predictive-scheduling firm Tempo.
+
+In April, Salesforce.com acquired MetaMind, which focused on deep learning. That company’s founder, Richard Socher, is Salesforce’s chief scientist and heads the company’s first research lab.
+
+Market watchers expect AI to drive a substantial market in software during the next few years. International Data Corp. predicts the world-wide market for cognitive software platforms and applications, which roughly defines the market for AI, to grow to $16.5 billion in 2019 from $1.6 billion in 2015 with a compound-annual growth rate of 65.2%.
+
+Salesforce.com faces plenty of competition in this market. IBM, for example, offers the widest array of AI services, Mr. Austin said.
+
+IBM has invested $7 billion since 2010 on more than 20 acquisitions in data analytics and cognitive computing, IBM’s particular version of artificial intelligence. Its workforce includes about 1,000 researchers devoted to its AI efforts.

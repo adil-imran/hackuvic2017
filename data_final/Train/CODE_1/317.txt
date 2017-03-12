@@ -1,0 +1,22 @@
+http://www.irishtimes.com/business/technology/cyber-attacks-spawn-fear-of-household-appliances-1.2841762
+130
+13
+The Internet of Things (IoT) has long been heralded as the future, but might last week’s substantial cyber attack, which choked internet access to a number of popular websites in the US and Europe, make us more wary of such smart appliances?
+
+IoT is the blanket term generally used to describe a world in which everyday items are connected to the internet. Most of us assume that it is a positive development, one in which our fridges remember to order milk, and our thermostats turn on the heating before we get home.
+
+However, last Friday’s massive distributed denial-of-service (DDOS) attack, which successfully limited access to sites including Netflix, Paypal, Reddit and Twitter, was the latest in a long line of cyber-security scares that have involved IoT devices.
+
+While DDOS attacks are nothing new, the increasing popularity of internet-connected gadgets gives hackers considerably more potential weaponry to deploy.
+
+According to a recent study from research firm Juniper, the number of IoT connected devices is set to number 38.5 billion by 2020, up from 13.4 billion last year. That’s a rise of over 285 per cent.
+
+A new survey published this week by the US National Cyber Security Alliance shows that the sharp rise in DDOS attacks using IoT devices is making consumers think again about the benefits of such technology.
+
+The study found some 50 per cent of US consumers have been discouraged from purchasing an IoT device due to cybersecurity concerns. Given the rise of attacks, it’s likely that consumers elsewhere will also be thinking twice.
+
+However, another key finding from the survey was that despite the growing number of connected devices in the home, 43 per cent of respondents reported either not having changed their default router passwords or not being sure whether they had done so.
+
+While those who make IoT devices need to do more to ensure such gadgets are hacker-proof, it’s obvious that consumers also need to raise their game.
+
+In an era in which fridges have been found to be capable of sending spam emails, it is no longer enough to do nothing.

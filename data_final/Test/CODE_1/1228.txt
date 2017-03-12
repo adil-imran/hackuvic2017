@@ -1,0 +1,14 @@
+http://www.express.co.uk/life-style/science-technology/708615/ransomware-cybercrime-Trend-Micro-paying-ransoms-survey-study
+1313
+13
+GETTY Paying ransomware demands may not solve your problem, this study reveals
+
+Companies hit by ransomware attacks are being urged to be more cautious about paying up after a study found that some are still not having their data released. Research carried out by Trend Micro found that a shocking one in five companies that have paid a ransom never got any of their stolen data back. The growing threat of ransomware for companies in the UK was also highlighted by the finding that 44 per cent of businesses in the country have been infected by ransomware in the last 24 months, with 27 per cent being hit more than once.
+
+GETTY Ransomware has become a growing program for many businesses
+
+Ransomware was also found to be becoming an increasingly costly problem, with the average ransom requested in the UK was £540. However, twenty per cent of companies reported having been asked for payouts of more than £1000. 57 per cent of companies also reported having less than 24 hours to pay up, with a national average of 19 hours, although overall, companies affected by ransomware estimate they spent 33 man hours on average fixing the issues caused by the infection.
+
+Despite the growing threat, many UK businesses are bullish about the effects of a ransomware attack, although many of these say that they are yet to be hit. Overall, nearly three quarters (74 per cent) of organisations who haven’t experienced a ransomware attack say they would never pay up if infected. However, around two thirds (65 per cent) of companies confronted admitted that they had paid a ransom - although only 45 per cent of these got their data back upon paying the ransom.
+
+Windows 10 Anniversary Update: 13 tips, tricks and hidden features you should be using Tue, August 2, 2016 MICROSOFT pushed out its latest blockbuster update for Windows 10 earlier this month. Dubbed Anniversary Update, it's packed with improvements, tweaks and never-before-seen features. Here are 13 tricks, tips and new features you should definitely already be using in the upgraded operating system. Play slideshow EXPRESS NEWSPAPERS 1 of 14 Windows 10 Anniversary Update rolled-out on August 2nd, bringing new features to Cortana, improvements to the redesigned Start Menu and Live Tiles

@@ -1,0 +1,44 @@
+https://www.yahoo.com/news/edward-snowden-former-boss-speaks-000606162.html
+10
+1
+The cybersecurity expert who hired Edward Snowden for his last job is laying out his lessons learned – but admits it would have been hard to stop the man who spilled some of the National Security Agency’s most closely held secrets.
+
+“Knowing what I knew at the time, l would have hired him again,” Steven Bay, a former cyberintelligence analyst for Booz Allen Hamilton, said today in Seattle at the IEEE Computer Society’s “Rock Stars of Cybersecurity” conference.
+
+“Knowing what I know now, obviously, I wouldn’t,” he added.
+
+Bay said today’s talk marked the first time he discussed his side of the Snowden story in a public forum.
+
+After the story broke, Bay lost his NSA access and had to switch to a different position at Booz Allen Hamilton, which was Snowden’s employer for those crucial few months in the spring of 2013. Bay said he couldn’t talk openly about the case until he left Booz Allen this June. Now he’s the chief information security officer for NuVasive, a medical devices company in San Diego.
+
+‘Nerded out’ at job interview
+
+Snowden’s timeline is well-known by now: After years of working at the CIA, and as a Dell contractor for the NSA, he applied for another NSA contract job in Hawaii with Booz Allen. Bay said he and his office’s technical director interviewed Snowden at a Wendy’s restaurant near the agency’s facilities in Kunia.
+
+“He was a highly technical person,” Bay recalled. “He was very passionate about internet anonymization, as he’s come out and talked about. He claimed to have run two Tor nodes out of his home … and he also claimed to have known a zero day vulnerability within Tor.”
+
+Steven Bay More
+
+Snowden knew his stuff so thoroughly that Bay said the technical director took over the interview and “basically nerded out for an hour.”
+
+Snowden got the job, and started working as an intelligence analyst at the NSA’s facility in Hawaii at the beginning of April in 2013.
+
+Bay said two red flags came up in the weeks that followed. First, Snowden began asking about a highly classified mass-surveillance program that’s now known to the public as PRISM. Bay had access to the PRISM data, but Snowden didn’t.
+
+Bay didn’t give Snowden access to PRISM, but he did provide him with some data that in retrospect he shouldn’t have. “I shared a little bit too much information,” Bay acknowledged today. He said that’s what caused him to lose NSA access after the Snowden story broke.
+
+A case of epilepsy?
+
+The second red flag popped up when Snowden started coming in late to work, only a few weeks after starting the job. When Bay asked about it, Snowden told him he was suffering from epilepsy.
+
+In response, Bay played the role of a supportive manager. Then, in mid-May, Snowden told him the epilepsy was getting worse and that he’d have to go in for tests on the following Monday and Tuesday. If the results weren’t good, he might have to be out even longer.
+
+Bay said he suggested that Snowden apply for short-term disability, but Snowden told him he didn’t want to bother with the paperwork. “Which made no sense to me … but to each his own. If he wanted to take leave without pay, take leave without pay,” Bay said.
+
+In reality, Snowden wasn’t suffering from epilepsy. Unbeknownst to Bay, Snowden took off for Hong Kong on that Monday, May 20, carrying gigabytes’ worth of NSA data with him.
+
+Bay said he received an email from Snowden the next day, telling him the test results were bad and that he’d have to take more time off work. In a reply email, Bay reminded Snowden to check in with human resources about filing for disability.
+
+“Wednesday night, the next night, he emails me back, and says, ‘OK, sounds good, I’ll get in touch with HR.’ And that was the last I ever heard from him,” Bay said.
+
+Bay tried to check in with Snowden several times afterward, to no avail. At the end of the month, Bay called his boss in Georgia, asking what to do about Snowden’s time sheet. In response, the supervisor alerted NSA’s security team to Snowden’s medical leave and his missing status.

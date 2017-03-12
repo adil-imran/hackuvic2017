@@ -1,0 +1,28 @@
+https://wickershamsconscience.wordpress.com/2016/08/08/another-patent-troll-gets-slapped/
+160
+16
+WC has been railing against software patent trolls pretty much since this blog began, back in 2008.1 Especially software patent trolls. It’s a self-inflicted wound; noting in U.S. patent law requires computer software to receive a patent. It’s a result of case law, culminating in Diamond v. Diehr, where a software algorithm implementing the Arrhenius Equation was approved for patent by the U.S. Supreme Court.
+
+It’s been a while since WC railed against software patent trolls. Recent developments give us a chance to get geeky.
+
+Congress could undo the whole, miserable software patent mess with a single amendment to patent law: “Computer software and associated algorithms shall not be eligible for patent.” Or the SCOTUS could solve the problem by deciding Diehr and its progeny were a horrible mistake and throw the line of cases out.2
+
+Because the effect of software patents has been to create an unholy, seriously harmful industry, centered in the Eastern District of Texas, devoted exclusively to the extortion of money from legitimate businesses by patent trolls.
+
+Here’s how it works. A patent troll assembles a group of investors who are more interested in profits than scruples. The troll buys software patents mostly from bankrupt tech companies, home inventors and other patent trolls. Ideally, the patents are very broadly worded, largely unknown and therefore unchallenged. The patent troll then sends out demand letters to everyone who uses software that arguably might be using the dubious software patent. A certain percentage of your victims will pay a modest amount of money to be left alone, rather than engage in an expensive, protracted fight. After the patent troll has shaken down the easy marks and has accumulated a stake, the patent troll targets a few of the big boys in tech: Apple, Samsung, Google, Microsoft and the like.
+
+The software patent troll usually brings its infringement lawsuit in the United States District Court for the Eastern District of Texas. It’s hardly a hotbed of technical innovation, but it is seen by patent trolls as the most favorable juridiction in the country for software patent trolls. There were 2,540 patent infringement cases filed in that district court alone, representing 64 percent of all such cases filed in 2015. Much of the case volume in the Eastern District of Texas is from what a recent research report deems to be high volume plaintiffs, who are filing at least 10 cases per year. I.e., patent trolls. As a result, more software patent infringement cases are tried in Texarkana, Texas than anywhere else in the country.
+
+The cost to the victims of patent trolls is estimated to have been about $74 billion in 2015. So as a consequence of the ludicrous idea that you can patent a computer program, what we have is a $74 billion parasite on the U.S. economy. The court-clogging parasite produces nothing but attorneys’ fees for lawyers and lawful extortion. That’s the real world consequence of creating software patents.
+
+All of which takes us to VirnetX v. Apple, a software patent case in, yes, the Eastern District of Texas. VirnetX is a patent troll. It acquired patents (1, 2, 3, 4) that were granted to Science Applications International Corporation, or SAIC. SAIC is a legit outfit; it employs 15,000 people and actually creates stuff.3
+
+By contrast, VirnetX has been promising for years it has plans to market various products, but all of its income comes from extorting licensing patents. It has 14 employees – doubtlessly working full time on demand letters and payments to lawyers – and leases a small office suite in Zephyr Cove, Nevada, according to its most recent yearly financial statement.
+
+VirnetX sued Apple for infringing on the four patents VirnetX acquired from SAIC. Those patents are very broadly worded, and appear to claim that Apple’s automated completion of password forms in programs like VPN and FaceTime (as opposed to the user typing the information in) encroaches on those patents. The East Texas jury took a whole four hours to decide to give VirnetX $625.6 million.4
+
+The trial judge threw the VirnetX jury verdict out last week. There was pretty egregious misconduct by VirnetX’s attorneys in the course of the trial. A new trial is scheduled for September. Because the judge split the issues into two trials (“bifurcated”), there will actually be two new trials.
+
+If you’re not hopelessly confused (or asleep) by this point, let’s recap: VirnetX’s highly dubious patents have so far resulted in two trials, one appeal, two more trials pending, and no end in sight. No products. Nothing useful. Just a pile of bogus litigation.
+
+It’s so far beyond stupid that you couldn’t find it with a telescope. Software patents simply need to end.

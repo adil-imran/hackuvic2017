@@ -1,0 +1,54 @@
+http://www.cbc.ca/radio/asithappens/as-it-happens-friday-edition-1.3814209/facial-recognition-software-sounds-like-science-fiction-but-may-affect-half-of-americans-1.3815754
+90
+9
+Facial recognition software 'sounds like science fiction,' but may affect half of Americans
+
+A photo of a computer screen running "Real Time Face Detector" software shows visitors' expressions analysed and explained in real time at the stand of the Fraunhofer Institute at the CeBIT trade fair in Hannover, Germany, in March, 2008. (John MacDougall/AFP/Getty Images)
+
+more stories from this episode
+
+
+
+Full Episode
+
+Next time you're walking down a busy sidewalk, look at the person on your left. Then, look at the person on your right. Next, look up at the security camera mounted on the side of a building. Chances are, that camera can recognize one of the people beside you. And maybe you too.
+
+That's a creepy thought. But according to a report published this week from Georgetown University, it might be a reality in the United States.
+
+An image from an October, 2016 report called "The Perpetual Line-up" from the Center on Privacy & Technology at Georgetown Law. Other research, from 2012, suggests that facial recognition software is less accurate on African Americans than on Caucasians. (Center on Privacy & Technology at Georgetown Law)
+
+The Center on Privacy & Technology at Georgetown Law used freedom-of-information requests to collect data on facial recognition software used by law enforcement agencies across the U.S. They determined that as many as 117 million Americans are caught up in a network of databases. And in many cases, there are no regulations in place for how this information can be used.
+
+RELATED: Facial recognition tool screens travellers for border officers
+
+"These are law-abiding people," Alvaro Bedoya, the Center's executive director, tells As It Happens host Carol Off. "And, historically, we haven't had law-abiding people in criminal databases, and so that's a very big problem."
+
+Alvaro Bedoya is the executive director of Georgetown Law's Center on Privacy & Technology. (Center on Privacy & Technology at Georgetown Law)
+
+Police officers can take a photo of a suspect, and then run that picture against driver's license photos to check for a match. But police can also collect images in others ways – say, at ATMs, or using continuous scans of faces that pass street surveillance cameras.
+
+And agencies aren't limited to photos in their own databases. They have access to the images of other agencies as well.
+
+But here's the most concerning part: The software makes mistakes. Some systems will simply turn up an empty search if it can't find a match with a suspect's face. "But other systems are not designed to give no for an answer," says Bedoya. "So just because the right face isn't found in that system, the system will still return the faces of people it thinks look like the face that has been submitted."
+
+Malik Z. Shabazz, right, of Black Lawyers for Justice, speaks to a group of protesters outside a Baltimore police station during a protest march for Freddie Gray in April, 2015. (Patrick Semansky/The Associated Press)
+
+The software may contain a racial bias as well. In a letter to the Department of Justice about the findings, the American Civil Liberties Union cites 2012 research that found facial recognition software is 5 to 10 per cent less accurate on African-American faces than on Caucasian ones.
+
+Last week, the ACLU revealed that the software, which has been used in Maryland since 2011, helped monitor protesters in Baltimore last year following the death of Freddie Gray. "The police took the photos that the protesters themselves had posted on Facebook, and ran them through their face recognition system," says Bedoya.
+
+The Georgetown report uses a "perpetual line-up" analogy. Rather than having suspects stand in a police line-up, allowing accusers to identify them, the software does that automatically with people who aren't even necessarily suspects.
+
+A U.S. Customs and Border Protection officer helps a man from China scan his documents while a camera records his iris and facial features to verify his documents while leaving San Diego on his way to Mexico in February, 2016. (Julie Watson/The Associated Press)
+
+Bedoya acknowledges the usefulness of facial recognition software in preventing crime and finding suspects. "We're not proposing they ban it," he said of the software. But he finds the lack of oversight worrisome. "It has never been audited, so we don't know if it's been misused."
+
+The report makes several recommendations. Facial recognition should be used only with the permission of legislative bodies, it says, and should be subject to regulation. It should also account for biases based on race, gender and age.
+
+"We have laws on the books to regulate wiretaps," Bedoya said. "We have laws on the books to regulate police drone use, and police use of automated license plate readers, and police use of geolocation tracking technology. So why aren't there laws on facial recognition?"
+
+And the technology, of course, is only going to improve. "Imagine a world where everyone's face is identified the moment they walk outside," Bedoya says.
+
+"Frankly, that sounds like science fiction. But that is very close to reality."
+
+For more on this story, listen to our full interview with Alvaro Bedoya.

@@ -1,0 +1,70 @@
+http://www.businessinsider.com/women-have-a-surprising-role-in-isis-networks-2016-9
+173
+17
+Late last week, three women were arrested in Paris for attempting to detonate a car bomb outside Notre Dame cathedral.
+
+“If at first it appeared that women were confined to family and domestic chores by the Daesh terrorist organization, it must be noted that this view is now completely outdated,” François Molins, a French prosecutor, told reporters in announcing the arrests.
+
+Molins used the French term in referring to the Islamic State.
+
+Data and disciplines
+
+It is exactly this stereotype of women doing little more than playing supporting roles in IS and other terrorist organizations that is the subject of recent research at the University of Miami.
+
+My co-investigators and I wanted to compare the role of women and men in terrorist organizations as a whole – not focus on particular stand-out individuals. As a result, we took a systems-level view. Systems analysis looks at phenomena that emerge from a collection of complex interacting objects – for example, networks of people.
+
+To understand the value of a systems approach, think about traffic. Taking apart 1,000 cars will never help you understand a traffic jam since traffic jams come from how groups of cars interact.
+
+Answering our research question about women’s roles in terrorist networks required social analysis, data collection and quantifying the evolution of groups in networks over time, so we assembled an interdisciplinary team made up of physicists, computer scientists, sociologists and terrorism experts.
+
+The data sets
+
+Our work was made possible by access to data sets from arguably the two most successful terrorist organizations in history: the Islamic State and the Provisional Irish Republican Army.
+
+Our Islamic State data consisted of the membership of their online support network. This network has been instrumental in promoting the organization’s growth by attracting recruits. This list of IS supporters was collected from open-source information on the social networking site VKontakte.
+
+Members of the online groups in the network routinely exchange operational information and attempt to generate recruits. Their discussions frequently included details of fund-raising for potential fighters who wanted to travel to Syria or transferring funds for fighters already there. They shared details about survival skills such as how to use cellphones and the internet without being detected by security services. They also shared details on how to prevent or repel a drone attack and evade certain types of drones.
+
+Since these online groups are always trying to attract further support, each group typically leaves its information freely available for anyone with an internet connection to see.
+
+This enabled us to do our work without knowing the individual’s identities beyond their open declaration of gender. As these groups were supporting violent extremism, most were shutdown by online moderators within a few weeks of being created.
+
+However, the users would simply go on to form another group or join an existing group that was still evading shutdown. The open-source data revealed that 41,880 individuals took part in these pro-IS groups over a two-month period. Of these, 24,883 were men and 66 had no declared gender. About 40 percent – or 16,931 – were women.
+
+The second data set emerged from a recent comprehensive analysis by our coauthors, John Horgan from Georgia State University and Paul Gill from University College London, of the pre-internet terrorist campaign by Provisional IRA in Northern Ireland. The data comprised a list of individuals known to have participated in each of the attacks by the Provisional IRA.
+
+During the 1980s and early 1990s, the Provisional IRA managed to sustain a successful and highly innovative improvised explosive device campaign against British interests.
+
+This was despite being subject to the security constraints imposed by the United Kingdom. Of the 1,382 total number of Provisional IRA individuals listed, only 70 people were women.
+
+Women emerge as better connected
+
+We then reconstructed a time-dependent social network for both the hardcore, online pro-IS network and the offline, on-the-street Provisional IRA network.
+
+We did this by seeing which individuals were members of the same pro-IS online group and the Provisional IRA attack group at each moment in time. For example, suppose person A is in a pro-IS online group on a given day with person B and C; then A and B, B and C, and A and C all have connections between them on that day. Since people were constantly joining and dropping out of the groups, the networks continuously evolved.
+
+We were surprised to find that in both the online IS and offline Provisional IRA networks, women acted as a far stronger “glue” than men in holding the network together. This was despite women being in the minority in both cases.
+
+The spaces between
+
+In network language, this means the women possess a “higher betweenness.” They provide a disproportionately richer resource for conflict resolution within the network, as well as providing better conduits for propaganda, financing and operational information.
+
+In plain terms, the women effectively hold the key to the flow of information, ideas and material between members within the group.
+
+The following diagram shows what having “high betweenness” means for a representative portion of these networks in which men are the majority (M1, M2, M3 and M4) and one woman (W). If you are a man in the network, you could not possibly reach all the other men without the woman being present. The connections between the men, who form the majority population, therefore, rely on the women – who are in the minority.
+
+For the hardcore pro-IS online support, for example, our results suggest that any given woman will be a conduit for at least twice as many pieces of information, know-how and materials than a man on average.
+
+Passing along information
+
+We also found that the women simultaneously manage to maintain fairly low profiles. This turns out to be favorable for individual survival given the individual risks involved in such extreme activities.
+
+The lifetime, or resilience, of an online group of pro-IS followers faced with continual shutdowns by the online moderators tends to increase as the ratio of women to men increases. Such a result is consistent with women’s tendency to be better embedded in the network.
+
+One practical consequence of our findings is that a sensible way of dealing with a terrorist network would be to engage with the women involved. This is true even if the women are in the minority and also may not currently be deemed key figures.
+
+We believe our results could also be of interest more generally, since they suggest that society could usefully redefine how it judges the importance of any minority group or individual in a network. Instead of the usual measure of how much of a “star” any individual is, our results urge decision-makers to worry more about who is the glue holding the whole group together.
+
+Neil Johnson, Professor of Physics, University of Miami
+
+This article was originally published on The Conversation. Read the original article.

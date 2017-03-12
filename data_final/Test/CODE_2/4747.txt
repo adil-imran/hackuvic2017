@@ -1,0 +1,36 @@
+http://gulfnews.com/opinion/thinkers/from-internet-of-things-to-weaponisation-of-everything-1.1878026
+874
+8
+The movement towards sovereign control of the information highway is growing and a certain degree of fragmentation already exists
+
+Who owns the internet? The answer is no one and everyone. The internet is a network of networks. Each of the separate networks belongs to different companies and organisations and they rely on physical servers in different countries with varying laws and regulations. But without some common rules and norms, these networks cannot be linked effectively. Fragmentation — meaning the end of the internet — is a real threat.
+
+Some estimates put the internet’s economic contribution to global gross domestic product as high as $4.2 trillion (Dh15.44 trillion) in 2016. A fragmented “splinternet” would be very costly to the world, but that was one of the possible futures outlined last month in the report of the Global Commission on Internet Governance, chaired by former Swedish prime minister Carl Bildt. The internet now connects nearly half the world’s population and another billion people — as well as some 20 billion devices — are forecast to be connected in the next five years.
+
+But further expansion is not guaranteed. In the commission’s worst-case scenario, the costs imposed by the malicious actions of criminals and the political controls imposed by governments would cause people to lose trust in the internet and reduce their use of it.
+
+The cost of cybercrime in 2016 has been estimated to be as high as $445 billion, and it could grow rapidly. As more devices, ranging from automobiles to pacemakers, are placed online, malicious hackers could turn the “Internet of Things” (IOT) into “the weaponisation of everything”, massive privacy violations by companies and governments, and cyberattacks on civilian infrastructure such as power grids (as recently happened in Ukraine), could create insecurity that undercuts the internet’s potential.
+
+A second scenario is what the commission calls “stunted growth”. Some users capture disproportionate gains, while others fail to benefit. Three or four billion people are still offline and the internet’s economic value for many who are connected is compromised by trade barriers, censorship, laws requiring local storage of data and other rules that limit the free flow of goods, services and ideas.
+
+The movement towards sovereign control of the internet is growing and a degree of fragmentation already exists. China has the largest number of internet users, but its “Great Fire Wall” has created barriers with parts of the outside world.
+
+Many governments censor services that they think threaten their political control. If this trend continues, it could cost more than 1 per cent of GDP per year, and also impinge on people’s privacy, free speech and access to knowledge. While the world could muddle along this path, a great deal will be lost and many will be left behind.
+
+In the commission’s third scenario, a healthy internet provides unprecedented opportunities for innovation and economic growth. The internet revolution of the past two decades has contributed something like 8 per cent of global GDP and brought three billion users online, narrowing digital, physical, economic and educational divides. The commission’s report states that the IOT may result in up to $11 trillion in additional GDP by 2025.
+
+The commission concluded that sustaining unhindered innovation will require that the internet’s standards are openly developed and available; that all users develop better digital “hygiene” to discourage hackers; that security and resilience be at the core of system design (rather than an afterthought, as they currently are); that governments not require third parties to compromise encryption; that countries agree not to attack the internet’s core infrastructure; and that governments mandate liability and compel transparent reporting of technological problems to provide a market-based insurance industry to enhance the IOT’s security.
+
+Until recently, the debate about the most appropriate approach to internet governance revolved around three main camps. The first, multi-stakeholder approach, originated organically from the community that developed the internet, which ensured technical proficiency, but not international legitimacy, because it was heavily dominated by American technocrats. A second camp favoured greater control by the International Telecommunications Union, a United Nations specialised agency, which ensured legitimacy, but at the cost of efficiency. And authoritarian countries championed international treaties guaranteeing no interference with states’ strong sovereign control over their portion of the internet.
+
+More recently, the Commission argues, a fourth model is developing in which, a broadened multi-stakeholder community involves more conscious planning for the participation of each stakeholder (the technical community, private organisations, companies, governments) in international conferences.
+
+An important step in this direction was the United States Commerce Department’s decision last month to hand oversight of the so-called IANA functions — the “address book” of the internet — to the Internet Corporation for Assigned Names and Numbers (ICANN), which, with a Government Advisory Committee of 162 members and 35 observers, is not a typical inter-governmental organisation: The governments do not control the organisation. At the same time, ICANN is consistent with the multi-stakeholder approach formulated and legitimised by the Internet Governance Forum, established by the United Nations General Assembly.
+
+Some American senators complained that when US President Barack Obama’s Commerce Department handed its oversight of the IANA functions to ICANN, it was “giving away the internet”. But the US could not “give away” the internet, because the US does not own it. While the original internet linked computers entirely in the US, today’s internet connects billions of people worldwide. Moreover, the IANA address book (of which there are many copies) is not the internet.
+
+The US action last month was a step towards a more stable and open multi-stakeholder internet of the type that the Global Commission applauded. Let’s hope that further steps in this direction follow.
+
+— Project Syndicate, 2016
+
+Joseph S. Nye, Jr, a professor at Harvard, was a member of the Global Commission On Internet Governance. This commentary draws on its report.

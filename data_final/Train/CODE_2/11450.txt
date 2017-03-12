@@ -1,0 +1,32 @@
+http://www.news.com.au/world/breaking-news/scientists-find-neural-link-to-alzheimers/news-story/e386cd0dd2e2369bbc5cc01cb588a7e1
+141
+14
+AAP
+
+Scientists find neural link to Alzheimer's
+
+Scientists demonstrated the mechanism in mice engineered to suffer Alzheimer's-like symptoms, and used an antibody to block it.
+
+A human version of the same molecule is being developed by a US biotech company as an experimental treatment for neurodegenerative and autoimmune disorders.
+
+The researchers showed how neural connections, or synapses, are lost in the earliest stages of Alzheimer's, before symptoms appear or tell-tale protein fragment "plaques" accumulate in the brain.
+
+They found that, ironically, what lies behind this destructive effect is a vital component of normal brain development during infancy and childhood.
+
+As the young brain develops, excess synapses have to be "pruned" to keep neural circuitry in order. Defensive cells called microglia "eat" the synapses, guided by so-called "complement" proteins that assist the immune system.
+
+The US team found the same pruning mechanism, operating inappropriately, was responsible for early synapse loss in Alzheimer's disease.
+
+Central to the process was a particular complement protein called C1q. When the C1q signalling pathway was blocked, synapse loss in the mice was halted.
+
+Lead researcher Dr Soyon Hong, from Boston Children's Hospital, said: "Microglia and complement are already known to be involved in Alzheimer's disease, but they have been largely regarded as a secondary event related to plaque-related neuroinflammation, a prominent feature in progressed stages of Alzheimer's.
+
+"Our study challenges this view and provides evidence that complement and microglia are involved much earlier in the disease process, when synapses are already vulnerable, and could potentially be targeted to preserve synaptic health."
+
+Synapse loss is known to occur in other conditions affecting the brain and optic nerves, including fronto-temporal dementia, Huntington's disease, schizophrenia and glaucoma.
+
+The research is reported in the latest issue of the journal Science.
+
+A human form of the C1q-blocking antibody is at an early stage of development at Annexon Biosciences, a biotech company in San Francisco.
+
+The hope is that the therapeutic agent, known as ANX-005, can be used to treat a number of neurodegenerative and autoimmune conditions.

@@ -1,0 +1,16 @@
+http://www.thehindu.com/news/national/defacing-of-websites-by-pakistani-hackers-only-a-propaganda/article9208516.ece
+130
+13
+While those behind the recent cases of Indian websites being defaced are claiming to be waging a ‘cyber war’ to avenge the surgical strikes against Pakistan earlier this month, police and cyber experts agree that these are attempts to salvage a bruised ego and are doing very little actual damage.
+
+On October 3, the website of the National Green Tribunal in Delhi was hacked and pro-Pakistan messages were left on the home page. The next day, the website of a Kerala-based institute was defaced in a similar fashion, while on Monday evening, the website of the Government Law College (GLC) in Churchgate was targeted.
+
+The GLC had on Monday informed the Marine Drive police about the incident, and the Cyber police in BKC have initiated parallel inquiries into the matter, a Cyber police officer confirmed. The officer, however, said the attacks were aimed more at creating propaganda than at causing any actual loss.
+
+“In all the three cases, the perpetrators only put up a poster on the home page of the target websites. A cyber attack is considered a ‘hack’ when someone takes over control of a particular website or web page, which was not the case in any of the three incidents. Further, the perpetrators could not access any data or cause any damage to the operations of the institutions,” said the officer.
+
+The fact that Pakistani hackers were targeting websites with extremely low safeguards against hacking was an indicator of their prowess and the fact that these incidents were little more than attempts to save face in any way possible. “An attack on the ground cannot be avenged by a few easy attacks in the cyberspace,” another officer said.
+
+Cyber expert Vijay Mukhi said, “Government websites are like low-hanging fruits, easy to target due to their lack of security. For some reason, the Centre does not believe in upgrading its cyber security infrastructure. Such attacks on government websites keep happening but do not make a dent. Pakistani hackers have till date not been able to hack and take control of any privately-owned website.”
+
+Cyber police officers said a study of attacks over the past few years has showed a similar trend, where loosely-guarded government websites have been defaced with pro-Pakistan messages. “The aim is to try and create a feeling among the laymen that Pakistani hackers are capable of cyber warfare, whereas in reality, such hackers have not accomplished anything beyond spreading propaganda during the short period till the defacement is discovered and the particular web page shut down,” an officer said.

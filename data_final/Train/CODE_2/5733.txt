@@ -1,0 +1,34 @@
+https://www.yahoo.com/news/doctors-beat-online-symptom-checkers-diagnosis-contest-213450766.html
+90
+9
+By Kathryn Doyle
+
+(Reuters Health) - Doctors are much better than symptom-checker programs at reaching a correct diagnosis, though the humans are not perfect and might benefit from using algorithms to supplement their skills, a small study suggests.
+
+In a head-to-head comparison, human doctors with access to the same information about medical history and symptoms as was put into a symptom checker got the diagnosis right 72 percent of the time, compared to 34 percent for the apps.
+
+The 23 online symptom checkers, some accessed via websites and others available as apps, included those offered by Web MD and the Mayo Clinic in the U.S. and the Isabel Symptom Checker in the U.K.
+
+“The current symptom checkers, I was not surprised do not outperform doctors,” said senior author Dr. Ateev Mehrotra of Harvard Medical School in Boston.
+
+But in reality computers and human doctors may both be involved in a diagnosis, rather than pitted against each other, Mehrotra told Reuters Health.
+
+The researchers used a web platform called Human Dx to distribute 45 clinical vignettes - sets of medical history and symptom information - to 234 physicians. Doctors could not do a physical examination on the hypothetical patient or run tests, they had only the information provided.
+
+Fifteen vignettes described acute conditions, 15 were moderately serious and 15 required low-levels of care. Most described commonly diagnosed conditions, while 19 described uncommon conditions. Doctors submitted their answers as free text responses with potential diagnoses ranked in order of likelihood.
+
+Compared to putting the same information into symptom checkers, physicians ranked the correct diagnosis first more often for every case.
+
+Doctors also got it right more often for the more serious conditions and the more uncommon diagnoses, while computer algorithms were better at spotting less serious conditions and more common diagnoses, according to the results published in a research letter in JAMA Internal Medicine.
+
+“In medical school, we are taught to consider broad differential diagnoses that include rare conditions, and to consider life-threatening diagnoses,” said Dr. Andrew M. Fine of Boston Children’s Hospital, who was not part of the new study. “National board exams also assess our abilities to recognize rare and ‘can't miss’ diagnoses, so perhaps the clinicians have been conditioned to look for these diagnoses,” he said.
+
+“Physicians do get it wrong 10 to 15 percent of the time, so maybe if computers were augmenting them the outcome would be better,” Mehrotra said.
+
+“In a real-world setting, I could envision MD plus algorithm vs MD alone,” Fine told Reuters Health by email. “The algorithms will rely on a clinician to input physical exam findings in a real-world setting, and so the computer algorithm alone could not go head to head with a clinician.”
+
+Computers may be better suited to amend or reorder diagnoses based on new information in certain settings, like the emergency room, he added.
+
+“Patients need to know that most (symptom checkers) have limited accuracy, and should not be considered a substitute for a history and physical examination by a healthcare provider,” said Dr. Leslie J. Bisson of the University at Buffalo department of orthopedics in Amherst, New York, who was not part of the new study.
+
+SOURCE: http://bit.ly/2e78GBa JAMA Internal Medicine, online October 10, 2016.

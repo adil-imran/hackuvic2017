@@ -1,0 +1,22 @@
+http://gas2.org/2016/04/13/texting-new-york-crash-investigation-law/
+202
+20
+Texting Subject Of New York Crash Investigation Law
+
+April 13th, 2016 by Steve Hanley by
+
+We all know that texting while driving is a bad idea. Time was, if you saw some driver weaving all over the road, going through a red light, or driving too slow for conditions, your first thought was “drunk driver.” Today, our first instinct is the driver must be texting. One of the biggest reasons for the push behind autonomous driving technology is to protect us from clueless clods who aren’t paying attention to driving while behind the wheel.
+
+New York is considering legislation that would allow police to scan your cell phone after a collision using a device called a textalyzer. It can’t access your contacts or your actual texts, but it can determine if your phone was in use when the accident occurred. If the textalyzer reveals that you were using your phone at the time, the police can then seek a warrant to get more pertinent information from your phone. Failure to turn over your phone would be grounds for a suspension of your driver’s license, just like refusal to take a Breathalyzer test.
+
+The textalyzer is made by Cellebrite, an Israeli company that was recently involved in the courtroom drama between Apple and investigators in California. The authorities wanted Apple to help them hack the smartphone of the shooter in the recent massacre in San Bernardino. Apple refused. In the end, government agents were able to get the access they needed. Cellebrite is rumored to be responsible for providing the technology to hack the phone without Apple’s assistance, according to Ars Technica.
+
+The group behind the proposed legislation is Distracted Operators Risk Casualties, a lobbying organization similar to Mothers Against Drunk Driving. It was founded by Ben Lieberman, whose teenage son was killed by a distracted driver. He was unable to prove the other driver was distracted until the family sued for the phone records reports AutoBlog.
+
+“When people were held accountable for drunk driving, that’s when positive change occurred,” Lieberman said in a press release. “It’s time to recognize that distracted driving is a similar impairment, and should be dealt with in a similar fashion. This is a way to address people who are causing damage.”
+
+The Centers for Disease Control say an average of 27 people are killed by drunk drivers on America’s roads every day. That’s far more than deaths from distracted drivers. That number is 8 per day, according to the CDC. But distracted driving statistics may be artificially low simply because there is no way to uncover cell phone use as effectively as determining that alcohol was a factor. Perhaps having textalyzers in general use would reveal that distracted driving is responsible for more deaths and injuries than we thought.
+
+Little is known about the Cellebrite technology. If you get a notification from Facebook or your e-mail provider near the time a collision occurs, will that be enough to make the textalyzer tell the cops you were using your cell phone at the time? Will you have to open your phone to authorities, including all your private communications, in order to disprove a false positive from the machine? No one knows.
+
+A generation ago, many motorists were issued speeding citations based on readings by radar guns. It took defense attorneys decades to convince the courts that these wonders of modern technology were often inaccurate. If the law passes, expect fresh challenges for the courts to consider.

@@ -1,0 +1,74 @@
+http://www.4-traders.com/SINGAPORE-AIRLINES-LTD-6491138/news/Singapore-Airlines-Announces-Winners-Of-App-Challenge-23193730/
+1031
+10
+11 October 2016 - It was an intense weekend for the participants of Singapore Airlines' second App Challenge as they sought to build a digital travel application that would stand out amongst the rest and win the top prize of the competition.
+
+
+
+130 students from 9 Singapore-based universities and polytechnics participated under the Student Category for the finale event of the Challenge which took place on Saturday, 8 October 2016 at The Hangar by NUS Enterprise. A further 90 participants took part under the Open Category.
+
+
+
+Based on the theme of 'SingaporeAir, A Great Way to Fly', participants were provided three real-world business challenges related to the aviation industry and had to showcase their creativity to develop digital applications suited for the modern traveller. Details of the business challenges can be found at Annex A. Teams were evaluated based on the following criteria: innovation, business value, technical competency, user experience and presentation.
+
+
+
+With their prototype of a chat robot or chatbot that helps passengers throughout the travel journey from booking to destination, Team SIAla managed to impress the judges to clinch the top place under the Student Category. The first and second runners-up were Team KrisDiscover and Team Atom.
+
+
+
+The winning team of the Student Category won a trip to Silicon Valley in the US, the global capital of technology and innovation, where they will meet with executives from companies such as Airbus, Google and IBM. The second and third place teams won 50,000 and 30,000 KrisFlyer miles, respectively. An additional Red Hat OpenShift Award of a prepaid MasterCard amount worth USD2,000 went to Team SIAla. The winning team and selected participants under the Student Category may also be offered an internship stint with SIA.
+
+
+
+For the Open Category, members of Team Fearow went away with the grand prize of a Singapore Airlines return ticket each to any destination that the Airline flies to as well as SGD5,000. Team Vacationeer was awarded the second prize of SGD3,000 while third prize went to Team Murphy, who won SGD1,500. The Red Hat OpenShift Award for the Open Category went to Team Deep Flight.
+
+
+
+Registration commenced on 18 July 2016 and received overwhelming responses from the public and various tertiary institutions. The competition began with a Kick-Off session on 1 October where the business challenges were unveiled and tools such as development platforms and application programming interfaces (APIs) from leading aviation and technology partners were shared with participants.
+
+
+
+The event was supported by industry partners such as Microsoft, TCS, IBM, Red Hat, NUS Enterprise, Amadeus, SITA, Salesforce, NUS Institute of Systems Science, Deloitte, Cisco, StarHub, Singtel, Expedia and PayPal. Over a period of a week, participants were guided by these industry partners as well as representatives of Singapore Airlines as they developed their application prototype.
+
+
+
+"Given the short period of time which they had to work on and complete their prototypes, it is amazing to see the various applications created by the teams. They have put in so much effort and determination into developing the prototypes. Every participant deserves a pat on the back for a job well done. Our heartiest congratulations to all for persevering until the end," said Singapore Airlines Senior Vice President Information Technology, Mr George Wang.
+
+
+
+ANNEX A
+
+
+
+SIA App Challenge - Business Challenges
+
+
+
+Challenge 1:
+
+
+
+Travel Experience
+
+Singapore Airlines is associated with comfort and excellence of service standards. How can we leverage on technologies to provide products and services over and above what we are already doing to ensure a fuss free, delightful and engaging end to end travel experience time after time?
+
+
+
+Challenge 2:
+
+
+
+Customer Service
+
+Singapore Airlines aims to provide the best customer service to our passengers.
+
+How may we leverage on technologies such as AI, Virtual Personal Assistant, AR, IoT to continually enhance our service delivery?
+
+Challenge 3:
+
+
+
+Brand Loyalty
+
+In addition to the use of traditional media, how can we leverage on technologies to help increase customer loyalty and to be the preferred airline to our potential customers?

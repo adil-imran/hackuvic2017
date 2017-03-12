@@ -1,0 +1,26 @@
+http://www.thehindu.com/business/Economy/centre-to-block-content-on-child-abuse/article9147031.ece
+13
+1
+About 850 sites were banned last year after an SC order.
+
+In an attempt to protect children from sexual abuse online, the government will soon issue an advisory to Internet Service Providers, asking them to filter and block related objectionable images, videos as well as text.
+
+“In compliance with the provision of the (IT) Act… websites/portals and ISPs should deploy filters/technological tools to block/disable any such child sexual abuse images, videos and text available on the Internet,” according to a draft note prepared by the Ministry of Electronics and IT and reviewed by The Hindu.
+
+Last year, the government had banned more than 850 sites citing the Supreme Court’s directions to address the menace of pornography, especially child pornography.
+
+However, the move did not go down well with a majority of users who took to social media to criticise it. The Centre later clarified that the move was temporary and it was planning a long-term policy to tackle online child sexual abuse.
+
+The advisory also suggests a framework for the users’ to report occurrences of such content online. “Websites/portals and ISPs being intermediaries shall publish on its website the name of the grievance officer and his contact details along with a complaint-redressal mechanism.” Publishing or transmitting of material depicting children in sexually explicit acts in electronic form is punishable under section 67B of the IT Act, 2000.
+
+The ministry is also planning a curriculum on cyber-bullying which may be incorporated in the CBSE syllabus. The content, targeted at children aged between 8-10 years, will educate them on how to use the Internet.
+
+“Child abuse content online is a big nuisance and we want to help stop it. We are waiting for instructions from the Ministry of Telecom, who is our licensor, on which websites to block. We can not judge and decide on our own what qualifies as child porn and what doesn't. We have to work on the licensor's advise,” Rajesh Chharia, President at Internet Service Providers Association of India’s (ISPAI) said
+
+A recent report by Unicef pointed out that the growing access to and use of ICT by children increases their exposure to potential risks of online abuse and exploitation. Online sexual abuse (child pornography), cyberbullying, cyberstalking and webcam sexual abuse are just some of the several forms of sexual abuse through Internet, it added. The report also cited data from an IAMAI survey undertaken in 35 Indian cities, which states that about 28 million out of a total of 400 million Internet users are school-going children.
+
+Mr. Chharia added that ISPs will work together to educate users on the use of free tools that can filter objectionable content. “These tools can be downloaded and installed in the computer. The filter of content will have to be done by the user,” he said, adding that if ISPs come across such content they will report it to the government who then can issue orders to block them.
+
+He also pointed out that search engines, which presently block a few key words should block search results for such content.
+
+“Search engines claim that they are socially responsible. However, they only block key words and not search results. Child abuse is illegal in almost all over the world. People don't know the name of these websites, they search for them through these search engines,” he said.

@@ -103,10 +103,3 @@ class ArticleClassifer(object):
     def classify(self,articleText):
         clf = joblib.load('dft_clf.pkl')
         return clf.predict(x)
-
-
-
-
-
-
-

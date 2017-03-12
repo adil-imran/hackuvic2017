@@ -1,0 +1,44 @@
+http://www.huffingtonpost.co.uk/renate-samson/digital-economy-bill_b_12429898.html
+120
+12
+Ed Freeman via Getty Images
+
+Back in May the Queen announced during her speech at the State Opening of Parliament that her Government would be bringing forward access to high speed broadband and legislation to make the United Kingdom a world leader in the Digital Economy. The legislation referred to was the Digital Economy Bill, a Bill which is now being subjected to line by line scrutiny by Public Bill Committee in the House of Commons.
+
+At the time the Bill was published I pointed out that buried deep in the Bill, away from the headline grabbing high speed broadband for all, were plans for government and public authorities to begin sharing all our personal data in order to improve the delivery of public services.
+
+I rather boldly announced that "If government is planning to gain greater access to our private information, store it, share it and potentially create large databases of it, we will face a data sharing scheme which would make the intrusive and scrapped ID card scheme blush."
+
+When the Bill was published in July it was clear that the first physical reaction wasn't going to be a blush but a head scratch. Why? Well Part 5 of the Bill, the bit about digitising government and the sharing of our personal data , not only doesn't define what personal data is it doesn't even explain how it will be shared. Confused? I was.
+
+But it's not just the lack of definition that's the problem. The lack of safeguards and failure to adhere to current data protection law let alone the new general data protection regulations set to be law by the end of May 2018, is frankly staggering.
+
+But why should safeguards, data protection and definitions of data matter?
+
+Well when you consider that our personal data is becoming as important to our existence as the air we breathe, knowing why your data is being shared and how it is going to be protected is the simple A,B,C of being a sensible digital citizen.
+
+That might sound hyperbolic, but our data is our digital currency, it requires as much protection as we would give our physical selves, it should not be taken from our control without reassurance that it is safe wherever it goes.
+
+When you look at the news and see that almost every week a new data breach or hack is being reported it becomes clear that the protection of data is not a whimsical desire but a fundamental necessity
+
+A fortnight ago we learned that 500 million Yahoo accounts were breached. Only a few days later we learned that Talk Talk were being fined £400,000 for their inability to protect over 150,000 people's personal information from being hacked.
+
+And it is not just private companies who are being careless.The National Audit Office recently reported that 9000 data breaches occurred across government departments between 2014 and 2015, only 14 of which were reported.
+
+You would think, in light of all of this activity, government would shy away from asking us for more access to our personal information without making abundantly clear how they intended on keeping it safe. But that doesn't seem to be the case. The only insight into what the protections are meant to be we are told will be in the codes of practice; codes which are yet to be published, despite the Bill already progressing through Parliament.
+
+It is a crying shame, because what the government seek to achieve by establishing digital engagement between citizen and state is admirable. Improved public services, better assistance for the vulnerable, targeted benefits, help for new parents, the recently deceased and most importantly the basic improvement of all our lives through improved access to government services. All this and more will be scuppered because of a lack of foresight about how the digitisation of data will require proper protections to keep us safe.
+
+If the government really want to be world leaders in the digital economy, establishing a data trust gateway, with citizens, rather than concentrating on internal "permissive data gateways" would be a start.
+
+Ensuring that the citizen controls their data rather than the state, then asking us for access to relevant data rather than access to everything, would be an excellent next step.
+
+These may seem like big asks, but if government are prepared to look at the work the Government Digital Services and countless private start ups are doing in this area, they will see their big data ideas can flourish rather than flounder.
+
+
+
+We hope that the Committee scrutinising the Bill are brave enough to acknowledge that Part 5 is an old fashioned approach to a very modern problem. Rather than amend Part 5, we hope they send it back from where it came and push for a rewrite so that this legislation can be meaningful rather than meaningless.
+
+If anyone wants to learn more about the Digital Economy Bill, not just Part 5, the Public Bill Committee are encouraging engagement and are seeking submissions from the public, more detail can be found here. For more information on our concerns please visit Big Brother Watch
+
+Follow Renate Samson on Twitter: www.twitter.com/renatesamson

@@ -1,0 +1,58 @@
+http://www.dailymail.co.uk/indiahome/indianews/article-3837007/Our-control-room-hack-proof-Delhi-police-claim-fool-proof-computer-Indian-Pakistan-cyber-war-begins-anew.html
+190
+19
+Hackers using foreign servers have made a clutch of unsuccessful attempts this year to break into the Delhi Police control room.
+
+Security researchers say the Pakistani state and computer jocks often attack soft targets in India such as University websites lacking sophisticated security.
+
+But the police department says it has a fool-proof computer system at the control room that is not connected to the Internet.
+
+Hackers using foreign servers have made a clutch of unsuccessful attempts to break into the Delhi Police control room, but the police department says that its systems are fool-proof
+
+The entire mechanism works on an internal network that protects it from getting hacked as it is isolated from the outside world.
+
+An officer said Delhi Police have an analogue system to answer emergency calls in case the system gets hacked or infected by a virus.
+
+According to cyber experts the intensity of attacks has increased manifold as after targeting government websites, hackers have homed in on the Delhi Police control room and have also claimed to have gained access to the Global Positioning System (GPS) server of some state police.
+
+Indian experts have also confirmed that there was a breach in the GPS server but said claims of access by Pakistani hackers were false.
+
+Experts say hackers and even nation states have used 'cyber weapons' to knock out electrical grids, disable domestic airline networks, jam Internet connectivity, erase money from bank accounts and confuse radar systems across the world.
+
+Over confident? The Delhi police department says it has a fool-proof computer system at the control room that is not connected to the Internet
+
+According to a senior officer, unidentified persons attempted to access to the Delhi Police control room recently but could not break into the high-tech system.
+
+A similar failed attack on the control room was witnessed before January 26 this year.
+
+The official website of Delhi Police was shut down immediately as a precaution for a few hours.
+
+"We have customised our system in such a way that it will not get affected by any such hacking attempts," said a senior officer with the control room.
+
+"Hackers are continuously bombarding to take over the Delhi Police control room but they will never succeed."
+
+The officer said a special investigation team was formed to identify the hackers and the locations were traced to Russia and Germany.
+
+A fresh set of guidelines was issued to the entire staff and cyber security system after these attempts.
+
+Mail Today reported this week that Indian hackers broke into the Pakistan government network, locking their computers and data.
+
+In retaliation, Pakistani hackers claimed to have gained access to the GPS of police vehicles but refused to furnish details of states and cars compromised by them.
+
+The cyber war between India and Pakistan started afresh after a terrorist attack on a military camp in Kashmir’s Uri sector last month.
+
+Indian hackers retaliated only after their Pakistani counterparts defaced Indian sites and circulated videos saying India’s surgical strikes in Pakistan-occupied Kashmir (PoK) were "fake".
+
+But the recent statements by Pakistani hackers have raised serious concerns as Pakistani hacker Fakir has claimed to have gained access to servers that maintain data and information about locations of police vans.
+
+Fakir claims he can track the location of the vehicles and can spot where they are in real time.
+
+He also said he could halt these vehicles. To provide proof of his attack, he also shared a screenshot in which locations of close to 40 vehicles in Madhya Pradesh were shared.
+
+The cyber war between India and Pakistan started afresh after a terrorist attack on a military camp in Kashmir’s Uri sector last month
+
+Experts in India confirmed that there was a breach and termed it "critical", but rubbished Fakir’s assertion of getting control over the police vans.
+
+"The hacker got access to the server which stores the data but actual magnitude of loss of information is yet to be confirmed. He got access to location of police vans, which is sensitive data but the attack was limited to Madhya Pradesh," said Delhi-based cyber expert Amit Dubey.
+
+Even Delhi Police say it is impossible to hack into their PCR network.
