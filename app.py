@@ -40,8 +40,7 @@ def initialize():
 @app.route("/")
 def hello():
 	articles = get_news_articles('http://cnn.com') # each article is ['url', [authors], 'headline', 'text']
-    return render_template('home.html', articles=articles)
-
+	return render_template('home.html', articles=articles)
 
 if __name__ == "__main__":
-    app.run()
+	app.run()
