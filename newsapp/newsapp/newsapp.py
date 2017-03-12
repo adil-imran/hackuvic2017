@@ -63,9 +63,11 @@ def get_news_articles():
 
     # Get 10 aritcles from newspaper
     url = "http://cnn.com"
-    paper = newspaper.build(url, memorize_articles=False,       
+    paper = newspaper.build(url, memoize_articles=False,       
             keep_article_html=True) # caching off
     last_10 = paper.articles[-10:] # get 10 most recent articles
+
+    print "test"
 
 
     articles = []
