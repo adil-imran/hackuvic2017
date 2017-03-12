@@ -3,6 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.naive_bayes import BernoulliNB
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 from sklearn.model_selection import GridSearchCV
 import numpy as np
@@ -53,7 +54,10 @@ train_data_X, train_data_Y =  readData(train_file_loc)
 test_data_X, test_data_Y =  readData(test_file_loc)
 
 
-cv = CountVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =True,max_features =170)
+# cv = CountVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =True,max_features =70)
+cv = TfidfVectorizer(input ='total_feature_list',stop_words = {'english'},lowercase=True,analyzer ='word',binary =False,max_features =70)
+
+'''
 train_data_X = cv.fit_transform(train_data_X).toarray()
 
 clf = DecisionTreeClassifier(max_depth=5)
@@ -61,8 +65,15 @@ clf = clf.fit(train_data_X, train_data_Y)
 
 test_data_X = cv.fit_transform(test_data_X).toarray()
 print "DecisionTreeClassifier score :", clf.score(test_data_X,test_data_Y)
+'''
 
 
+
+clf = RandomForestClassifier(n_estimators =70)
+clf = clf.fit(train_data_X, train_data_Y)
+
+# test_data_X = cv.fit_transform(test_data_X).toarray()
+print "RandomForestClassifier score :", clf.score(test_data_X,test_data_Y)
 
 
 
