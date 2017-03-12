@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<ul class="articles">
+    {% for article in articles %}
+        <li>
+            <h2>{{ article.title }}</h2>
+            <p>{{ article.author }}</p>
+            <p>{{ article.content|safe }}</p>
+            <p><a href="{{ article.url }}">source</a></p>
+        </li>  
+    {% else %}
+        <li><em>No articles here...</em><li>
+    {% endfor %}
+</ul>
+
+{% endblock %}

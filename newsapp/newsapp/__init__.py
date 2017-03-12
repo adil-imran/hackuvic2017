@@ -1,0 +1,1 @@
+from .newsapp import app

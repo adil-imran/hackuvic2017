@@ -1,0 +1,9 @@
+MANIFEST.in
+newsapp/__init__.py
+newsapp/newsapp.py
+newsapp/schema.sql
+newsapp.egg-info/PKG-INFO
+newsapp.egg-info/SOURCES.txt
+newsapp.egg-info/dependency_links.txt
+newsapp.egg-info/requires.txt
+newsapp.egg-info/top_level.txt

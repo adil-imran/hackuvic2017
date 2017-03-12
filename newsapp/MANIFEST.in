@@ -1,0 +1,3 @@
+graft newsapp/templates
+graft newsapp/static
+include newsapp/schema.sql
