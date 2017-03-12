@@ -67,18 +67,13 @@ def get_news_articles():
             keep_article_html=True) # caching off
     last_10 = paper.articles[-10:] # get 10 most recent articles
 
-    print "test"
-
-
     articles = []
     for article in last_10:
         article.download()
         article.parse()
         authors = ",".join(article.authors)
         articles.append([article.url, authors, article.title, 
-                         article.text, article.top_image])
-
-    print(articles)
+                         article.text, article.top_image.encode('ascii', 'ignore')])
 
     # Store them in the db
     db = get_db()
@@ -111,7 +106,7 @@ def initialize():
 @app.route('/')
 def show_articles():
     db = get_db()
-    cur = db.execute('select url, title, author, content from articles order by id desc')
+    cur = db.execute('select url, title, author, content, thumbnail from articles order by id desc')
     articles = cur.fetchall()
     return render_template('show_articles.html', articles=articles)
 
